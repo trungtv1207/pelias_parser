@@ -9,6 +9,7 @@ const NETURAL_CLASSIFICATIONS = [
 const ADMIN_CLASSIFICATIONS = [
   'LocalityClassification',
   'RegionClassification',
+  'CountyClassification',
   'CountryClassification'
 ]
 

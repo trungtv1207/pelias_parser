@@ -13,3 +13,5 @@
 - code files edited:
     - ../classifier/WhosOnFirstClassifier.js
     - ../classifier/StreetSuffixClassifier.js
+    - ../solver/LeadingAreaDeclassifier.js
+    - ../parser/Parser.js

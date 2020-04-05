@@ -63,6 +63,8 @@ class Parser {
 
       if (classification.a === 'LocalityClassification') { return -1 }
       if (classification.b === 'LocalityClassification') { return +1 }
+      if (classification.a === 'CountyClassification') { return -1 }
+      if (classification.b === 'CountyClassification') { return +1 }
       if (classification.a === 'RegionClassification') { return -1 }
       if (classification.b === 'RegionClassification') { return +1 }
       if (classification.a === 'CountryClassification') { return -1 }
