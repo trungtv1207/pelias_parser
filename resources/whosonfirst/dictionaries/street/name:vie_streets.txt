@@ -2357,7 +2357,7 @@ Hà Trì
 Trần Hưng Đạo - Bình Khánh
 Nguuenex Thái Học - Mỹ Bình
 Võ Trứ
-Ham Ninh Fishervillage, Highway 47
+Ham Ninh Fishervillage
 Trần Quốc Toanr
 Đường số 5
 Dam Rong 1
@@ -2952,7 +2952,6 @@ Thông Thiên Học
 Tà Lài
 Lương Đình Của
 Cây Da
-Highway
 Doan Thi Diem
 Tran Phu, Dong Van, Ha Giang
 Phan Đình Phungf
