@@ -1,6 +1,6 @@
 Hàng Giấy
 Kim Mã
-Phố Đinh Tiên Hoàng
+Đinh Tiên Hoàng
 Nguyễn Thông
 Lê Lai
 Mai Thị Lựu
@@ -9,15 +9,15 @@ Nguyễn Thái Học
 Tu Hoa
 Trần Duy Hưng
 Tây Sơn
-Đường Nguyễn Chí Thanh
-Đường Nguyễn Trãi
+Nguyễn Chí Thanh
+Nguyễn Trãi
 Mã Mây
 Hàng Ngang
 ngách 20 ngõ 246 láng
 Minh Khai
 Đại La
 Lê Quý Đôn
-Đường Nguyễn Văn Cừ
+Nguyễn Văn Cừ
 Nguyễn Đình Chiểu
 Trần Hưng Đạo
 Phạm Ngũ Lão
@@ -31,82 +31,82 @@ Lương Ngọc Quyến
 Lương Văn Can
 Bát Đàn
 Hàng Bè
-Phố Hàng Gai
-Phố Phan Bội Châu
-Phố Phùng Hưng
-Phố Cao Bá Quát
+Hàng Gai
+Phan Bội Châu
+Phùng Hưng
+Cao Bá Quát
 Nam Ngư
-Phố Văn Miếu
-Đường Điện Biên Phủ
+Văn Miếu
+Điện Biên Phủ
 Cao Thang
-Đường Trần Cao Vân
+Trần Cao Vân
 Nguyễn Lương Bằng
-Đường Trưng Nữ Vương
+Trưng Nữ Vương
 Hải Phòng
-Đường Ông Ích Khiêm
+Ông Ích Khiêm
 BÙI CHÁT
-Đường Phạm Ngọc Thạch
-Đường Tôn Đản
-Đường Trần Hưng Ðạo
+Phạm Ngọc Thạch
+Tôn Đản
+Trần Hưng Ðạo
 Nguyễn Thị Minh Khai
 Bùi Thị Xuân
 Nguyễn Văn Trỗi
 Võ Văn Ngân
-Đường Phan Huy Ích
+Phan Huy Ích
 Dường Lê Văn Sỹ
 Phùng Chí Kiên
-Phố Lý Quốc Sư
+Lý Quốc Sư
 Hoang Tan
 Phan Đăng Lưu
 Nguyen Dinh Chieu
 tổ 2
 Luong Van Tuy
 Hàng Mắm
-Đường Hoàng Diệu
+Hoàng Diệu
 Phạm Viết Chánh
 Lê Hồng Phong
 Cách Mạng Tháng 8
 Ngo Gia Tu
 Hai Bà Trưng
 Ngô Quyền
-Đường Nghi Tàm
-Đường Âu Cơ
-Phố Lê Thái Tổ
-Phố Hàng Đào
-Phố Hàng Vôi
-Phố Ngô Quyền
+Nghi Tàm
+Âu Cơ
+Lê Thái Tổ
 Hàng Đào
-Phố Trần Nguyên Hãn
+Hàng Vôi
+Ngô Quyền
+Hàng Đào
+Trần Nguyên Hãn
 Gia Ngư
 Tạ Hiển
 Ngõ Đào Duy Từ
 Hàng Bạc
 Đào Duy Từ
-Phố Cầu Gỗ
-Phố Lò Sũ
-Phố Hàng Dầu
+Cầu Gỗ
+Lò Sũ
+Hàng Dầu
 Đinh Liệt
 Hoàng Quốc Việt
 Lò Sũ
 Ly Thuong Kiet Street
 Ngõ 329
 Ngõ 10
-Phố Bà Triệu
-Đường Cầu Giấy
+Bà Triệu
 Cầu Giấy
-Phố Hàng Bông
-Đường Thành
-Phố Hàng Mành
+Cầu Giấy
+Hàng Bông
+Thành
+Hàng Mành
 Ngõ Hà Trung
-Phố Trần Phú
-Phố Hàng Da
+Trần Phú
+Hàng Da
 Phố Khánh Yên
 Nguyễn Huệ
 Phạm Xuân Huân
 Cau May
 Xuân Viên
-Đường Ngũ Chỉ Sơn
-Đường Thạch Sơn
+Ngũ Chỉ Sơn
+Thạch Sơn
 Xuân Vien
 Cầu Mây
 Hàm Rồng
@@ -114,16 +114,16 @@ Võ Thị Sáu
 Fan Xi Păng
 Fansipan
 Fanxifăng
-Phố Lý Thường Kiệt
 Lý Thường Kiệt
-Phố Hàng Điếu
-Phố Phủ Doãn
-Phố Hàng Tre
-Phố Hai Bà Trưng
-Phố Tràng Thi
-Phố Hàng Bồ
+Lý Thường Kiệt
+Hàng Điếu
+Phủ Doãn
+Hàng Tre
+Hai Bà Trưng
+Tràng Thi
 Hàng Bồ
-Đường Thạch Bàn
+Hàng Bồ
+Thạch Bàn
 Khu Vĩnh Hồng
 Nguyễn Trãi
 Phúc Lợi
@@ -131,34 +131,34 @@ Yên Thanh
 Hà Sen
 Núi Ngọc
 Cái Bèo
-Đường 1/4
-Phố Lê Thánh Tông
-Phố Trần Thánh Tông
+1/4
+Lê Thánh Tông
+Trần Thánh Tông
 Nguyễn Văn Linh
 Đê Trần Khát Chân
-Phố Tông Đản
+Tông Đản
 Lê Phụng Hiểu
 Trần Quang Khải
 Trung Yên
-Phố Hàng Thùng
-Phố Nguyễn Hữu Huân
+Hàng Thùng
+Nguyễn Hữu Huân
 Hàng Tre
-Phố Hàng Mắm
+Hàng Mắm
 Hàng Quạt
 Nguyễn Văn Tố
 Yên Thái
-Phố Hàng Hòm
+Hàng Hòm
 Ngõ Tâm Thường
-Phố Hàng Nón
-Phố Hàng Quạt
+Hàng Nón
+Hàng Quạt
 Lê Duẩn
-Phố Hàng Bạc
-Phố Quốc Tử Giám
+Hàng Bạc
+Quốc Tử Giám
 Ngõ Văn Chương 2
 Linh Quang
 Lương Sử C
 Ngõ Văn Chương
-Phố Khâm Thiên
+Khâm Thiên
 Nguyễn Thượng Hiền
 Nguyễn Bỉnh Khiêm
 Lý Thánh Tông
@@ -166,7 +166,7 @@ Hữu Nghị
 Lê Thành Đồng
 Quang Trung
 Quốc Lộ 1A
-Phố Tô Tịch
+Tô Tịch
 Lý Thái Tổ
 Hùng Vương
 An Dương Vương
@@ -180,9 +180,9 @@ Trần Văn Khéo
 Châu Văn Liêm
 Đồng Khởi
 Hòa Bình
-Đường Phạm Ngũ Lão
+Phạm Ngũ Lão
 Bạch mai
-Đường Ðề Thám
+Ðề Thám
 Tô Hiến Thành
 Pham Ngu Lao
 Hung Vuong St.
@@ -198,13 +198,13 @@ Bến Nghé
 Nguyễn Tri Phương
 Nguyễn Đức Thuận
 Giai Phong
-Phố Hàng Cháo
+Hàng Cháo
 Huỳnh Thúc Kháng
 Nguyễn Kiệm
 dôc Tho Lao
 Hàn Thuyên
 Han Thuyen
-Đường Hồng Bàng
+Hồng Bàng
 thon Van Hoi - Ninh Giang - Hai Duong
 Quốc lộ 1A
 Hẻm 187 Kinh Dương Vương
@@ -212,30 +212,30 @@ Trần Khát Chân
 Ngọc Hà
 Đại Cồ Việt
 ĐT Bắc Linh Đàm Nguyễn Hữu Thọ
-Đường Giải Phóng
-Phố Nguyễn An Ninh
-Phố Vọng
+Giải Phóng
+Nguyễn An Ninh
+Vọng
 Bạch Mai
 Nguyễn Huy Tưởng
-Phố Đại La
+Đại La
 Nguyễn Tuân
 ất Duy Tiến
-Đường Trường Chinh
+Trường Chinh
 Lê Trọng Tấn
 Giải Phóng
 Lê Thanh Nghị
-Phố Lạc Trung
+Lạc Trung
 Phương Mai
-Phố Chùa Bộc
+Chùa Bộc
 2 Lê Văn Lương
 2 Hoàng Đạo Thúy
-Phố Phạm Ngọc Thạch
-Phố Huế
-Phố Thái Thịnh
+Phạm Ngọc Thạch
+Huế
+Thái Thịnh
 Hoa Lư
 Lê Đại Hành
 Thái Hà
-Đường Láng
+Láng
 Phõ Vũ Ngọc Phan
 Manor Mễ Trì
 Ngô Thì Nhậm
@@ -244,27 +244,27 @@ Garden Mễ Trì
 Lê Ngọc Hân
 Phõ Láng Hạ
 Trần Nhân Tông
-Phố Hoàng Cầu
+Hoàng Cầu
 Nguyễn Du
 Trần Bình Trọng
-Phố Phan Chu Trinh
+Phan Chu Trinh
 Hàng Bài
 Trần Khánh Dư
-Phố Đặng Thái Thân
+Đặng Thái Thân
 Yết Kiêu
 -33 Ngô Quyền
 Chùa Láng
 Ngọc Khánh
-Đường Lê Đức Thọ
+Lê Đức Thọ
 Đinh Lễ
 Giảng Võ
 4 Giảng Võ
 Cửa Nam
-Đường Trần Quang Khải
-Phố Lý Thái Tổ
+Trần Quang Khải
+Lý Thái Tổ
 Cát Linh
 Phạm Hùng
-Phố Nguyễn Thái Học
+Nguyễn Thái Học
 Trịnh Hoài Đức
 công nghiệp Sài Đồng B Nguyễn Văn Linh
 Đào Tấn
@@ -273,32 +273,32 @@ Hàng Đường
 Đội Cấn
 Hàng Lược
 4 Trần Đăng Ninh
-Đường Trần Nhật Duật
-Phố Phan Đình Phùng
-Đường Hoàng Hoa Thám
-Phố Quán Thánh
+Trần Nhật Duật
+Phan Đình Phùng
+Hoàng Hoa Thám
+Quán Thánh
 Thụy Khuê
-Phố Hàng Bún
-Đường Thụy Khuê
+Hàng Bún
+Thụy Khuê
 Châu Long
-Đường Thanh Niên
+Thanh Niên
 /50B Châu Long
-Đường Nguyễn Sơn
-Đường Xuân Diệu
+Nguyễn Sơn
+Xuân Diệu
 Lạc Long Quân
 công nghiệp Thăng Long Bắc Thăng Long-Nội Bài
 12+800 Quốc Lộ 3
 ắc Thăng Long-Nội Bài
 Đoàn Trần Nghiệp
 Hàng Đồng
-Phố Tây Sơn
+Tây Sơn
 lô 14A Trung Yên 2
-Phố Lò Đúc
+Lò Đúc
 Phan Chu Trinh
-Phố Hàng Trống
+Hàng Trống
 Yên Phụ
 Lò Đúc
-Phố Vương Thừa Vũ
+Vương Thừa Vũ
 Trần Đại Nghĩa
 6 Kim Ngưu
 Lac Long Quan
@@ -309,7 +309,7 @@ Ngọc Hồi
 Nguyễn Duy Trinh
 10 Trần Phú
 Thanh Bình
-Đường Trương Định
+Trương Định
 Định Công
 Nguyễn Đức Cảnh
 9 Nguyễn Trãi
@@ -317,58 +317,58 @@ Nguyễn Quý Đức
 12 Nguyễn Trãi
 Mai Động
 ần Đại Nghĩa
-Phố Tôn Thất Tùng
+Tôn Thất Tùng
 Lương Định Của
 Đào Duy Anh
 ạnh 24T1 Hoàng Đạo Thúy
 1 Hoàng Đạo Thúy
-Phố Hoàng Đạo Thúy
+Hoàng Đạo Thúy
 lô 14B Trung Yên 2
 Nguyễn Công Trứ
 Tuệ Tĩnh
 ô HH2-1 Phạm Hùng
 vực xã Bình Phú Tỉnh lộ 80
-Phố Phan Huy Chú
+Phan Huy Chú
 Phõ Huỳnh Thúc Kháng
 Láng Hạ
 Dã Tượng
-Phố Tôn Đức Thắng
+Tôn Đức Thắng
 Đinh Tiên Hoàng
-Phố Núi Trúc
-Phố Giang Văn Minh
+Núi Trúc
+Giang Văn Minh
 Bảo Khánh
 Liễu Giai
 Hồ Tùng Mậu
 liên cơ Nguyễn Cơ Thạch
 Hàng Khoai
-Phố Hoàng Văn Thụ
+Hoàng Văn Thụ
 2 Trần Đăng Ninh
 118 Bồ Đề
 Nguyễn Văn Cừ
-Phố Ngọc Lâm
-Đường Nguyễn Phong Sắc
-Phố An Dương
+Ngọc Lâm
+Nguyễn Phong Sắc
+An Dương
 Ngô Gia Tự
 Đức Giang
 vực xã Dục Tú Quốc Lộ 3
 ổ 3 Cao Lỗ
 công nghiệp Quang Minh Chưa rõ tên
 Quốc Lộ 2
-Đường Hồng Hà
-Đường Tam Trinh
+Hồng Hà
+Tam Trinh
 1B1 Khu đô thị Xa La
 Trần Phú
 Khuất Duy Tiến
 Kim Ngưu
-Phố Trần Quang Diệu
+Trần Quang Diệu
 Hàm Long
 đô thị mới Cầu Giấy Trần Thái Tông
 Đồng Xuân
 lô A1 khu 2 Khu đô thị Nghĩa Đô
 Hoàng Văn Thái
-Phố Hào Nam
+Hào Nam
 Đoàn Thị Điểm
-Phố Kim Mã
+Kim Mã
 Hàng Chiếu
 Hoàng Hoa Thám
 Xuân La
@@ -377,7 +377,7 @@ Nguyên Hồng
 Hàng Đậu
 Hỏa Lò
 Hà Huy Tập
-Phố Phạm Ngũ Lão
+Phạm Ngũ Lão
 Cổ Loa
 Tăng Bạt Hổ
 Pasteur
@@ -385,9 +385,9 @@ Nguyễn Văn Quá
 Nguyễn Đức Cảnh
 Pasteur Street, District 1
 Nguyễn Thiện Thuật
-Phố Bát Sứ
+Bát Sứ
 Khu
-Đường Nơ Trang Long
+Nơ Trang Long
 12 Hàng Gà, Hoàn Kiếm, Hà Nội, Việt Nam
 Giap Bat, Hoang Mai District, Hanoi
 Hoàng Minh Giám
@@ -398,31 +398,31 @@ Tôn Đức Thăngs
 Ba Tháng Hai
 Nam Định
 Hưng Phú, phường 8, Quận 8, Ho Chi Minh City
-Đường Nguyễn Xuân Nhĩ
+Nguyễn Xuân Nhĩ
 Ðinh Tiên Hoàng
 Alexandre de Rhodes
 Nguyễn Thị Minh Khai
 Đông Du
 Ðồng Khởi
-Đường Pasteur
+Pasteur
 Phó Ðức Chính
 Hung Vuong
-Đường Hàm Nghi
+Hàm Nghi
 Nam Kì Khởi Nghĩa
 Bến Vân Đồn
 Nguyễn Văn Cừ Nối dài
 Mậu Thân
 Đường 12C
 Phạm Ngọc Thạch
-Phố Nguyễn Đức Cảnh
+Nguyễn Đức Cảnh
 Trần Ngọc Quế
 30 Tháng 4
-hẻm 51 đường 3/2
+hẻm 51 3/2
 Bùi Hữu Nghĩa
 TRƯNG TRẮC
 Nguyễn Lộ Trạch
 Đề Thám
-Đường số 32 P.Bình Trị Đông B Q.Bình
+số 32 P.Bình Trị Đông B Q.Bình
 Nguyễn  Công Trứ
 Lê Thánh Tôn
 Nguyễn Văn Chiêm
@@ -432,9 +432,9 @@ Nguyễn Thái Bình
 Công trường Lam Sơn
 Nguyen Hue Boulevard
 Lưu Văn Lang
-Đường Nguyễn Công Trứ
+Nguyễn Công Trứ
 Phó Đức Chính
-Đường Huỳnh Mẫn Đạt
+Huỳnh Mẫn Đạt
 Hoang Hoa Tham - Tay Ho - Ha Noi
 Bạch Đằng
 Trần Văn Đang
@@ -451,11 +451,11 @@ Hoa Phượng
 D Tu Do
 Thai Van Lung
 Ngô Thời Nhiệm
-Phố Cửa Đông
+Cửa Đông
 Le Duc Tho
-Đường Bưởi
+Bưởi
 Hàng Buồm
-Phố Hàng Cân
+Hàng Cân
 Ngô Hai Tuong
 Chả Cá
 Thuốc Bắc
@@ -475,15 +475,15 @@ Thái Văn Lung
 Cao Bá Quát
 Lê Thánh Tôn
 Phan Chu Trunh
-Đường La Thành
+La Thành
 Bạch Thái Bưởi
 Trần Huy Liệu
 Đồ Chiểu
 Trưng Trắc
 Hung Gia 1
-Đường Bùi Bằng Đoàn
+Bùi Bằng Đoàn
 Cửa Đông
-Phố Hàng Gà
+Hàng Gà
 Hàng Gà
 Đội Cung
 huong lo 19
@@ -491,7 +491,7 @@ Tôn Ðức Thắng
 Trương Định
 Trần Văn Trà
 Cống Quỳnh
-Đường Phan Văn Trị
+Phan Văn Trị
 Võ Văn Tần
 Lê Văn Thêm
 Tôn Thất Ðạm
@@ -528,17 +528,17 @@ Thất Khê
 Phan Xi Pang Str.
 Hồ Văn Huê
 Ngo Hue
-Đường Yên Phụ
+Yên Phụ
 ĐT 862
 Quan Su
 Xuân Thuỷ
 Lương Khánh Thiện
 TL 195
 Ton Dan
-Phố Hàng Muối
+Hàng Muối
 Trưng Nữ Vương
 Hẻm 84 Bùi Viện
-Đường Lê Độ
+Lê Độ
 Trưng Nhị
 Nguyễn Kim
 Mạc Thị Bưởi
@@ -551,23 +551,23 @@ Nguyễn Trường Tộ
 Xa lộ Hà Nội
 Kha Vạn Cân
 Nguyễn Thị Định
-Đường Nguyễn Khoái
 Nguyễn Khoái
-Đường Nguyễn Thái Bình
+Nguyễn Khoái
+Nguyễn Thái Bình
 Sư Vạn Hạnh(nối dài)
 Thủ Khoa Huân
 3 Tháng 2
 Vũ Trọng Phụng
-Đường 30/4
+30/4
 Ba Mươi Tháng Tư
 Ngõ 8 - Chiến Thắng
 Chiến Thắng
 Phan Huy ích
-Đường Số 79
+Số 79
 Trần Hưng Đạo, Ngãi Giao, Châu Đức
 Trần Hưng Đạo, TT. Ngãi Giao, Châu Đức
 Đông Quan
-Đường Lê Lai
+Lê Lai
 Nguyễn Ðình Chiểu
 Tựu Liệt, Tam Hiệp, Thanh Trì
 Nghĩa Phát
@@ -577,17 +577,17 @@ Nguyen Hoang, Minh An, An Hoi Islet
 Hem 339 Le Van Sy
 Lê Văn Sỹ
 Tôn Đản
-Đường Lê Anh Xuân
-Đường số 8
-Đường Số 9A
+Lê Anh Xuân
+số 8
+Số 9A
 Ba Cu
 Hẻm 69 Lê Hồng Phong
 Nguyễn Xiển
 Dương Đình Hội
-Đường số 12
+số 12
 Phan Chau Trinh
-Đường Bạch Đằng
-Đường Trần Quốc Toản
+Bạch Đằng
+Trần Quốc Toản
 2 Thang 9
 Trần Quốc Toản
 Hà Hoàng Hổ
@@ -602,22 +602,22 @@ Nguyễn Bình Khiêm
 Phạm Văn Đồng
 Nguyễn Phúc Tần
 Trần Văn Giàu
-Đường An Dương Vương
+An Dương Vương
 Nguyen Duy Hieu
-Đường Lý Thái Tổ
-Đường Ngô Gia Tự
-Đường Tạ Uyên
-Đường Lạc Long Quân
-Đường 3 Tháng 2
+Lý Thái Tổ
+Ngô Gia Tự
+Tạ Uyên
+Lạc Long Quân
+3 Tháng 2
 Minh Phụng
-Phố Nguyễn Quang Bích
+Nguyễn Quang Bích
 1/4
 Phan Châu Trinh
 Nguyễn Văn Đậu
 Tân Kỳ Tân Quý
 Hẻm 553 Nguyễn Kiệm
 Hồng Hà
-Đường Cách Mạng Tháng Tám
+Cách Mạng Tháng Tám
 Huỳnh Cương
 Hang Bac Street
 Đặng Văn Bi
@@ -632,32 +632,32 @@ Chợ Tân Lược
 Hang Quat
 Huỳnh Văn Bánh
 Xuan Dieu Ngo 31
-Phố Nhật Chiêu
+Nhật Chiêu
 Nguyen Cong Tru
 Phó Thành Công
 Tran Hung Dao Street
 Thạch Hãn
 Ho Tung Mau
-Đường Bùi Viện
+Bùi Viện
 Muong Hoa, Pho Cau May
 Pho Dong Loi
 muong Hoa
-Đường Minh Phụng
+Minh Phụng
 Cao Thắng
 Chùa Ông
 Ngõ 104 Cổ Nhuế
-Phố Trúc Bạch
+Trúc Bạch
 Bui Vien
 Trần Cung
-Đường Phạm Văn Đồng
-đường 63
+Phạm Văn Đồng
+63
 Thao Dien
 Võ Trường Toản
 Lily Road
 Xuan Thuy
-Đường Văn Tiến Dũng
+Văn Tiến Dũng
 Dang Thai Mai
-Đường Vĩnh Viễn
+Vĩnh Viễn
 Khu Dan Cu so 9
 Phan Bá Vành
 Hoàng Đạo Thúy
@@ -665,7 +665,7 @@ Tô Hiệu
 Hoàng Sâm
 Ngu Chi Son
 Hàng Bông
-Phố Nam Tràng
+Nam Tràng
 Đinh Công Tráng
 Trần Vắn Hoài
 Ngô Ðức Kế
@@ -673,27 +673,27 @@ Tôn Thất Thiệp
 Lý Tự Trọng
 Hàng Cá
 Đinh Bộ Lĩnh
-Phố Yên Ninh
-Đường số 2
+Yên Ninh
+số 2
 Phan Huy Ích
-Đường Ngô Quyền
-Đường Tân Hòa Đông
+Ngô Quyền
+Tân Hòa Đông
 Thích Quảng Đức
 Hẻm 14 Đào Duy Anh
 Yên Bái
 Quốc lộ 13
 Lập Trí
 Lê Đình Thám
-Đường Hiệp Bình, KP7, P. Hiệp Bình Chánh, Q. Thủ Đức
+Hiệp Bình, KP7, P. Hiệp Bình Chánh, Q. Thủ Đức
 Trường Sa
-Đường Cô Giang
+Cô Giang
 Vũ Tông Phan
 Nguyễn Đăng Đạo
-Phố Trần Đại Nghĩa
+Trần Đại Nghĩa
 Ngõ 92
 Máng Nước
 Trần Vĩ
-Phố Ngụy Như Kon Tum
+Ngụy Như Kon Tum
 Lý Đạo Thành
 Trần Nguyên Hãn
 Xóm Bờ Hồ x3
@@ -714,48 +714,48 @@ Nguyễn Văn Thoại
 Đông Xá
 Ngõ 151A Thái Hà
 Xuân Đỉnh
-Phố Thái Hà
-Đường song hành Kinh 8B
+Thái Hà
+song hành Kinh 8B
 Hẻm 373 Lý Thường Kiệt
 Hồ Bá Kiện , P15 ,Q10
 Mậu Lương
 trần kim xuyến
 Ngõ Huyện
-Phố Yên Lãng
-Đường Thái Thị Bôi
+Yên Lãng
+Thái Thị Bôi
 Truong Chinh
 Le Duan
 Phần Lăng 5
-Đường Phan Châu Trinh
+Phan Châu Trinh
 Ngũ Hành Sơn
 Ngõ 126 Hoàng Quốc Việt
 Cầu Diễn
 Hẻm 28 Bùi Viện
 Nguyễn Hữu Cảnh
-Phố Bùi Xương Trạch
+Bùi Xương Trạch
 Xóm 5 Hòa Trúc
 Ngõ Thông Phong
 Lê Hoàn
 Hàng Điếu
 Hoa Đào
-Phố Nguyễn Văn Ngọc
-Phố Nguyễn Công Hoan
+Nguyễn Văn Ngọc
+Nguyễn Công Hoan
 Ngõ 20 Nguyễn Công Hoan
 Đặng Thai Mai
 Bán đảo linh đàm
 Khuyến Lương
-Phố Trung Kính
+Trung Kính
 Pham Ngu Lao St.
 Pham Ngu Lao St
 Nguyễn Hữu Thọ
 Trần Quốc Hoàn
-Đường nguyên Nguyên Thái Học
+nguyên Nguyên Thái Học
 Thoại Ngọc Hầu
 Nguyễn Văn Hưởng
 Chùa Thông
 K408 Trưng Nữ Vương
 Quốc Lộ 31
-Phố Sài Đồng
+Sài Đồng
 Trích Sài
 Nguyễn Khánh Toàn
 Đuờng Lê Hồng Phong
@@ -770,8 +770,8 @@ Sương Nguyệt Ánh
 No1A
 Trần Quốc Tuấn
 Trung tâm xã Bắc Hồng ( gần UBND xã )
-Phố Triều Khúc
-Đường Kim Đồng
+Triều Khúc
+Kim Đồng
 Võ Văn Kiệt
 Co Nhue
 Nguyễn Văn Nguyễn
@@ -779,17 +779,17 @@ Trần Nhật Duật
 Xa Lộ Hà Nội
 Mai Chí Thọ
 Nguyễn Ảnh Thủ
-Phố Đỗ Quang
 Đỗ Quang
-Đường số 17
+Đỗ Quang
+số 17
 Cua Dai, Hoi An
-Đường Liên Cơ
+Liên Cơ
 Ngõ 18 Chùa thông
 Lê Thành Phương
 Tôn Đàn
 Dương Đình Nghệ
 Võ Nguyên Giáp
-Đường số 1
+số 1
 Alley 50 Lane 310 Nghi Tam
 Nguyễn Trung Trực
 Lô 9
@@ -798,11 +798,11 @@ Cộng Hoà
 Trường Sơn
 Tôn Dật Tiên
 CMT8
-Đường Nguyễn Tri Phương
-Đường Quang Trung
-Phố Nguyễn Biểu
+Nguyễn Tri Phương
+Quang Trung
+Nguyễn Biểu
 Song Hành
-Phố Trung Hòa
+Trung Hòa
 Cảng Mới
 Đại lộ Bình Dương
 Phan Văn Thuận
@@ -820,7 +820,7 @@ Quốc Hương
 Kỳ Ðồng
 Tỉnh lộ 743
 Đại lộ Tự Do
-Phố Mạc Thái Tổ
+Mạc Thái Tổ
 DĐiện Biên Phủ
 175/21 Pham Ngu Lao Street, Pham Ngu Lao Ward, District 1, Ho Chi Minh City
 Lê Chân
@@ -839,16 +839,15 @@ Trang Thi Street
 Số 59 Tân Quy Đông
 Lương Thế Vinh
 Chợ Hàng
-Đường Huyền Trân Công Chúa
+Huyền Trân Công Chúa
 Trần Bạch Đằng
 Lê Thị Phỉ
 Phan Văn Hớn
-Đường
 Mã Lò
 tân kỳ tỉnh nghệ an
 Lý Chính Thắng
 Đề Yêm
-Đường 3/2
+3/2
 Mê Linh
 Lê Văn Hưu
 Thọ Xương
@@ -858,16 +857,16 @@ Hưng Phú
 Đô Đốc Bảo
 Ngõ Trung Yên
 Đống Khởi
-Đường Huyện 94B
+Huyện 94B
 Quốc lộ 1D
 Trần Xuân Soạn
 Ấp Bắc
 quốc lộ 12b
 Nguyen Tat Thanh
 Công Xã Paris
-Phố Chân Cầm
+Chân Cầm
 Thuận Lý
-Phố Xã Đàn
+Xã Đàn
 Ngu Chi Son Sapa
 Lê Thị Riêng
 Trương Minh Hùng
@@ -877,14 +876,14 @@ Thể Giao
 Nguyễn Trãi
 Bà Hom
 Phan Liêm
-Phố Quang Trung
-Đường Thuận Kiều
+Quang Trung
+Thuận Kiều
 Hồ Thị Hương
 Bắc Hải
 Phạm Văn Hai
 TCH 21 (HT16)
 Tiên Sơn
-Đường số 40
+số 40
 Hồng Bàng
 3/4
 Hẻm 6 Cách Mạng Tháng Tám
@@ -894,15 +893,15 @@ Residence Block
 Trần Lê
 Lê Văn Miến
 Nguyen Van Linh
-Phố Tràng Tiền
-Phố Nhà Chung
-Đường số 6
+Tràng Tiền
+Nhà Chung
+số 6
 Bùi Trọng Nghĩa
 Biệt Thự
 An Bang Beach
 Hẻm Phạm Ngũ Lão
 Tỉnh lộ 15
-Đường Số 3
+Số 3
 Trần Thủ Độ
 16 Trần Phú, Đồng Văn, Hà Giang
 10 Trần Phú, Đồng Văn, Hà Giang
@@ -912,11 +911,11 @@ Lê Văn Lương, Hem 5
 Vườn Đào - Bãi Cháy
 Nguyễn An Ninh
 thu bon street
-Đường số 7
+số 7
 Nguyễn Khanh
 Tô Ngọc Vân
-Phố Ấu Triệu
-Phố Cấm
+Ấu Triệu
+Cấm
 Ngõ 44 Triều Khúc
 Nguyễn Văn Thoaij
 Lê Văn Lương
@@ -926,17 +925,17 @@ Mười Tám Tháng Tám
 Thach Son
 Huỳnh Khương Ninh
 Ngõ 158 Ngọc Hà
-Đường Số 2
+Số 2
 Trần Vĩnh Kiết
 Lê Văn Việt
 Trung Yên 6
 Vũ Quang
 Châu Thượng Văn
-Đường Nguyễn Thái Học
+Nguyễn Thái Học
 Ong Tim Bridge, Thanh My Area, Thuong Thanh Ward, Cai Rang District, Can Tho, Vietnam
 Le Lai Street, Ben Thanh Ward, District 1, Ho Chi Minh City
 Le Mat - Việt Hung - Long Biến - Hanoi
-Ngõ 72 Đường 2 Cửu Việt
+Ngõ 72 2 Cửu Việt
 Hẻm Bùi Viện
 Mỹ An 5
 điện biên
@@ -944,14 +943,14 @@ Lê Quang Đạo
 868
 Phạm Thế Hiển
 284 Cao Lỗ
-Đường Calmette
+Calmette
 An Bình
 Bùi Công Trừng
 Hoàng Diệu
 Phú Riềng Đỏ
-Phố Lê Văn Hưu
+Lê Văn Hưu
 K338 Hoàng Diệu
-Đường Lê Thánh Tôn
+Lê Thánh Tôn
 Hoa Hồng
 Nguyễn Hữu Tự
 Ðỗ Quang Ðẩu
@@ -959,27 +958,27 @@ Núi Thành
 Ngô Đức Kế
 Trần Kim Xuyến
 Ngõ 83
-Đường Nguyễn Khang
-Đường số 1011
+Nguyễn Khang
+số 1011
 Le Van Tho Ward 9, Go Van Distric
 Hoa Lan
 Hồng Lĩnh
 Lương Yên
 Trần Quý Kiên
-ngách 42/94/8 phố Thịnh Liêtj
-Đường Nguyễn Thị Thập
+ngách 42/94/8 Thịnh Liêtj
+Nguyễn Thị Thập
 Hồ Bá Kiện
-Đường Tỉnh lộ 10
+Tỉnh lộ 10
 Tây Thạnh
 Cái Dăm
 Phan Tứ
-Đường Kinh Dương Vương
+Kinh Dương Vương
 An Sơn
 An Thượng 9
 Châu Thị Vĩnh Tế
 Hàng Than
-Đường số 43
-Đường Lê Hồng Phong
+số 43
+Lê Hồng Phong
 Cầu vượt Sài Đồng
 Dương Bá Trạc
 Thành Công
@@ -989,11 +988,11 @@ Nguyen Din chieu
 Hồ Nghinh
 Y Wang
 Phố Quang Trung
-Phố Lý Nam Đế
+Lý Nam Đế
 Hòa Tây
 796
 Ngõ Nhà Thờ
-Đường Hà Huy Tập
+Hà Huy Tập
 Kiệt 1 Nguyễn  Công Trứ
 Triệu Việt Vương
 Ngô Quang Huy
@@ -1012,50 +1011,50 @@ NGUYỄN CƠ THẠCH
 Tú Xương
 Phùng Hưng
 Nguyễn Bá Học
-Phố Thượng Kiệm
+Thượng Kiệm
 Hoàng Sa
 Ðiện Biên Phủ
 Vĩnh Viễn
 Nguyen Trai
 Dương Văn An
 Yên Khê 2
-Đường Xóm Chiếu
-Phố Hồ Hoàn Kiếm
+Xóm Chiếu
+Hồ Hoàn Kiếm
 Ngo Đào Duy Từ
 Lê Thái Tổ
 Ngõ 11 Thái Hà
 hát
 bien an bàng
-Khu Phố 5, Quốc Lộ 13
-Đường Lê Thị Hồng Gấm
+Khu 5, Quốc Lộ 13
+Lê Thị Hồng Gấm
 Công Trường Quốc Tế
 Quốc lộ 1k
 Le Loi
 Phan Dang Luu
-Phố Trần Hưng Đạo
-Đường Đại Mỗ
+Trần Hưng Đạo
+Đại Mỗ
 Linh Đông, Q. Thủ Đức
 Quan Nam
-Đường Trân Hưng Đạo
+Trân Hưng Đạo
 Nguyễn Biểu
 Nguyễn Huy Tự
 Mỗ Lao
-Đường 7 Tháng 5
-Đường Phạm Văn Chiêu
+7 Tháng 5
+Phạm Văn Chiêu
 Gò Dầu
 Khu đô thị mới Yên Hoaf
 Tạ Quang Bửu
 Phan Anh
-Đường Lương Ngọc Quyến
-Đường Cống Quỳnh
+Lương Ngọc Quyến
+Cống Quỳnh
 Đê La Thành
 Trần Kế Xương
 Nghĩa Long
 Dường Số 281
 Tân Thuận Đông
 Khâm Thiên
-Phố Chùa Thông
-Duong so 21
+Chùa Thông
+so 21
 Binh Minh
 Kim Long
 Ngách 28/9
@@ -1068,9 +1067,9 @@ Sư Van Hạnh
 Rạch Bùng Binh
 18/8
 Xóm Cụt
-Đường số 17A
-số 14 đường 96 hiệp phú q9 tp.hcmmmmm
-Phố Hạ Đình
+số 17A
+số 14 96 hiệp phú q9 tp.hcmmmmm
+Hạ Đình
 Số 9 Đinh Tiên Hoàng, Q.1, TP.HCM
 Thiên Hộ Dương
 Thới Hòa
@@ -1081,35 +1080,35 @@ Ngõ 159 Pháo Đài Láng
 Hẻm 266 Tôn Đản
 Le Hong Phong street
 Cường Để
-Đường số 46
+số 46
 QL 1A
 Vườn Dương
 Trần Văn Mười
 Thị Trấn Tân Hiệp
 Z115
-Phố Nguyễn Trường Tộ
+Nguyễn Trường Tộ
 Hẻm 236 Điện Biên Phủ
 19
-Đường số 16
+số 16
 Hẻm 239 Khuông Việt
 108
 Trung Mỹ - Tân Xuaan
-Đường số 9M
-Đường Lâm Văn Bền
-Đường Chánh Môn A
-Đường Lê Quý Đôn
+số 9M
+Lâm Văn Bền
+Chánh Môn A
+Lê Quý Đôn
 Hai Mươi Sáu Tháng Ba
 660, Dien Bien Phu st.
-Đường Nguyễn Văn Lượng
+Nguyễn Văn Lượng
 QL279
-Đường Trung Tâm Long Hải
+Trung Tâm Long Hải
 Bình Thái 1
 QL4C
-Đường H
+H
 Lê Phụng Hiếu
-Phố Nhà Thờ
-Phố Hàng Phèn
-Phố Bích Câu
+Nhà Thờ
+Hàng Phèn
+Bích Câu
 Phạm Văn Chiêu
 Tân Phú
 Trường Pháp
@@ -1119,10 +1118,10 @@ Nguyễn Văn Giai
 Kiệt 856 Tôn Đức Thắng
 Ngõ 19 Liễu Giai
 trần nhật duật.
-Phố Quảng Bá
+Quảng Bá
 Thái Thịnh
-Phố Châu Long
-Phố Tống Duy Tân
+Châu Long
+Tống Duy Tân
 Thăng Long
 Duong Ba Cung
 Khu Quy Hoạch Hoàng Văn Thụ
@@ -1137,9 +1136,9 @@ QL 45
 Phạm Văn Nghị
 Cây Keo
 Lê Thị Hồng Gấm
-Nguyễn Quang Diệu (Đường số 19)
+Nguyễn Quang Diệu (số 19)
 Lê Văn Thọ
-Bế Văn Đàn, Phố Cũ, Hợp Giang
+Bế Văn Đàn, Cũ, Hợp Giang
 Mạc Cửu
 Phan Xich Long
 Nguyễn Văn Thủ
@@ -1150,15 +1149,15 @@ Yên Dũng Thượng
 Phương Sài
 Hẻm 331 Lê Văn Sỹ
 thành trung
-Phố Lương Văn Can
+Lương Văn Can
 Phúc Tân
-quốc lộ 18A đường trần hưng đaoj
+quốc lộ 18A trần hưng đaoj
 Đội Nhan
-Đường Tô Ngọc Vân
+Tô Ngọc Vân
 Cách mạng tháng 8
 Bạch Đằng (nối dài)
 Hoàng Minh Thảo
-Phố 10
+10
 Nhân Hòa
 Nguyễn Thái Học
 Lý Hồng Thanh
@@ -1166,38 +1165,38 @@ Vườn Lài
 09 pham ngoc thach
 Hẻm 102 Thích Quảng Đức
 37 nguyen chi thanh
-Đường Huyện 2.2
+Huyện 2.2
 Hoàng Ngân
 Nguyen Du
 Đồng Đen
 Lâm Văn Thạnh
-Đường Thoại Ngọc Hầu
+Thoại Ngọc Hầu
 A1
 Ngọc Thụy
-Phố Nguyễn Khuyến
-Phố Đồng Lợi
+Nguyễn Khuyến
+Đồng Lợi
 Quốc lộ 12b
-Phố Ngọc Khánh
+Ngọc Khánh
 Nguyễn Quý Anh
 Ngõ 84 Ngọc Khánh
 Vĩnh Khánh
 KP9.P,Tân Biên.Biên Hoà.Đồng Nai
 Cầu Thôn Mai
 Ba Trieu
-Đường Tôn Đức Thắng
+Tôn Đức Thắng
 Đừng cốc Lều
 Phan Dinh Phung
-Phố Trần Thái Tông
+Trần Thái Tông
 Vũ Van Mất
 Nguyen Phuc Nguyen
 Nguyễn Tự Tân
 Bùi Thị Xuân, P.Phạm Ngũ Lão, Q.1
-Đường nguyên Văn Trời
-Đường 2 tháng 4
-Phố Nguyễn Đình Thi
+nguyên Văn Trời
+2 tháng 4
+Nguyễn Đình Thi
 8-3
 Bà Huyện Thanh Quan
-Phố Trấn Vũ
+Trấn Vũ
 Ho Xuan Huong
 Võ Chí Công
 TL 1
@@ -1205,19 +1204,19 @@ Kim Mã Thượng
 National Route 51
 Thái Phiên
 Đại kim.ha nội
-Đường số 49
+số 49
 Trần Hưng Đạo
 đakai
 hẻm 243 hoàng diệu
-Đường Nguyễn Văn Nghi
+Nguyễn Văn Nghi
 Phan Lương Trực
 Cổ Rồng
-Đường liên xã Quảng Hiệp đi xã Ea kiết
+liên xã Quảng Hiệp đi xã Ea kiết
 Liên Xã Tân Hiêpj
-Đường Xóm Đất
+Xóm Đất
 muong hoa street
 Ngõ 61 Lạc Trung
-Đường Số 1
+Số 1
 Ngõ Quan Thổ 1
 To Ngoc Van
 Lê lợi
@@ -1239,18 +1238,18 @@ Nam Sông Hậu
 Từ Hoa
 Le Hong Phong
 Nguyễn Viết Xuân
-Phố Tân Mai
+Tân Mai
 Hẻm Liên Tổ 1-2
 782, ấp 5, bàu đồn, gò dầu, tây ninh
-Đường Phố Văn Giang
+Văn Giang
 Ðường Số 4
 Âu Cơ
 Hoa Sữa
 Hoàng Châu Ký
 dt 747
 Tây Hồ
-Ngõ 52 Đường Tô Ngọc Vân
-Đường Đỗ Xuân Hợp
+Ngõ 52 Tô Ngọc Vân
+Đỗ Xuân Hợp
 Bùi Viện
 Quốc Lộ 60
 Ngo sy lien
@@ -1258,7 +1257,7 @@ khách sạn hoàng hà
 Trần Vỹ
 tràn quang khài
 Tỉnh lộ 8
-Đường Lê Duẩn
+Lê Duẩn
 Ngõ Hàng Hương
 Nguyễn Xí
 Hẻm 4 Văn Chung
@@ -1267,7 +1266,7 @@ Nguyễn Phúc Lai
 nguyễn thị minh khai
 Tân Hoá
 Nguyễn Xuân Khoát
-Đường số 28
+số 28
 Nhà Chung
 Nguyễn Trí Thanh
 Nguyen Thi Dinh
@@ -1281,25 +1280,25 @@ Ngô Văn Sở
 Chu Mạnh Trinh
 Định Công Hạ
 Phan Ngọc Hiển
-Đường số 24
-Phố Minh Khai
+số 24
+Minh Khai
 Hiệp Thành 43
 Quốc lộ 22B
-Phố Hàng Than
-Đường Vĩnh Khánh
+Hàng Than
+Vĩnh Khánh
 Nguyễn Hữu Thoj
 Thợ Nhuộm
 Yên Thế
 Quảng Trường Vĩnh Long (Public Square)
 Nguyen Duy Duong
 Hàng Cót
-Phố Quán Sứ
+Quán Sứ
 Trần Văn Hoài
 Nguyễn thị minh khai
 Pham ngoc thach
 đinh tiên hoàng
 võ thị sáu
-Đường A4
+A4
 Tran Phu street, Nha Trang, Khanh Hoa, Viet Nam
 Nguyễn Quảng
 hẻm 718 trần hưng đạo
@@ -1308,20 +1307,20 @@ Tran quy khoach
 vĩnh kim, châu thành, tiền giang
 Trần Hưng Ðạo
 Ngõ 63 Lê Đức Thọ
-Đường Hồ Hảo Hớn
-Đường Ngô Quyến
-Đường Lê Quang Đạo
-Đường Liên khu 4-5
+Hồ Hảo Hớn
+Ngô Quyến
+Lê Quang Đạo
+Liên khu 4-5
 Nguyễn Đổng Chi
-Đường Nguyễn Văn Linh
+Nguyễn Văn Linh
 Hồ Xuân Hương
 Cách Mạng Tháng Tám
-Đường Núi Thành
+Núi Thành
 Phù Đổng Thiên Vương
 Lê Thành Duy
-Phố Phan Kế Bính
+Phan Kế Bính
 215 Điện Biên Phủ, Ward 6, District 3
-Đường 102
+102
 Nguyen Thien Thuat
 Hẻm 218 Lê Văn Sỹ
 18 thang 8 street
@@ -1337,9 +1336,9 @@ bắc cầu
 Nguyễn Thị Thử
 21°03′26.89″N 105°49′56.29″E
 Đồng Hòa
-Phố Đường Hoa
+Hoa
 ngô gia tự ngõ 373
-đường a1 an đồng 1
+a1 an đồng 1
 Kim Sơn
 Hang Bai
 Lâm Thị Hố
@@ -1348,17 +1347,17 @@ Phùng hưng
 tràng an
 Âu Cơ. Quận 11
 3 tháng 2
-Đường Trần Quý
+Trần Quý
 Lê Liễu
 Ngô Quyền - Phường 6
-Đường Nguyễn Thị Minh Khai
+Nguyễn Thị Minh Khai
 Ngô Văn Năm
 Đào Cam Mộc
 Đỉnh Sơn, Anh Sơn
 Thạch Bàn
-Đường số 23B
+số 23B
 Nguyễn Thị Diệu
-Đường A3
+A3
 Phạm Văn Bạch
 Mai Thuc Loan
 Tô Vĩnh Diện
@@ -1368,41 +1367,41 @@ Tân Trào
 Phú Châu
 Quốc lộ 1K
 Quốc lô 1K
-Đường số 11
+số 11
 đs 11
 Tỉnh lộ 43
 Hồ Văn Tư
 Linh Trung
-Đường B
+B
 1231
 Dân Chủ
 Ngô Chí Quốc
-Đường số 9
-Đường Khánh Hội
+số 9
+Khánh Hội
 Tam Bình
 Hiệp Bình
 tam bình
-Đường Tô Hiến Thành
+Tô Hiến Thành
 Hải Triều
 Do Nha 5
-Đường Ðặng Thị Nhu
+Ðặng Thị Nhu
 QL 20
 Đào Trinh Nhất
-đường số 5
-Đường số 15
-Đường E
+số 5
+số 15
+E
 Hồ Văn Long
 Trần Thị Kỷ
 Xuan Truong 51
 489
 Dương Tăng Nhơn Phú
-Đường Số 61
+Số 61
 Đình Phong Phú
 thạch bàn long biên
-Đường Tây Hòa
-Đường Số 19
+Tây Hòa
+Số 19
 Đại lộ 2
-Đường Số 11
+Số 11
 Tân Hoà Đông
 Cư Xá Phú Lâm B
 sài đồng
@@ -1411,21 +1410,21 @@ vũ xuân thiều
 nguyễn văn linh
 Vũ Xuân Thiều
 Trần Não
-Đường Số 8
-Đường số 10
-Đường số 24A
-Đường Trần Văn Kiểu
-Đường số 32
+Số 8
+số 10
+số 24A
+Trần Văn Kiểu
+số 32
 Nguyễn Văn Luông
 30/4
 Lý Chiêu Hoàng
-Đường Gia Phú
+Gia Phú
 Hẻm 45 Bình Tiên
 Bình Tiên
-Đường Lê Quang Sung
+Lê Quang Sung
 51 Nguyễn Thị Minh Khai, Tân Lập, Tp. Nha Trang, Khánh Hòa
 Ngõ 1 Yết Kiêu
-Đường số 2, cư xá Phú Lâm C mở rộng (đường số 8 nối dài)
+số 2, cư xá Phú Lâm C mở rộng (số 8 nối dài)
 Tan Thien Hamlet, Tan Phong commune, Cai Lay district, Tien Giang
 Phú Thuận
 Phú Thuận
@@ -1441,7 +1440,7 @@ Hẻm 17 Tân Thuận Tây
 Lý Phục Man
 Số 1
 Hẻm 502/23 Huỳnh Tấn Phát
-Đường Bà Hạt
+Bà Hạt
 Lane 5, Nguyen Khanh Toan Street
 Trần Thái Tông
 Tân Thuận
@@ -1450,7 +1449,7 @@ Nguyễn Thị Thập
 Hẻm 142 Nguyễn Thị Thập
 Lâm Văn Bền
 Tân Mỹ
-Đường Lê Văn Lương
+Lê Văn Lương
 Linh Đông
 Lý Tế Xuyên
 ngọc trì phường thạch bàn
@@ -1459,7 +1458,7 @@ Ngọc Trì
 Hẻm 793 Trần Xuân Soạn
 Phan Huy Thực
 Mai Văn Vĩnh
-Đường Mai Văn Vĩnh
+Mai Văn Vĩnh
 chân cầu vĩnh tuy- long biên
 Trần Quý Cáp
 Hồng Châu
@@ -1468,22 +1467,22 @@ Lâm Du Bồ Đề
 Phú Viên
 Hẻm 8
 lác
-Đường số 81
+số 81
 Phan Thanh
-Đường Lê Đình Lý
-Đường Hòa Bình
+Lê Đình Lý
+Hòa Bình
 Thống Nhất, phường 16
 Ðặng Tất
-Duong Thanh Nien
-Phố Thợ Nhuộm
+Thanh Nien
+Thợ Nhuộm
 34 Lãn Ông
 Thái Hữu Kiểm
-Đường Số138
-Đường số 27
+Số138
+số 27
 trần hưng đạo
 Pham Ngu Lao, Stadtbezirk 1
 nhà thi đấu
-Đường Lã Xuân Oai
+Lã Xuân Oai
 Lâm Đồng
 DE1
 Dj9
@@ -1492,7 +1491,7 @@ DJ10
 ngã tư DJ
 d10
 NE8-DJ9
-Đường số 20
+số 20
 DT 747
 DT747
 DT 747b
@@ -1521,15 +1520,15 @@ lac an
 Cầu Rạch Lăng
 Tỉnh lộ 768
 DT thường tân
-Phố Nguyễn Ngọc Nại
+Nguyễn Ngọc Nại
 303
 ông đông
 Trẫn Cao Vân
 Trẩn Cao Vân
 Trẫn Cao Van
 Hang Voi Str
-Phố Nguyễn Trung Trực
-Đường Ỷ Lan Nguyên Phi
+Nguyễn Trung Trực
+Ỷ Lan Nguyên Phi
 Hàng Xoài
 DE3
 N5
@@ -1542,7 +1541,7 @@ Trương Văn Bang
 Phạm Văn Dinh
 phạm văn dinh, thắng nhất, vũng tau
 nguyễn lương băngf
-Đường D-Bắc
+D-Bắc
 Đặng Văn Lãnh
 Nguyễn Hội
 Tuyên Quang
@@ -1553,8 +1552,8 @@ Võ Thanh Trang
 Phạm Hữu Chí
 Bùi Công Minh
 Mạc Thanh Đạm
-Phố Khương Hạ
-Phố Hàng Giấy
+Khương Hạ
+Hàng Giấy
 53
 Quốc lộ 22
 Khương Trung
@@ -1580,7 +1579,7 @@ Bat Dan
 Nguyễn Khắc Nhu
 Hang Non
 Ngõ 164 Vương Thừa Vũ
-Phố Hòang Văn Thái
+Hòang Văn Thái
 Hòang Văn Thái
 Thanh Thuỳ
 Tỉnh lộ 15
@@ -1588,14 +1587,14 @@ Liêu Bình Hương
 Ngõ 132 Vũ Tông Phan
 Ngõ 211 Khương Trung
 Quốc Lộ 55
-Đường An Nhứt - Long Tân
+An Nhứt - Long Tân
 phước thanh đất đor
 thanh long, đất đor
 hiệp hoà, đất đo
 Đại Lộ III
-Phố Chính Kính
+Chính Kính
 Bến Than
-Đường Khương Đình
+Khương Đình
 nguyễn văn hoài
 bình mỹ, bình ba, châu đưcs
 Nguyễn Thị Triệu
@@ -1605,7 +1604,7 @@ kha vạn cân
 Hương lộ 2
 tỉnh lộ 9
 tl 9
-Phố Hàng Vải
+Hàng Vải
 Nhà Nghĩ Tuần Châu
 quỳnh mai
 bách khoa
@@ -1621,14 +1620,14 @@ Thanh Nhàn
 vĩnh tuy
 ngõ 34 vĩnh tuy
 Ngõ 34 vĩnh tuy
-Phố Yên Lạc
+Yên Lạc
 Yên Lạc
 Ngõ Trạm
 Hàm Tử Quan
 Phó Lê Trọng Tấn
 Nguyễn  dính  Chiểu
 Trung Văn
-Phố Cầu Đất
+Cầu Đất
 Lĩnh Nam
 bình my
 bình mỹ
@@ -1638,8 +1637,8 @@ Hồ Nguyên Trừng 2
 Trần Thị Lý
 Vạn Kiếp
 Vân Đồn
-Phố Đinh Lễ
-Đường G
+Đinh Lễ
+G
 tl9
 Hang Ca
 27 Tháng 4
@@ -1647,18 +1646,18 @@ Nguyễn Thanh Đằng
 trương đinhj
 Lê Văn Phấn
 Ô Quan Chưởng
-Điện Biên Phủ;Đường Trần Quang Khải
+Điện Biên Phủ;Trần Quang Khải
 Ngõ Gạch
 Lê Văn Thịnh
 Đỗ Xuân Hợp
 Hải Thượng Lãn Ông
 Ngõ 64 Kim Giang
-Phố Hàm Long
+Hàm Long
 Ngõ 37 Lê Thanh Nghị
 Trương Phúc Phan
 Ngõ 1 Tạ Quang Bửu
 Bùi Ngọc Dương
-đường 50
+50
 Khánh Hội
 Hồng Mai
 Chương Đương Độ
@@ -1666,10 +1665,10 @@ Nguyễn Ư Dĩ
 hoà long, bà riaj
 ấp tây, hoà long
 Tôn Thất Thuyết
-Đường Tôn Thất Thuyết
+Tôn Thất Thuyết
 TT 34A Trần Phú
 Hoàng Mai
-Phố Trích Sài
+Trích Sài
 Trich Sai
 ngõ Trại Cas
 Nguyễn Bình
@@ -1689,19 +1688,19 @@ Nguyen Sieu
 Đào Tống Nguyên
 Vọng Hà
 võ thị  sáu
-Phố Hồng Hà
+Hồng Hà
 Lãn Ông
 Ngõ 172
 Lãng Yên
 Đx71
-Đường Phạm Viết Chánh
+Phạm Viết Chánh
 Hẻm 212 B
 Quốc lộ 56
-Đường Trần Ðình Xu
-Đường Ngãi Giao - Hòa Bình
+Trần Ðình Xu
+Ngãi Giao - Hòa Bình
 Quỳnh Lưu
 Phạm Sư Mạnh
-Đường Nguyễn Thượng Hiền
+Nguyễn Thượng Hiền
 Hẻm 32 Cao Thắng
 Nguyễn Sơn Hà
 27 Tháng Tư
@@ -1722,11 +1721,11 @@ Trung Tâm Thương Mại Bà Riaj
 Tân thới nhất 12
 đào duy từ
 Quốc Lộ 50
-Phố Chợ Cầu Gỗ
+Chợ Cầu Gỗ
 Nguyễn Hữu Cầu
 Thạch Thị Thanh
 Nguyễn Hữu Thọ
-Phố Khương Trung
+Khương Trung
 Ngụy Như Kon Tum
 Ngõ Quỳnh
 Đê Tô Hoangf
@@ -1744,7 +1743,7 @@ Tùng Thiện Vương
 Trần Xuân Độ
 Nguyễn Chế Nghĩa
 Vân Hồ 3
-Đường Quy hoạch số 14
+Quy hoạch số 14
 hàng cas
 Ngõ 254 Minh Khai
 Ngõ Gốc Đề
@@ -1754,12 +1753,12 @@ trại cas
 Ngõ Hòa Bình 3
 D5 quỳnh mai
 Thanh lương
-đường 4D, khu đô thị Lê Hồng Phong 2
+4D, khu đô thị Lê Hồng Phong 2
 Tỉnh lộ 334
 Phõ Hoàng Ngọc Phách
-Đường Morrison
-Phố Lê Quý Đôn
-Phố Nguyễn Cao
+Morrison
+Lê Quý Đôn
+Nguyễn Cao
 Cảm Hội
 Dồng Tâm
 Bế Văn Đàn
@@ -1768,8 +1767,8 @@ Nguyen Khoa
 Vạn Thủy Tú
 Đầm Trấu
 Hàng Chuối
-Phố Hàng Chuối
-Phố Hàn Thuyên
+Hàng Chuối
+Hàn Thuyên
 khun minh khai
 Lê Gia Định
 Nguyễn Ngọc Ký
@@ -1777,23 +1776,23 @@ Nguyễn minh châu
 Phan Đình Gót
 Hai Ba Trung
 Nguyễn Tương
-Phố tây sơn
+tây sơn
 Ấp Hải sơn
 Trần Tử Bình
 Hàn Mặc Tử
 Hiền Vương
 Phạm Thị Nguw
-Đường D2
+D2
 Giang Lac
 Điện biên phủ
 Quốc lộ 27
 Nghĩa Hiệp
 ql 28
 Lương Văn Năm
-Đường số 14
+số 14
 TL 507
 Tỉnh lộ 746
-Đường cao tốc Mỹ Phước-Tân Vạn;Đường Cao tốc Mỹ Phước - Tân Vạn
+cao tốc Mỹ Phước-Tân Vạn;Cao tốc Mỹ Phước - Tân Vạn
 19 tháng 4
 hồ xuân hương
 thon5 huy khiem
@@ -1805,7 +1804,7 @@ Hẻm 14 Kha Vạn Cân
 Hạ Hồi
 Tỉnh lộ 743C
 22 Tháng 12
-Phố Hoàng Như Tiếp
+Hoàng Như Tiếp
 cao thắng
 Trương Quyền
 Số 4
@@ -1815,8 +1814,8 @@ Trần Tất Văn
 Nguyễn Hữu Trí
 Nguyễn Văn Tiết
 Đông Nhì
-Đường 6A. Ấp 2. Vĩnh Lộc b. Bình Chánh. Tp HCM
-Đường Nguyễn Văn Khối
+6A. Ấp 2. Vĩnh Lộc b. Bình Chánh. Tp HCM
+Nguyễn Văn Khối
 28/....
 Quốc lộ
 D1
@@ -1828,7 +1827,7 @@ tam hà
 Nguyen khang
 Hung Gia 2
 Hung Gia 4
-Đường số 6, Hung Phuoc 3
+số 6, Hung Phuoc 3
 Trương Vĩnh Ký
 Lê Minh Công
 Cao Xuân Huy
@@ -1841,10 +1840,10 @@ Bùi Ngọc Thu
 Hưng Gia 3
 Ler Van Thiem
 Hẻm 390 Nguyễn Ðình Chiểu
-Đường số 318
+số 318
 Lê Ngô Cát
-Đường số 45
-Đường số 47
+số 45
+số 47
 Hẻm 279 Lâm Văn Bền
 Thanh Đa
 Hẻm 176 Nguyễn Thị Thập
@@ -1862,31 +1861,30 @@ Lâm Hoành
 Hẻm 73 Trần Văn Ðang
 Hẻm 79 Trần Văn Ðang
 Nguyen Van Huong
-Đường số 30
-Đường Số 66
+số 30
+Số 66
 Thảo Điền
-Đường sách ( Nguyễn văn Bình )
+sách ( Nguyễn văn Bình )
 Raymondienne
 Số 18
-Đường 12
+12
 xa lộ hà nôij
 BĐ Linh Đàm
-Đường Thống Nhất
-Khu Phố
+Thống Nhất
 Bùi Bằng Đoàn
-Đường Lê Văn Linh
-Đường N2
+Lê Văn Linh
+N2
 Cầu Thanh Đa
 Bình Quới
-Đường Nguyễn Xis
+Nguyễn Xis
 Phạm Thái Bường
 My Khanh 4
 Phú Diễn
 Vành đai phi trường
 Man Thiện
 Đường 210, Man Thiện
-Đường Man Thiện
-Đường 106
+Man Thiện
+106
 Ngô Tất Tố
 Nguyen thi minh khai
 Nam Cao
@@ -1896,24 +1894,24 @@ Ngo Van Nam
 Hẻm 12 Nguyễn Thị Minh Khai
 Trịnh Văn Cấn
 Kinh Dương Vương
-Phố Lãn Ông
-Đường Kênh Liêm
+Lãn Ông
+Kênh Liêm
 Tân Nhuệ II
 Duong so 11
 Phú Lợi
 Văn Thánh 2
 Tran phu dong van Ha giang
-Đường Số 37
+Số 37
 Hoang Dieu
-Phố Trần Vỹ
+Trần Vỹ
 Quảng Khanh
 Dường Nguyễn Kiệm
 Lê Văn Hiến
 Ngõ 5 Tùng Thiện
 ĐT 743
 Trương Minh Lượng
-Đường Phạm Văn Bạch
-đường Dinh Bà
+Phạm Văn Bạch
+Dinh Bà
 Lý Thường Kệt
 Nguyễn Chánh
 Hà Giang
@@ -1925,8 +1923,8 @@ Rừng Sác
 Lý Nhơn
 Thúy Lĩnh
 An Thượng 5
-đường 47
-Đường Phan Chu Trinh
+47
+Phan Chu Trinh
 CMTT
 Huỳnh Khương An
 Mai Văn Ngọc
@@ -1935,7 +1933,7 @@ Số 9 Trưng Trắc
 Số 10 Trần Hưng Đạo
 16 Trưng Trắc
 Trung An
-Đường Lê Văn Việt
+Lê Văn Việt
 Trần Đức Thảo
 Phạm Huy Thông
 Hong Viet
@@ -1943,15 +1941,15 @@ Gò Ô Môi
 nơ 1b bán đảo linh đàm
 Hẻm 150 Nguyễn Trãi
 Be Van Dan
-Phố Dầu
+Dầu
 Số 13
 Số 12
 Ngõ 16 Hoàng Cầu
 Sơn Kỳ
 Đại lộ 30 Tháng 4
-Đường số 7B Khu A
+số 7B Khu A
 Phổ Quang
-Đường Nam Hoà
+Nam Hoà
 Lưu Hữu Phước
 Võ Văn Kiêt
 Thái Học 2
@@ -1985,73 +1983,73 @@ Trần Kiên
 Hẻm 429 Lạc Long Quân
 Hẻm 416 Lạc Long Quân
 Hàn Hải Nguyên
-Đường Thái Phiên
+Thái Phiên
 Lãnh Binh Thăng
 Lữ Gia
 Nguyễn Thị Nhỏ
-Đường Lý Thường Kiệt
+Lý Thường Kiệt
 Nguyễn Lâm
-Đường Lò Siêu
-Phố Mai Dịch
-Đường số 61
-199A Đường Lã Xuân Oai
-Đường Kênh Tân Hoá
+Lò Siêu
+Mai Dịch
+số 61
+199A Lã Xuân Oai
+Kênh Tân Hoá
 Hương Lộ 2
 Trương Phước Phan
-Đường CC4
-Đường DC6
-Đường số 3
+CC4
+DC6
+số 3
 Hẻm 154/30 Phạm Văn Hai
 Nguyễn Cửu Phú
-Đường số 23
+số 23
 Tùng Dinh
 Tân Lập
 Phùng Tá Chu
 Gò Cẩm Đêmj
-Đường Lê Minh Xuân
+Lê Minh Xuân
 Hoàng Việt
 Nguyễn Hiến Lê
-Đường Cộng Hòa
+Cộng Hòa
 Mai Lão Bạng
 Trương Hoàng Thanh
 Hòa Hảo
-Đường Nguyễn Duy Dương
+Nguyễn Duy Dương
 Hẻm 436 3 Tháng 2
-Đường Thành Thái
+Thành Thái
 Trần Thiện Chánh
 Đồng Nai
 Cửu Long
 Nguyễn Giàn Thanh
-Đường Trịnh Đình Thảo
-Đường Trịnh Đình Trọng
+Trịnh Đình Thảo
+Trịnh Đình Trọng
 Đoàn Hồng Phươcs
 Huỳnh Văn Chinhs
 Nguyễn Cửu Đàm
 Trần Văn Ơn
-Đường số 4
+số 4
 Lê Trung Nghĩa
-Đường số 44
-Đường Trần Nhân Tôn
+số 44
+Trần Nhân Tôn
 Quyet Thang
-Đường Nguyễn Tường Phổ
+Nguyễn Tường Phổ
 Hẻm 351 Lạc Long Quân
 Hát Giang
-Đường 385
+385
 URE
 Hà Bổng
-Đường Lương Văn Thằng
+Lương Văn Thằng
 Nhất chi mai
 Mường Hoa
 Nguyễn Cảnh Hoan
 Hoài Thanh
-Đường Võ Văn Kiệt
+Võ Văn Kiệt
 Nguyễn Thế Truyện
 Hem 175 Dinh Phong Phu
 Hem 213 Dinh Phong Phu
-Đường Số 265
-đường số 9
-đường 11
-Đường số 7B
+Số 265
+số 9
+11
+số 7B
 việt bắc
 Số 9
 Thiên Phước
@@ -2059,20 +2057,20 @@ Thiên Phước
 Đình Tiên Hoàng
 Hẻm 37 Trần Ðình Xu
 Hội Nghĩa
-Đường Nguyễn Văn Vịnh
+Nguyễn Văn Vịnh
 Phan Vân
 Phan Trung
 ĐT762
 78 Xã Đàn, Đống Đa, Hà Nội, Việt Nam
-Đường Điện Biên
-Đường 30 Tháng 4
+Điện Biên
+30 Tháng 4
 Dương Đức Hiền
 Chế Lan Viên
-Đường số 9A
+số 9A
 Nguyễn Minh Châu
 Phạm Tuấn Tài
 Nguyễn Nhạc
-Đường Nguyễn Văn Luông
+Nguyễn Văn Luông
 Hẻm 267 Lê Văn Việt
 Võ Hữu
 Triệu Nữ Vương
@@ -2093,27 +2091,27 @@ nguyễn phúc nguyên
 Hẻm 65
 nguyễn đình chiểu
 Cổ Tân
-đường 18A
+18A
 DT 419
-D1 - KCN Phố nối A
+D1 - KCN nối A
 hẻm 79 nguyễn công trứ
 Kim Đồng
 Vĩnh Quỳnh
 Vĩnh Ninh
-Đường Mê Linh
+Mê Linh
 Quốc Lộ 37
-Đường Nguyễn Huệ
-Phố Quy Hóa
-Đường số 359
+Nguyễn Huệ
+Quy Hóa
+số 359
 Lê Chương
-Phố Hàng Chĩnh
+Hàng Chĩnh
 Trương Hán Siêu
 Gia Phu
 Hẻm 649 Điện Biên Phủ
 Nguyễn Công Hoan
 Quốc lộ 9
 Hương lộ 5
-Đường Ven Biển
+Ven Biển
 Tỉnh lộ 9
 Trong nhà lồng chợ Tân Nghĩa, ấp 2, xã Tân Nghĩa, Cao Lãnh, Đồng Tháp
 Thoai Ngoc Hau
@@ -2123,9 +2121,9 @@ Bình Giã
 a
 Ngõ 12 Đặng Thai Mai
 Ngõ 104 Cổ Nhuế
-Đường Cô Bắc
+Cô Bắc
 Đỗ Tấn Phong
-Đường Sáng Cụt
+Sáng Cụt
 Tran Nhan Tong
 Ngọc Thảo
 Hải thượng lãn ông-Lh
@@ -2133,8 +2131,8 @@ Thai Dương
 Lê duẩn-Lh
 ngo 1 Au Co
 Đại Lộ Đồng Khởi
-đường 17/4
-Ngõ Vọng cung, đường Lê Lợi, TP Thái bình
+17/4
+Ngõ Vọng cung, Lê Lợi, TP Thái bình
 Nguyễn Bảo Đức
 Tran Dinh Xu Street
 Bis Pasteur Street
@@ -2151,7 +2149,7 @@ Võ thị sáu
 Thục Phán
 124 mạc thiên tích
 Mạc Thiên Tích
-Đường CN6
+CN6
 Đông Hưng Thuận 6
 Vĩnh hưng-Vĩnh tân
 Vĩnh tiến-Vĩnh tân
@@ -2167,13 +2165,13 @@ Nguyễn Văn Cừ nối dài
 DT 954
 Nguyễn Đệ
 lê lợi
-Đường số 19
-Đường Đỗ Quang
+số 19
+Đỗ Quang
 Thành Vinh 1
 Khu du lịch chùa cổ thachj
 Hai Mươi Ba Tháng Mười
-Đường Phạm Hùng
-Đường Lê Đình Dương
+Phạm Hùng
+Lê Đình Dương
 Đại Lộ Hùng Vương
 17/4
 Hai Bà Trungw
@@ -2184,18 +2182,18 @@ Ung Chiếm
 Hẻm 536 Lê Văn Sỹ
 Võ Liên Sơn
 Cầu Mường Xén
-Đường Lương Nhữ Học
+Lương Nhữ Học
 Trương Hán Siêu
 Lê Đại Hanhf
 Sanctuary Ho Tram, Ho Tram Hamlet
 Huỳnh Văn Nghệ
-Đường Số 154
+Số 154
 lê hồng phong
 3/2
 Phan Huy Chú
 BUI THI XUAN
 tùng dinh
-Số 459 Đường Đông Hair
+Số 459 Đông Hair
 Trung Yên 11B
 Đại Lộ Tự Do
 Tái định cư thôn nước mát
@@ -2203,17 +2201,17 @@ Vĩnh Lộc
 Hẻm 751 Hồng Bàng
 Hẻm 297 Hậu Giang Phường 5 Quận 6
 Ngoc Hoi
-đường Hai Bà Trưng
+Hai Bà Trưng
 Xương Giang
 Trăn Đăng Ninh
 Phường Ngọc Xuân
 Ỷ Lan
 Dốc Mơ 1
-Khu Phố 5
+Khu 5
 Huỳnh Thị Khả
-Đường D10
+D10
 Bắc Đẩu
-Đường Lê Đình Cẩn
+Lê Đình Cẩn
 Câu Mây
 Ngõ 145 Cổ Nhuế
 Lê đại hành
@@ -2236,53 +2234,53 @@ Thác Bạc
 La Thành
 Hàng Điếu, Cửa Đông, Hoàn Kiếm, Hà Nội, Vietnam
 Chùa Bộc
-Phố Đình Ngang
+Đình Ngang
 Hẻm 539
 Đống Đa
-Phố Vạn Bảo
+Vạn Bảo
 Hem 227 Dinh Phong Phu
 Hem 261 Dinh Phong Phu
 Dinh Phong Phu
-đường vành đai Sam Sung
+vành đai Sam Sung
 Binh Hà
 Cô Giang
-Ngo 25 Duong Ngo Duc Ke
+Ngo 25 Ngo Duc Ke
 Mậu Thân, P. Xuân Khánh, Q. Ninh Kiều, TPCT
 Nguyễn Việt Dũng
 Hem 86 Dinh Phong Phu
 Hẻm 80 Gò Dầu
 Ngô Hữu Hạnh
-Đường 30 tháng 4
+30 tháng 4
 Nguyễn Việt Hồng
 Đại lộ Hòa Bình
-Đường số 2, khu dân cư, Thới Nhựt 2
-Đường số 17, khu vực 4
-Đường 6A, khu vực 4
+số 2, khu dân cư, Thới Nhựt 2
+số 17, khu vực 4
+6A, khu vực 4
 Tỉnh lộ 52
 Hùng Vương
 Hẻm 51
 Traần Hưng Đạo
 Hồ Tùng mậu
 Trần BìnH Trọng
-Đường số 26
+số 26
 Dủổng 21
 Đại Lộ 3
 Ngô Mây
-Đường D4
+D4
 Cái Sơn - Hàng Bàng
 trần phú
 Dân Trí
-Đường tỉnh 295
+tỉnh 295
 Nguyễn Truyền Thanh
-đường Ngô thị nhậm
+Ngô thị nhậm
 Đặng Thái Thân
 Dủổng D1
 Dủổng D5
-Đường D8
-đường số 38
+D8
+số 38
 Trùm Thuật A
 Ho Nghinh
-Đường số 6B
+số 6B
 Hoàng Minh Chánh
 Tra Que Village
 Nguyễn Huêj
@@ -2292,13 +2290,13 @@ Bach Dang
 Hẻm 103 Trần Ðình Xu
 Nguyễn Hụee
 Phước Huệ
-Đường D3
+D3
 Nguyễn Quý Cảnh
 Phước Thêr
 Phước Thể
-Phố Nguyễn Thiếp
+Nguyễn Thiếp
 Đồi Dương-Bình Thạnh
-đường 34
+34
 Thanh Lương-chí công
 Thanh Lương-Chí Công
 Vo Thi Sau
@@ -2308,7 +2306,7 @@ Chu Van An
 Tạ Hiện
 Hẻm Thủ Khoa Huân
 Nguyễn Tuấn Thiện
-Đường Số 3,KCN Long Hậu,Cần Giuộc,Long An
+Số 3,KCN Long Hậu,Cần Giuộc,Long An
 KP.Tân Bình,P.Tân Hiệp,TX Tân Uyên,Bình Dương
 Hưng Phước 1,PMH,P.Tân Phong,Q.7
 Duong Tran Ninh
@@ -2319,7 +2317,7 @@ Nghĩa Hưng
 Tứ Hải
 Đất Thánh
 Khai Quang
-Đường Xuân Phương
+Xuân Phương
 Hẻm 196
 Khai Trí
 Đại Nghĩa
@@ -2327,20 +2325,20 @@ Hẻm 851 Cách mạng tháng 8
 Phú Lộc
 Hẻm 35 Nghĩa Phát
 Le Quy Don
-Đường Nam Cát Tiên
+Nam Cát Tiên
 Nguyen thien thuat
 Phan Chu Trinh,P.Bến Thành,Q.1
 Phan Đình Phùng (nối dài)
 Hẻm 182 Ðề Thám
-Đường số 34
+số 34
 Lê Bình,P.4,Q.Tân Bình
 Hoàng Việt,P.4,Q.Tân Bình
 Phạm Thái Bường,P.Tân Phong,Q7
 nguyen cong tru
 NSH (VĨNH AN - GIÁP NƯỚC)
-Đường Trương Tùng Quân
+Trương Tùng Quân
 Bãi Đá 7 Màu-Bình Thạnh
-Đường 30,DT 742,Bình Dương
+30,DT 742,Bình Dương
 KCN Mỹ Phước 3,Thị Xã Bến Cát,Bình Dương
 Quốc lộ 32
 Ngõ 11 Tô Ngọc Vân
@@ -2348,29 +2346,29 @@ Ngõ 11 Tô Ngọc Vân
 Nguyễn Cửu Vân
 Huyên Trân Công Chúa
 Dang Thau Than
-Đường Hồ Chí Minh
+Hồ Chí Minh
 Ngõ 553 Giải Phóng
-Đường số 16A
+số 16A
 QL 51,Tổ 1,Thiên Bình,Tam Phước,TP.BH,ĐN
-Phố Phú Diễn
+Phú Diễn
 Hà Trì
 Trần Hưng Đạo - Bình Khánh
 Nguuenex Thái Học - Mỹ Bình
 Võ Trứ
 Ham Ninh Fishervillage
 Trần Quốc Toanr
-Đường số 5
+số 5
 Dam Rong 1
 Quách Điêu
 Hẻm 27 Kinh Dương Vương
-Đường 9A,KCN Biên Hoà 2,TP.Biên Hoà,ĐN
+9A,KCN Biên Hoà 2,TP.Biên Hoà,ĐN
 Yên Xá
 cửa tiênf
-Đường Số 9A,KCN Biên Hoà 2,TP.Biên Hoà,ĐN
-Phố Thứa, Thôn Tháp, Xã Dị Sử, Huyện Mỹ Hào, Tỉnh Hưng Yên
+Số 9A,KCN Biên Hoà 2,TP.Biên Hoà,ĐN
+Thứa, Thôn Tháp, Xã Dị Sử, Huyện Mỹ Hào, Tỉnh Hưng Yên
 Lệ Ninh
 N 1 MEGABRUBY
-Ngõ 58 Phố Việt Hưng
+Ngõ 58 Việt Hưng
 lương ngọc quyến
 Phan Sỹ Thục
 Quốc lộ 10
@@ -2389,7 +2387,7 @@ Dương Hiến Quyền
 Ha Hoi, Hoan Kiem
 Chấn Hưng
 Ngõ 19 Trần Quang Diệu
-Duong Nguyen Van Thu, Da Kao
+Nguyen Van Thu, Da Kao
 N6
 Ngõ 431 Âu Cơ
 Tức Mạc
@@ -2419,18 +2417,18 @@ Phù Nghĩa
 Trung Yên 11C
 Nguyễn Thi
 Phan Tình
-Phố Na Cồ
+Na Cồ
 Kim Dong
 Quán Thánh
 Cao Đạt
-Đường tỉnh 302
-đường liên xứ
-Phố Tố Hữu
+tỉnh 302
+liên xứ
+Tố Hữu
 ngã 3 chợ Quán Chuột
 Tỉnh Lộ 60
 Nga Tam Kim
 Hẻm 108 Nguyễn Thiện Thuật
-Phố Ngũ Xã
+Ngũ Xã
 Hoà Mã
 Calmette
 Tam Thôn - Nghĩa Thái - Nghĩa Hưng
@@ -2438,21 +2436,21 @@ Chợ Đào Khê- đội 12 Nghĩa Châu, Nghĩa Hưng
 Trần Ngọc Diện
 Thạnh Lộc 16
 Võ Văn Vân
-Duong Kim Dong
+Kim Dong
 National Highway 2
 Nguyen Viet Xuan
 Chu Văn
-1648 đại lộ Võ Văn Kiệt, phường 16, quận 8, thành phố Hồ Chí Minh
+1648 đại lộ Võ Văn Kiệt, phường 16, quận 8, thành Hồ Chí Minh
 Nguyễn Ái Quốc
 Bùi Huy Đáp
 Vu Huu Loi
-Đường Lê Văn Thọ
+Lê Văn Thọ
 to 18, TT. Xuan Truong
 Hẻm 69 Phan Anh
 Quy Don
 to 18 TT. Xuan Truong
 Bến Thóc
-Đường Nguyễn Phúc Chu;Nguyễn Phúc Chu
+Nguyễn Phúc Chu;Nguyễn Phúc Chu
 Cau May Alley
 Lê Quí Đôn
 Láng Lớn-Xà Bang
@@ -2466,18 +2464,18 @@ Hẻm B112 Bạch Đằng
 Hoang Lien
 Nguyễn Duy
 Duong 429
-Đường Song Hành Xa lộ Hà Nội
+Song Hành Xa lộ Hà Nội
 Lê Huân
-Phố Mã Mây
+Mã Mây
 Le Quy Don-Cam Pho
-Phố Dịch Vọng Hậu
+Dịch Vọng Hậu
 Phan Văn Hân
-Đường 10Tây
-Đường Nguyễn Kim
+10Tây
+Nguyễn Kim
 Lê Văn Huân
-Đường Hùng Vương
+Hùng Vương
 Cresent Mall - Nguyen Van Linh Parkway
-Đường số 53
+số 53
 hẻm 491 Huỳnh Văn Bánh
 Ngõ 34 Âu Cơ
 phúc tân
@@ -2492,7 +2490,7 @@ Nguyễn Thiện Thuâtj
 Thành Chung
 Bùi Sỹ Tiêm
 song hào
-Phố Duy Tân
+Duy Tân
 Quốc lộ 63
 cầu Đông
 36 bis
@@ -2502,7 +2500,7 @@ Tân Hương
 Giếng Đáy
 bến tàu tuần  châu
 Tiêu Giao
-Đường nội bộ
+nội bộ
 Phan Ngọc Nhân
 khu 2, thị trấn Liễu Đêf
 Dinh Tien Hoang
@@ -2510,14 +2508,14 @@ Dinh Tien Hoang
 lê chân
 hải đăng
 Anh Đào
-đường 21 ( Đặng Xuân Bảng)
+21 ( Đặng Xuân Bảng)
 KM 5, QL 21, xóm 2 xã Nam Toanf
-đường Bệnh Viên
+Bệnh Viên
 21 tháng 8
 Lê Duân
 Nam Đồng
 Trung Tự
-Đường số 18
+số 18
 Lý Bôn
 N1
 Đức Diễn
@@ -2528,46 +2526,46 @@ trần quang diêuj
 Ngách 49 Ngõ 64 Nguyễn Lương Bằng
 Ngõ 64 Nguyễn Lương Bằng
 Cổ Linh
-Phố Nguyễn Chí Thanh
-Đường Nguyễn Ngọc Vũ
+Nguyễn Chí Thanh
+Nguyễn Ngọc Vũ
 Quan Nhân
 Linh Lang
 Ngô 187
 Doãn Kế Thiện
-Phố Viên
+Viên
 Ngõ 163 - Hoàng Ngân
-Đường Nguyễn Khánh Toàn
+Nguyễn Khánh Toàn
 Trần Hữu Dục
 Mai Dịch
-Phố Giảng Võ
-Đường S
-Đường T
+Giảng Võ
+S
+T
 ngã tư cầu Nguyễn Tri Phương
 Ngõ 210 Hoàng Quốc Việt
-Phố Chùa Láng
-Phố Nguyễn Thị Định
-Phố Doãn Kế Thiện
+Chùa Láng
+Nguyễn Thị Định
+Doãn Kế Thiện
 Phan Kế Bính
 Nguyen Van Cu
 Ngách 8, Ngõ 95
 Nguyễn Phong Sắc
 Cầu Vồng
 Xuân Thủy
-Đường Hồ Tùng Mậu
+Hồ Tùng Mậu
 Nguyễn Cảnh Dị
 Nguyễn Công Thái
-Phố Trần Huy Liệu
+Trần Huy Liệu
 Ngõ Hàng Bột
 Đại Từ
 Nguyễn Văn Huyên
 Cổ Nhuế
-Phố Vũ Phạm Hàm
-Phố Cát Linh
+Vũ Phạm Hàm
+Cát Linh
 Dịch Vọng
-Phố Hàng Giầy
+Hàng Giầy
 Hẻm Lò Nhôm
-Đường Long Biên 1
-Phố Tiểu Hoàng
+Long Biên 1
+Tiểu Hoàng
 Phan Văn Quân
 NguyễnĐình Hoàng
 Nguyễn Mân
@@ -2583,20 +2581,20 @@ Xuân Đông
 DT576b
 Đồng Hải
 74 Huỳnh Thiện Lộc
-Đường số 28A Tiểu khu 1
+số 28A Tiểu khu 1
 D5
 Nguyễn Thị Bảy
 Hàng giấy
 lê duẩn,quận hải châu,tp đà nẵng
-Đường Cầu Bươu
+Cầu Bươu
 nguyễn duy trinh
 Ngõ 177 Định Công
 Ngõ 405 Ngọc Hồi
 Ngõ 230 Lạc Trung
 Kim Giang
-Đường Kim Giang
+Kim Giang
 Song Hào
-Ngõ Xuân Trình đường Giải Phongs
+Ngõ Xuân Trình Giải Phongs
 thịnh liêtj
 Ngõ 24 Kim Đồng
 Phạm Ngũ Laox
@@ -2611,25 +2609,25 @@ Hẻm Nguyễn Trãi
 Nguyễn Tuyển
 Cầu Vĩnh Tuy
 Trần Huy Liêuj
-Phố Mạc Thị Bưởi
+Mạc Thị Bưởi
 TÂy Sơn, TT Gôi
 Nguyễn Sơn Trà
 Ngõ Núi Trúc
-Phố Cửa Nam
-Phố Lê Văn Linh
+Cửa Nam
+Lê Văn Linh
 Đoàn Trần Nghiêpj
 Vạn Bảo
 Ngõ 6 Vĩnh Phúc
 Đốc Ngữ
 Ngô Gia Từ
 Vũ Hữu Lợi
-Ngõ 254 Đường Bưởi
+Ngõ 254 Bưởi
 Cửa Bắc
 Nghĩa Dũng
 Tân Ấp
 Phan Tu
 An Dương
-Ngõ 124 đường Âu Cơ
+Ngõ 124 Âu Cơ
 Đường Âu Cơ
 Ngõ 67 Tô Ngọc Vân
 Ngọc Lâm
@@ -2643,14 +2641,14 @@ Bồ Đề
 Ái Mộ
 Tràng Thi
 Cầu Bắc Hưng Hải
-Đường 2 Cửu Việt
+2 Cửu Việt
 Ngô Xuân Quảng
-Phố Suir
+Suir
 Cổ Bi
 Ninh Hiệp
 dang thuy tram
 Tân Thụy
-Phố Tramj
+Tramj
 xuân Thiện gàn a giáo xứ Bình Lộc
 nguyễn Thái Học
 Bắc Câuf
@@ -2663,28 +2661,28 @@ Hồng Thập Tự
 đông myx
 Nguyễn Cơ Thạch
 Nguyễn Văn Trường
-Đường 130 Cao Lỗ
+130 Cao Lỗ
 Lê Thị Hà
 Hẻm 71/2 Nguyễn Bặc
 Y Moan
 Âu Dương Lân
-Đường số 31
-Đường Hồ Thị Kỷ
-Đường Sư Vạn Hạnh
+số 31
+Hồ Thị Kỷ
+Sư Vạn Hạnh
 Trung Mỹ - Tân Xuân
 bản lác 1
 Trần Phu
 Ql 32
-đường số 2
-Đường Độc Lập
+số 2
+Độc Lập
 K209 Nguyễn Văn Thoại
-Phố Bồ Đề
+Bồ Đề
 Thái Thị Bôi
 Rạch Gầm-Xoài Mút
 Hoàng Công Chất
 Ngõ 39 - Dịch Vọng
 Thủ Dầu Một
-Phố Lê Lợi
+Lê Lợi
 Đặng Tất
 An Nhơn 6
 Van Lam village, Ninh Hai commune, Hoa Lu district, Ninh Binh
@@ -2694,26 +2692,26 @@ Vũ Huy Tấn
 Thụy Phương
 Nhật Tảo
 Giáp Nhất
-Phố Phạm Hồng Thái
+Phạm Hồng Thái
 Văn Cận
 Cây Trâm
 KĐT Việt Hưng
 Cát Dài
 Trung Tả
-Đường D
+D
 Triều Khúc
 Tăng Thiết Giáp
 Bùi Đình Túy
 Cách Mạng Tháng
 Lô 1 Đền Lừ 1
 Khương Thượng
-Đường Tỉnh Lộ 10
-Phố Nguyễn Khả Trạc
+Tỉnh Lộ 10
+Nguyễn Khả Trạc
 Tập thể Thanh Xuân Bắc
 Lán Bè
 Chính Kinh
 Sài Đồng
-Đường Nguyễn Oanh
+Nguyễn Oanh
 Nguyễn Thị Tần
 Yên Hòa
 Trần Mai Ninh
@@ -2725,9 +2723,9 @@ Vĩnh Phúc
 Hà Chương
 Hòa Mã
 Vĩnh Tuy
-Phố Võ Văn Dũng
+Võ Văn Dũng
 Bùi Quang Là
-Đường Xuân Đỉnh
+Xuân Đỉnh
 Chợ Sủi
 ĐINH BỘ LĨNH
 XVNT
@@ -2735,19 +2733,19 @@ Quốc lộ 43
 Ngõ 116 Nhân Hòa
 Quốc Lộ 13
 Hữu Nghĩa
-Phố Nhân Hòa
-Đường Nguyễn Cảnh Chân
+Nhân Hòa
+Nguyễn Cảnh Chân
 Trần Đăng Ninh kéo dài
 Anh
 Kỳ Đồng
 Hoàng Công Chất
 Anh Gold House
 Ngô Sỹ Liên
-Phố Trịnh Công Sơn
+Trịnh Công Sơn
 Chung Cư Nàng Hương
 Trung Hòa
 Nguyễn Hồng Đào
-Đường Nguyễn Thái Sơn
+Nguyễn Thái Sơn
 Phú Diễn
 Hàng Kênh
 Quốc Lộ 15
@@ -2756,30 +2754,30 @@ Vũ Hồng Phô
 Lý Văn Phức
 Quan Hoa
 Cầu Giấy ( dãy C cũ)
-Phố Quan Nhân
-Đường Nguyễn Hoàng Tôn
+Quan Nhân
+Nguyễn Hoàng Tôn
 Đội Nhân
-Phố Hoè Nhai
-Đường Bình Chiểu
+Hoè Nhai
+Bình Chiểu
 Chợ Khâm Thiên
 Khu đô thị Định Công
 Bàu Cát
 Trọng Tấn
-Phố Kim Ngưu
+Kim Ngưu
 Thanh Đàm
 CỘNG HÒA
-Đường Trương Chí Cương
+Trương Chí Cương
 Vĩnh Hưng
 Mỹ Đình
 Hồ Đắc Di
 Hồ Sen
 Tản Đà
-Phố Thįnh Liệt
+Thįnh Liệt
 Pháo Đài Láng
 Vạn Phúc
 Hẻm 911 Quang Trung
 Phó Nguyễn Lân
-Đường Thạch Lam
+Thạch Lam
 tổ 0 Thịnh Liệt
 Trung Hà
 Times City
@@ -2793,7 +2791,7 @@ Khu Sống Hoàng
 Ngõ 420 Kim Giang
 BIS Đội Cấn
 Tam Hà
-Đường Trần Phú
+Trần Phú
 KHA VẠN CÂN
 Lê Văn Chí
 Tương Mai
@@ -2802,14 +2800,14 @@ Hữu Hào
 Hoàng Như Tiếp
 Đỗ Quang Đẩu
 Yên Sở
-Đường Võ Thị Sáu
+Võ Thị Sáu
 Nguyễn Văn Huyên kéo dài
 tổ Giang Biên
 Thịnh Liệt
 Huỳnh Mẫn Đạt
 Cát Cụt
 Ngõ 31 Nguyễn Cao
-Phố Đội Cấn
+Đội Cấn
 Nguyễn Thị Duệ
 Nguyễn Văn Lạc
 Ba La
@@ -2825,7 +2823,7 @@ Chùa Hà
 Xuan Dieu
 trịnh công sơn
 Quốc lộ 21B
-Đường tỉnh 428
+tỉnh 428
 Đào Xuyên
 Dam Thuy
 Duơng Hiến Quyền
@@ -2837,20 +2835,20 @@ Ngõ 548 Nguyễn Văn Cừ
 việt hungw
 Ngõ 87 Hồng Bàng
 Mai Xuân Thưởng
-Đường Ðiện Biên Phủ
+Ðiện Biên Phủ
 Tân Thới Nhất 7
 Quốc lộ 1
 17 Hà Huy Tập, Liên Nghĩa, Đức Trọng, Lâm Đồng
-Đường Võ Trần Chí
+Võ Trần Chí
 Cao Bá Nhạ
 Do Quang Dau
 Giáp Bát
 Mạc Vân
 183 Dinh Tien Hoang, Phó 9, Dong thanh
-Đường tỉnh 605
+tỉnh 605
 18 Tháng 8
 Cao Hồng Lãnh
-đường số 7A, cư xá Bình Thới, Phường 8, Quận 11
+số 7A, cư xá Bình Thới, Phường 8, Quận 11
 Hà Huy Giáp
 Huỳnh Văn Lũy
 Thanh Niên
@@ -2869,45 +2867,45 @@ Kiệt 15 Luong Thế Vinh
 Hang Tre
 Lê Văn Long
 Số 21
-khu phố Bình Thuận 2,phường Thuận Giao,TX.Thuận An, Tỉnh Bình Dương
+khu Bình Thuận 2,phường Thuận Giao,TX.Thuận An, Tỉnh Bình Dương
 M2-002 Chung cư Số 1 Tôn Thất Thuyết, Phường 1, Quận 4
 Hoồ Tùng Mậu
 Thôn Tiến Thành
-Phố Quàng Khành
+Quàng Khành
 Tỉnh lộ 359C
 Bàu Cát 8
 Nguyễn Sĩ Sách
 18 Hoang Quoc Viet
 D3
-Đường D1
+D1
 Hùng Thắng
 Lê Hữu Trác
 mỹ đa đông 1
-Đường Phạm Cự Lượng
+Phạm Cự Lượng
 Phạm Tứ
 Bùi Dương Lịch
 Bắc Sơn
-Đường Cao Sơn Pháo
-Đường Nguyễn Đình Tứ
+Cao Sơn Pháo
+Nguyễn Đình Tứ
 Tiểu La
 Huỳnh Ngọc Huệ
 Mai Am
 Hải Hồ
 Đỗ Xuân Cát
 Đỗ Anh Hàn
-Đường Nguyễn Văn Thoại
+Nguyễn Văn Thoại
 mỹ đa đông 2
 Trần Văn Dư
 Ông Ích Đường
 Nguyễn Đình Tứ
-Đường Tú Mỡ
+Tú Mỡ
 an trung 9
-Đường Bắc Sơn
+Bắc Sơn
 An Cư 7
 Đông Kinh Nghĩa Thục
 Phước Trường 15
 Phạm Cự Lượng
-Đường Ông Ích Đường
+Ông Ích Đường
 Nguyễn Xuân Hữu
 Thanh Thủy
 Dương Khuê
@@ -2926,7 +2924,7 @@ Bùi Tá Hán
 K20
 Minh Khai;Lĩnh Nam
 Hẻm 120 Trần Hưng Đạo
-Đường Cao Thắng
+Cao Thắng
 Quoc lo 14C
 Lương Thúc Kỳ
 Lê Tấn Trung
@@ -2940,13 +2938,13 @@ Lý Thiên Bảo
 Mẹ Thứ
 Hẻm 766/92 Cách mạng tháng 8 (5.5m)
 Tố Hữu
-Đường Hoàng Văn Thụ
-Đường số 3J
+Hoàng Văn Thụ
+số 3J
 Hung Vuon
 Đà Nẵng
 Quốc lộ 21A
 Tran Cao Van
-Phố Lâm Hạ
+Lâm Hạ
 Thọ Tháp
 Thông Thiên Học
 Tà Lài
@@ -2958,14 +2956,14 @@ Phan Đình Phungf
 Nguyễn Thị Lưu
 Mai Hac De
 Xã Đàn, Phương Liên
-Đường Cách mạng Tháng 8
+Cách mạng Tháng 8
 tran phu dong van ha giang
-đường số 23
+số 23
 823 hồng haf
 Phùng Khoang
 Quyết Tiến
 Trà Khúc
-Đường Lưu Xuân Tín
+Lưu Xuân Tín
 Ngõ 1 - Nguyễn Thị Định
 Thượng Đạt
 Thị Tứ, IaKrai, IaGrai, Gia Lai, Phone: 0905.888.705
@@ -2977,7 +2975,7 @@ Vệ Hồ
 LOng Hưng
 Nguyễn Đăng Giai
 Cu Lac
-Đường Trần Đại Nghĩa
+Trần Đại Nghĩa
 Trần Hưng Đao
 Han Mac Tu
 Hoàng Sĩ Khải
@@ -2986,10 +2984,10 @@ hẻm 345 Trần Hưng Đạo
 Ngô Thì Sĩ
 Ngõ 69 Chùa Láng
 Trần An Tư
-Đường nội bộ lô 7 Lê Hồng Phong
+nội bộ lô 7 Lê Hồng Phong
 Le Lai
 Đỗ Trọng Vanw
-Ngõ 557 đường Nguyễn Văn Linh
+Ngõ 557 Nguyễn Văn Linh
 Hẻm Nguyễn Đình Chiểu
 Hẻm 11 Mậu Thân
 Boat Station
@@ -3001,9 +2999,9 @@ Nguyễn Văn Tráng
 Tân Thới Nhất 5
 thượng mỗ đan phượng hà nội
 Hẻm 32 Hồ Thị Kỷ
-Đường Cù Chính Lan
+Cù Chính Lan
 Cång Cå
-Đường Núi Voi
+Núi Voi
 1/4 Street
 Cång Cá
 Quan
@@ -3026,15 +3024,14 @@ An Thượng 34
 Đức Lợi 1
 Alley 118, Tran Hung Dao Street
 Phạm Phú Thứ
-Phố Hàng Thiếc
-Phố Thanh Miến
-đường vào trường Tiểu học Ninh Hải
+Hàng Thiếc
+Thanh Miến
+vào trường Tiểu học Ninh Hải
 An Thượng 20
 Hoàng Kế Viêm
 Núi Ngọc, Cát Bà, Hải Phòng, Vietnam 187380
 Hoàng Liên
 Hẻm 113/4 Võ Duy Ninh
-Duong B4
 Hẻm 8 Hoàng Ngọc Phách
 Lê Văn Thiêm
 Quốc lộ 23
@@ -3047,17 +3044,17 @@ Hẻm 21 Trường Sơn
 Tân Sơn Nhì
 Hẻm 15/43 Cầu Xéo
 Hẻm 436B 3 Tháng 2
-Hẻm 436/2 đường 3/2
+Hẻm 436/2 3/2
 Hẻm 399/7 Lý Thái Tổ
 Hẻm 528/5 Điện Biên Phủ
 Chưa có tên
 Hẻm 143 Phan Anh
 Nguyễn Văn Siêu
-Hẻm 47 Đường Số 120
+Hẻm 47 Số 120
 Nghiêm Xuân Yêm
 Ngõ 4 ao sen
 Ngõ 460 Khương Đình
-30/04 street;Đường 30/4
+30/04 street;30/4
 Việt Hưng
 kđt Việt Hưng
 Cång Cā
@@ -3070,7 +3067,7 @@ Bán đảo Linh Đàm
 bđ Linh Đamf
 KĐT Linh Đàm
 Bằng B
-Đường Tựu Liệt
+Tựu Liệt
 Nơ trang Long
 sát cây xăng nhà nước  15
 thôn 5 xã quảng tins
@@ -3084,7 +3081,7 @@ thôn 16,xã hoà khánh
 chợ hoà phus
 Lê Duânr
 tân quảng, ea tohs
-Đường cầu săts
+cầu săts
 thôn đăk cao
 thôn trung hoà xã dlie ya
 Nguyễn Tất thanhf
@@ -3098,7 +3095,7 @@ Giáp Nhị
 Cù Lao
 2 tháng 9
 Le Loi Street
-Phố Nguyễn Chính
+Nguyễn Chính
 Đỗ Thúc Tịnh
 Phạm Văn Đôngf
 đối diện BV Krong Păk
@@ -3106,7 +3103,7 @@ thôn 1 ea kpam
 thị trấn eapok
 hồ xuân Hương
 Thanh Tịnh
-Đường Phan Đăng Lưu
+Phan Đăng Lưu
 ĐT 621
 KĐT Đồng Tau
 KĐT Pháp Vân
@@ -3127,12 +3124,11 @@ Rainbow Linh Đàm
 Xã Dan, Phuong Liên, Hà noi
 Hẻm 493 Lê Đức Thọ
 No Co
-Đường 3052A Phạm Thế Hiển
+3052A Phạm Thế Hiển
 Thái Nguyên
 Bobaland Milktea 120A Hoàng Hoa Thám, Phường 7, Bình Thạnh, Hồ Chí Minh, Vietnam
 Phuong Thuy Xuan
 TT Mai Châu
-29 Duong B4, Phuoc Hai
 Hiệp Thành 13
 Trinh Tu
 Ben Nghe Street
@@ -3143,7 +3139,7 @@ Thống Nhất, Đăk Nhau, Bù Đăng, Bình Phước
 Tháp Bà
 Dong Du Street
 kiet 56 nguyen cong tru
-Đường số 79
+số 79
 2C
 Pham Thai Buong
 Nui Ngoc, Street 3
@@ -3158,16 +3154,16 @@ Ngõ 56 Yên Hoà
 Ngo 128 Chua Lang
 ngõ 3 Trần Quốc Toản
 ngõ 554 Trường Chinh
-Phố Bằng Liệt
+Bằng Liệt
 Nguyen tri Phuong
 Hương Lộ Ngọc Hiệp
 Phạm Đăng Hưng
 samrong
-Đường tân triều
+tân triều
 ngõ cầu mây
 Quoc Huong
-Đường Hoàng Liên
-Phố Đinh Liệt
+Hoàng Liên
+Đinh Liệt
 Tỉnh lộ 44
 Hẻm 418 Võ Văn Tần
 Ngã ba km 68
@@ -3177,7 +3173,7 @@ Nui Ngoc
 Lê Nổ
 Đoàn Hoàng Minh
 Ton That Thiep
-Phố Bình Hòa
+Bình Hòa
 Do Bi Street
 Thọ Lão
 Phú Thạnh 4
@@ -3192,14 +3188,14 @@ Hàm Nghi
 Hẻm 97 Phan Chu Trinh
 Bacu
 Lac Long Quân
-Đường Nguyễn Huy Chương
+Nguyễn Huy Chương
 giải phongs
-Đường Phó Ðức Chính
+Phó Ðức Chính
 Ngô Thị Thu Minh
 Dương Vân Nga
 Hẻm 233 Nguyễn Trãi
-Đường Hồ Xuân Hương
-Đường Lưu Quang Thuận
+Hồ Xuân Hương
+Lưu Quang Thuận
 Đường số 3
 Củ Chi
 Tam Châu
@@ -3208,16 +3204,16 @@ Hẻm 818/61 Xô viết Nghệ Tĩnh
 Ấp Quyết Thắng 2
 Tra sua bong khoi
 Hàng Trống
-đường Hùng Vương
-Đường Nguyễn Hữu Thọ
+Hùng Vương
+Nguyễn Hữu Thọ
 BA TRIEU
 Vũ Hữu
 Ngõ 165 - Cầu Giấy
 Làng Yên Phụ
 Phạm Cự Lượng
-Phố Tạ Hiện
-Phố Đào Duy Từ
-Đường Xô Viết Nghệ Tĩnh
+Tạ Hiện
+Đào Duy Từ
+Xô Viết Nghệ Tĩnh
 T3
 tran phu
 Trương Pháp
@@ -3225,317 +3221,317 @@ Nguyễn Khuyến
 4 Làng Báo Chí
 le hong phong
 195B Du Gia
-Đường Nại Tú 2
-Đường Nguyễn Trung Trực
+Nại Tú 2
+Nguyễn Trung Trực
 Le Van Thu
 Kiệt Lộ Giời 331M
-Đường Phạm Hữu Kính
-Đường Lê Văn Thứ
-Đường Nguyễn Hiền
-Đường Phó Đức Chính
-Đường Nại Hiên Dông 4
-Đường Nại Hiên Đông 1
-Đường Nguyễn Tư Giản
-Đường An Đồn
-Đường Lê Hữu Trác
+Phạm Hữu Kính
+Lê Văn Thứ
+Nguyễn Hiền
+Phó Đức Chính
+Nại Hiên Dông 4
+Nại Hiên Đông 1
+Nguyễn Tư Giản
+An Đồn
+Lê Hữu Trác
 Kiệt 43 Lê Hữu Trác
-Đường Phan Bôi
-Đường Nguyễn Sáng
-Đường Võ Như Hưng
-Đường Nguyễn Thiện Kế
-Đường Tân Thái 1
-Đường Dương Đình Nghệ
-Đường Huy Du
-Đường Hoa Lư
-Đường An Nhơn 15
-Đường Võ Duy Ninh
-Đường Dương Khuê
-Đường Hồ Ngọc Lãm
-Đường Tôn Quang Phiệt
-Đường Lê Chân
-Đường An Trung 5
-Đường Ngọc Hân
-Đường An Trung 9
-Đường Phạm Quang Ảnh
+Phan Bôi
+Nguyễn Sáng
+Võ Như Hưng
+Nguyễn Thiện Kế
+Tân Thái 1
+Dương Đình Nghệ
+Huy Du
+Hoa Lư
+An Nhơn 15
+Võ Duy Ninh
+Dương Khuê
+Hồ Ngọc Lãm
+Tôn Quang Phiệt
+Lê Chân
+An Trung 5
+Ngọc Hân
+An Trung 9
+Phạm Quang Ảnh
 Hẻm 01 K95 Lê Tân Trung
 Kiệt 45 Lê Tân Trung
 Kiệt 62 Nguyễn Phan Vinh
-Đường Trần Hưng Đạo
+Trần Hưng Đạo
 Kiệt 17 Lê Tân Trung
-Đường Nguyễn Chế Nghĩa
-Đường Nguyễn Duy Hiệu
-Đường Lê Tân Trung
-Đường Hoàng Quốc Việt
-Đường Nại Nghĩa 1
-Đường Nại Nghĩa 4
-Đường Nại Nghĩa 5
-Đường Nại Nghĩa 7
+Nguyễn Chế Nghĩa
+Nguyễn Duy Hiệu
+Lê Tân Trung
+Hoàng Quốc Việt
+Nại Nghĩa 1
+Nại Nghĩa 4
+Nại Nghĩa 5
+Nại Nghĩa 7
 Kiệt 39 Nguyễn Gia Trí
-Đường Trần Thánh Tông
-Đường Thành Vinh 1
-Đường Lộc Phước 1
+Trần Thánh Tông
+Thành Vinh 1
+Lộc Phước 1
 22
-Đường Đỗ Thế Chấp
-Đường Trần Bạch Đằng
-Đường Nguyễn Đình
-Đường Phạm Vấn
-Đường Nguyễn Đức An
-Đường Tân Thuận
-Đường Nguyễn Đình Chiểu
-Đường Thành Vinh 3
-Đường Nguyễn Phan Vinh
-Đường Đa Mặn 5
+Đỗ Thế Chấp
+Trần Bạch Đằng
+Nguyễn Đình
+Phạm Vấn
+Nguyễn Đức An
+Tân Thuận
+Nguyễn Đình Chiểu
+Thành Vinh 3
+Nguyễn Phan Vinh
+Đa Mặn 5
 Kiệt 03 Lê Tân Trung
-Đường Mỹ Khê 1
+Mỹ Khê 1
 Kiệt 07 Lê Tân Trung
-Đường Bùi Tá Hán
-Đường Hoàng Văn Hòe
+Bùi Tá Hán
+Hoàng Văn Hòe
 Kiệt 177 Nguyễn Văn Cừ
 Hẻm 42 Kiệt 177 Nguyễn Văn Cừ
 Kiệt 495 Ngô Quyền
-Đường Lê Lợi
+Lê Lợi
 Kiệt 57 Lê Hữu Trác
-Đường Phan Bội Châu
+Phan Bội Châu
 Hẻm 73 Ngô Quyền
-Đường Lý Thái Tông
+Lý Thái Tông
 Kiệt 282 Nguyễn Văn Cừ
-Đường Dương Bích Liên
-Đường Dũng Sĩ Thanh Khê
-Đường Lê Văn Thịnh
-Đường Phú Lộc 9
-Đường Nguyễn Duy Trinh
-Đường Kim Liên 1
-Kiệt 113 Đường Nguyễn Chí Thanh
+Dương Bích Liên
+Dũng Sĩ Thanh Khê
+Lê Văn Thịnh
+Phú Lộc 9
+Nguyễn Duy Trinh
+Kim Liên 1
+Kiệt 113 Nguyễn Chí Thanh
 Kiệt 8 Ngô Xuân Thu
 Kiệt 08 Ngô Xuân Thu
-Đường Phùng Hưng
-Đường Phú Lộc 20
-Đường Nguyễn Xí
-Đường Hà Hồi
-Đường Nguyễn Thị Bảy
-Đường Trà Khê 3
-Đường Trà Khê 4
+Phùng Hưng
+Phú Lộc 20
+Nguyễn Xí
+Hà Hồi
+Nguyễn Thị Bảy
+Trà Khê 3
+Trà Khê 4
 Kiệt 7 Nguyễn Phước Chu
 Kiệt 36 Lý Thái Tông
-Đường Vũ Quỳnh
+Vũ Quỳnh
 Kiệt 207B Dũng Sĩ Thanh Khê
-Đường Phan Nhu
-Đường Hồ Quý Ly
+Phan Nhu
+Hồ Quý Ly
 Kiệt 65 Ngô Xuân Thu
 Kiệt 91 Ngô Xuân Thu
 Kiệt 44 Ngô Xuân Thu
-Đường Đoàn Phú Tứ
-Hẻm 68 Kiệt 151 Đường Âu Cơ
+Đoàn Phú Tứ
+Hẻm 68 Kiệt 151 Âu Cơ
 Kiệt 151 Âu Cơ
 Hẻm 82 Kiệt 151 Âu Cơ
 Kiệt 186 Phạm Như Xương
 Kiệt 53 2 Tháng 9
 Kiệt 129 Phạm Như Xương
-Đường Phạm Như Xương
+Phạm Như Xương
 Kiệt 05 Nam Cao
 Kiệt 575 Tôn Đức Thắng
 Kiệt 100 Phạm Như Xương
-Đường Đặng Tất
-Đường Nam Cao
-Đường Hoàng Thị Loan
-Đường Tô Hiệu
+Đặng Tất
+Nam Cao
+Hoàng Thị Loan
+Tô Hiệu
 Kiệt 104 Đoàn Phú Tứ
 Kiệt 150 Dũng Sĩ Thanh Khê
-Đường Phú Lộc 10
-Đường Phú Lộc 19
-Đường Ngô Đức Kế
-Đường Phan Phú Tiên
-Đường Phú Lộc 12
-Đường Phục Đân
-Đường Yên Khê 1
+Phú Lộc 10
+Phú Lộc 19
+Ngô Đức Kế
+Phan Phú Tiên
+Phú Lộc 12
+Phục Đân
+Yên Khê 1
 Kiệt 58 Dũng Sĩ Thanh Khê
 Kiệt 72 Nguyễn Văn Thoại
 Kiệt 256 Âu Cơ
 Hẻm 49 Kiệt 256 Âu Cơ
-Đường Đồng Kè
-Đường Nguyễn Lương Bằng
+Đồng Kè
+Nguyễn Lương Bằng
 Kiệt 127 Đồng Kè
 Kiệt 345 Âu Cơ
-Đường 2 Tháng 9
+2 Tháng 9
 Kiệt 317 Âu Cơ
 Kiệt 51 Trương Chí Cương
 Hẻm 48 Kiệt 245 Âu Cơ
 Hẻm 30 Kiệt 245 Âu Cơ
 Kiệt 59 Trương Chí Cương
 Kiệt 21 2 Tháng 9
-Đường Nguyễn Hanh
+Nguyễn Hanh
 Kiệt 06 Nguyễn Xuân Nhĩ
-Đường Hoàng Kế Viêm
-Đường Mẹ Nhu
-Đường Yên Khê 2
-Đường Nguyễn Huy Lượng
+Hoàng Kế Viêm
+Mẹ Nhu
+Yên Khê 2
+Nguyễn Huy Lượng
 Kiệt 05 Nguyễn Cao
-Đường Nguyễn Cao
-Đường Đặng Đình Vân
+Nguyễn Cao
+Đặng Đình Vân
 Trịnh Khắc Lập
-Đường Tiên Sơn 18
-Đường Vùng Trung 12
+Tiên Sơn 18
+Vùng Trung 12
 Kiệt 665 Âu Cơ
 Kiệt 27
-Đường Đào Duy Từ
+Đào Duy Từ
 Kiệt 15 Nguyễn Huy Lượng
-Đường Trần Văn Đán
-Đường Chu Cẩm Phong
-Đường Đặng Xuân Thiều
-Đường Lê Văn Hiến
-Đường Nguyễn Văn Huề
+Trần Văn Đán
+Chu Cẩm Phong
+Đặng Xuân Thiều
+Lê Văn Hiến
+Nguyễn Văn Huề
 Kiệt 21 Chế Lan Viên
-Đường Trần Thanh Trung
-Đường Mẹ Hiền
-Đường Văn Thánh 4
-Đường Văn Thánh 3
+Trần Thanh Trung
+Mẹ Hiền
+Văn Thánh 4
+Văn Thánh 3
 Kiệt 117 Trần Văn Dư
-Đường Mỹ Đa Đông 10
-Đường Mỹ Đa Đông 12
-Đường Chế Lan Viên
-Đường Bà Huyện Thanh Quan
+Mỹ Đa Đông 10
+Mỹ Đa Đông 12
+Chế Lan Viên
+Bà Huyện Thanh Quan
 Kiệt 96 Bà Huyện Thanh Quan
-Đường Huỳnh Lý
+Huỳnh Lý
 Kiệt 215 Nguyễn Duy Trinh
-Đường Đống Đa
-Đường Đinh Công Tráng
-Đường Văn Thánh 1
-Đường Mỹ Đa Đông 8
-Đường Mỹ Đa Đông 7
-Đường Văn Thánh 7
+Đống Đa
+Đinh Công Tráng
+Văn Thánh 1
+Mỹ Đa Đông 8
+Mỹ Đa Đông 7
+Văn Thánh 7
 Kiệt 95 Bà Huyện Thanh Quan
-Đường Thị Xuân Quý
-Đường Mai Lão Bạng
+Thị Xuân Quý
+Mai Lão Bạng
 Hẻm 4 Kiệt 14 Bùi Chát
 Kiệt 49 Trương Chí Cương
-Đường Nguyễn Như Hạnh
-Đường Bàu Năng 11
-Đường Bùi Chát
-Đường Đa Mặn Đông 4
-Đường Trung Nghĩa 4
-Đường Lương Trúc Đàm
-Đường Đồng Khởi
-Đường Bàu Năng 12
-Đường Đỗ Xuân Cát
-Đường Đảo Tri
+Nguyễn Như Hạnh
+Bàu Năng 11
+Bùi Chát
+Đa Mặn Đông 4
+Trung Nghĩa 4
+Lương Trúc Đàm
+Đồng Khởi
+Bàu Năng 12
+Đỗ Xuân Cát
+Đảo Tri
 Kiệt 64 Trần Đình Tri
-Đường Nguyễn Minh Châu
+Nguyễn Minh Châu
 Kiệt 183 Tô Hiệu
 Kiệt 192 Tô Hiệu
 Kiệt 242 Tô Hiệu
-Đường 5 Cu
+5 Cu
 Gia Phú
-Đường Quốc lộ 1
+Quốc lộ 1
 Cầu Long Biên
-Đường Châu Văn Liêm
-Đường Phan Kế Bính
-Đường Hải Phòng
-Đường Nước Mặn 5
-Đường Phan Tứ
+Châu Văn Liêm
+Phan Kế Bính
+Hải Phòng
+Nước Mặn 5
+Phan Tứ
 Kiệt 142 Tô Hiệu
 Kiệt 68 Tô Hiệu
-Đường Nguyễn Đỗ Cung
+Nguyễn Đỗ Cung
 Kiệt 60 Tô Hiệu
 Kiệt 108 Trần Đình Tri
-Đường Nguyễn Bá Lân
-Đường Trần Văn Dư
-Đường Ngô Chân Lưu
-Đường Tống Duy Tân
-Đường Mai Am
-Đường Mỹ Đa Đông 4
+Nguyễn Bá Lân
+Trần Văn Dư
+Ngô Chân Lưu
+Tống Duy Tân
+Mai Am
+Mỹ Đa Đông 4
 Kiệt 68 Nguyễn Mộng Tuân
 Kiệt 168 Tô Hiệu
-Đường Bình Kỳ
-Đường Lương Khánh Thiện
-Đường Nguyễn Văn Tỵ
+Bình Kỳ
+Lương Khánh Thiện
+Nguyễn Văn Tỵ
 Kiệt 206 Đống Đa
 Kiệt 457 Tôn Đức Thắng
-Đường Lỗ Giáng 11
-Đường Hoàng Đình Ái
-Đường Đặng Thùy Trâm
+Lỗ Giáng 11
+Hoàng Đình Ái
+Đặng Thùy Trâm
 Kiệt 247 Nguyễn Tri Phương
-Đường Hải Hồ
+Hải Hồ
 Kiệt 96 Hải Hồ
-Đường Nguyễn Đôn Tiết
+Nguyễn Đôn Tiết
 Kiệt 2 Nguyễn Đôn Tiết
 Hẻm 17 Kiệt 96 Hải Hồ
 Kiệt 374 Nguyễn Tri Phương
 Hẻm 53 Kiệt 01 Phạm Như Xương
 Kiệt 457/44 Tôn Đức Thắng
-Đường Phạm Văn Nghị
-Đường Lý Tự Trọng
-Đường Hồ Tỵ
+Phạm Văn Nghị
+Lý Tự Trọng
+Hồ Tỵ
 Kiệt 01 Phạm Như Xương
-Đường Đảo Xanh 1
-Đường Đàm Vân Lễ
-Đường Lê Đại Hành
-Đường Đảo Xanh 3
-Đường Đảo Xanh 6
+Đảo Xanh 1
+Đàm Vân Lễ
+Lê Đại Hành
+Đảo Xanh 3
+Đảo Xanh 6
 Kiệt 28 Phan Tứ
 Kiệt 18 Phan Tứ
-Đường Bắc Đẩu
+Bắc Đẩu
 Kiệt 138 Hoàng Văn Thái
-Đường Nguyễn Công Hoan
-Đường Trần Văn Ơn
-Đường Lâm Nhĩ
-Đường Yên Thế
-Đường Đoàn Hữu Trưng
-Đường Mẹ Thứ
-Đường Hoàng Văn Thái
+Nguyễn Công Hoan
+Trần Văn Ơn
+Lâm Nhĩ
+Yên Thế
+Đoàn Hữu Trưng
+Mẹ Thứ
+Hoàng Văn Thái
 Kiệt 111 Nguyễn Công Hoan
-Đường Đào Tấn
+Đào Tấn
 Kiệt 46 2 Tháng 9
 Kiệt 84 2 Tháng 9
 Kiệt 79 Thanh Hải
-Đường Thanh Hải
-Đường Thanh Thủy
-Đường Hải Sơn
+Thanh Hải
+Thanh Thủy
+Hải Sơn
 Kiệt 53 Đào Tấn
-Đường Thanh Sơn
-Đường Nguyễn Thiện Thuật
-Đường Cổ Mân Lan 1
+Thanh Sơn
+Nguyễn Thiện Thuật
+Cổ Mân Lan 1
 Kiệt 43 Phan Khoang
-Đường Lê Đỉnh
+Lê Đỉnh
 Kiệt 6 Lý Tự Trọng
-Đường Lê Văn Long
+Lê Văn Long
 Kiệt 33 Hải Hồ
 Kiệt 37 Hải Hồ
-Đường Phù Đổng
-Đường Liêm Lạc 15
-Đường Tùng Lâm 7
-Đường Tùng Lâm 8
-Đường Tùng Lâm 9
-Đường Nguyễn Đóa
-Đường Bùi Hiển
-Đường Nhơn Hòa 18
+Phù Đổng
+Liêm Lạc 15
+Tùng Lâm 7
+Tùng Lâm 8
+Tùng Lâm 9
+Nguyễn Đóa
+Bùi Hiển
+Nhơn Hòa 18
 Kiệt 1 Hòa An 7
-Kiệt 673 Đường Trường Chinh
+Kiệt 673 Trường Chinh
 Kiệt 12 Tôn Đản
-Đường Đoàn Nguyễn Thục
+Đoàn Nguyễn Thục
 Kiệt 196 Trần Cao Vân
-Đường Bùi Vịnh
-Kiệt 675 Đường Trường Chinh
-Đường Bàu Gia Thượng 2
-Đường Nguyễn Công Triều
-Đường Bùi Giáng
+Bùi Vịnh
+Kiệt 675 Trường Chinh
+Bàu Gia Thượng 2
+Nguyễn Công Triều
+Bùi Giáng
 Kiệt 382 Tôn Đản
 Kiệt 87 Hoàng Văn Thái
-Đường Phan Khoang
-Đường Thân Công Tài
+Phan Khoang
+Thân Công Tài
 Hẻm 87 Hoàng Văn Thái
 Kiệt 288 Hòa An 6
-Đường Bùi Xương Trạch
+Bùi Xương Trạch
 Kiệt 308 Hoàng Diệu
 Kiệt 128 Huyền Trần Công Chúa
-Đường Nguyễn Phước Nguyên
-Đường Nguyễn Phước Thái
+Nguyễn Phước Nguyên
+Nguyễn Phước Thái
 Kiệt 388 Hà Huy Tập
 Hẻm 08 Kiệt 388 Hà Huy Tập
 Kiệt 229 Trường Chinh
-Đường Huyền Trần Công Chúa
-Đường Lý Thiên Bảo
-Đường Lỗ Giáng 9
-Đường Lê Thị Tính
+Huyền Trần Công Chúa
+Lý Thiên Bảo
+Lỗ Giáng 9
+Lê Thị Tính
 Kiệt 227 Trường Chinh
 Kiệt 328 Hoàng Diệu
 Kiệt 356 Hoàng Diệu
@@ -3543,67 +3539,67 @@ Kiệt 241A Trường Chinh
 Kiệt 243A Trường Chinh
 Kiệt 436 Nguyễn Phước Nguyên
 Kiệt 243 Trường Chinh
-Đường Đào Công Chính
-Đường Phước Hòa 3
-Đường Nguyễn Khả Trạc
+Đào Công Chính
+Phước Hòa 3
+Nguyễn Khả Trạc
 Kiệt 297 Nguyễn Công Hãng
-Đường Nguyễn Đăng
+Nguyễn Đăng
 Kiệt 241 Nguyễn Phước Nguyên
-Đường Nguyễn Bảo
+Nguyễn Bảo
 Kiệt 181 Cù Chính Lan
-Đường Hồ Tương
-Đường Đinh Núp
-Đường Tiên Sơn 8
-Đường Trịnh Công Sơn
-Đường Tiên Sơn 7
+Hồ Tương
+Đinh Núp
+Tiên Sơn 8
+Trịnh Công Sơn
+Tiên Sơn 7
 Kiệt 64 Phước Hòa 4
-Đường Trần Huy Liệu
-Đường Trần Xuân Lê
+Trần Huy Liệu
+Trần Xuân Lê
 Kiệt 141 Trần Xuân Lê
 Kiệt 249 Hà Huy Tập
 Kiệt 50 Trần Xuân Lê
 Kiệt 62 Trần Xuân Lê
 Kiệt 22 Thúc Tề
-Đường Thúc Tề
+Thúc Tề
 Kiệt 181 Nguyễn Phước Nguyên
 Kiệt 389 Hà Huy Tập
 Kiệt 48 Trần Xuân Lê
-Đường Cồn Dầu 2
+Cồn Dầu 2
 Tỉnh lộ 706B
-Đường Nguyễn Bình
-Kiệt 152 Đường 2-9
+Nguyễn Bình
+Kiệt 152 2-9
 Kiệt 03 Phan Thành Tài
 Kiệt 03A Phan Thành Tài
 Hẻm 16 Cách Mang Tháng Tám
-Kiệt 150 Đường 2-9
+Kiệt 150 2-9
 Kiệt 517 Nguyễn Nhàn
-Đường Nguyễn Biểu
-Đường Nguyễn Nghiêm
-Đường Phạm Nhữ Tăng
+Nguyễn Biểu
+Nguyễn Nghiêm
+Phạm Nhữ Tăng
 Kiệt 82 Núi Thành
 Kiệt 38 Nguyễn Nhàn
-Đường Huỳnh Thị Bảo Hoà
-Đường Phạm Thị Lam Anh
+Huỳnh Thị Bảo Hoà
+Phạm Thị Lam Anh
 Kiệt 33 Núi Thành
 Kiệt 19 Mai Xuân Tưởng
-Đường Mai Xuân Tưởng
-Đường Đoàn Nhữ Hài
+Mai Xuân Tưởng
+Đoàn Nhữ Hài
 Kiệt 146 Ỷ Lan Nguyên Phi
 Kiệt 104 Ỷ Lan Nguyên Phi
 Kiệt 148 Ỷ Lan Nguyên Phi
-Đường An Hòa 1
-Đường Nguyễn Nhàn
+An Hòa 1
+Nguyễn Nhàn
 Kiệt 235 Tiểu La
 Kiệt 123 Cù Chính Lan
 Hẻm 55 Kiệt 123 Cù Chính Lan
 Kiệt 91 Cù Chính Lan
-Đường Huỳnh Ngọc Huệ
+Huỳnh Ngọc Huệ
 Kiệt 83 Huỳnh Ngọc Huệ
 Kiệt 86 Phạm Nhữ Tăng
-Đường An Hòa 4
-Đường Trần Đức
-Đường Phan Sĩ Thực
-Đường Bàu Gia 1
+An Hòa 4
+Trần Đức
+Phan Sĩ Thực
+Bàu Gia 1
 Kiệt 261 Hoàng Văn Thái
 Kiệt 67 Thanh Long
 Kiệt 43 Cù Chính Lan
@@ -3614,126 +3610,126 @@ Kiệt 44 Đà Sơn
 Kiệt 54 Phan Sĩ Thực
 Kiệt 417 Phan Sĩ Thực
 Kiệt 520 Núi Thành
-Đường Tiên Sơn 10
-Đường Tố Hữu
-Đường Tiên Sơn 11
-Đường Nguyễn Văn Huyên
-Đường Bình Thái 2
+Tiên Sơn 10
+Tố Hữu
+Tiên Sơn 11
+Nguyễn Văn Huyên
+Bình Thái 2
 Kiệt 66 Ông Ích Đường
 Kiệt 95 Đỗ Thúc Tịnh
 Kiệt 133 Đỗ Thúc Tịnh
-Đường T11
-Đường Đỗ Thúc Tịnh
-Đường Lê Thanh Nghị
+T11
+Đỗ Thúc Tịnh
+Lê Thanh Nghị
 Xuân Hồng
-Đường Bình Hoà 14
+Bình Hoà 14
 Kiệt 56 Trần Phước Thành
-Đường Trần Phước Thành
+Trần Phước Thành
 Kiệt 84 Nguyễn Phong Sắc
 Kiệt 03 Nguyễn Phong Sắc
-Đường Hoàng Dư Khương
+Hoàng Dư Khương
 Kiệt 63 Đỗ Thúc Tịnh
 Kiệt 814 Trần Cao Vân
 Kiệt 814B Trần Cao Vân
 Kiệt 818 Trần Cao Vân
-Đường Kỳ Đồng
-Đường Bàu Làng
+Kỳ Đồng
+Bàu Làng
 Kiệt 693 Trần Cao Vân
-Đường Tiên Sơn 20
-Đường Lê Đình Kỵ
-Đường Phước Lý 1
-Đường Nguyễn Nhược Pháp
-Đường Đặng Thai Mai
+Tiên Sơn 20
+Lê Đình Kỵ
+Phước Lý 1
+Nguyễn Nhược Pháp
+Đặng Thai Mai
 Kiệt 49 Bàu Làng
 Kiệt 137 Kỳ Đồng
-Đường Nguyễn Đức Trung
-Đường Ngô Gia Khảm
+Nguyễn Đức Trung
+Ngô Gia Khảm
 Kiệt 19 Huỳnh Bá Chánh
-Đường Huỳnh Bá Chánh
+Huỳnh Bá Chánh
 Kiệt 693B Trần Cao Vân
 Kiệt 222 Trần Đại Nghĩa
-Đường Hồ Nguyên Trừng
+Hồ Nguyên Trừng
 Kiệt 02 Hà Khê
 Kiệt 611 Trần Cao Vân
 Kiệt 08 647 Trần Cao Vân
 Kiệt 08 Nguyễn Đức Trung
 Kiệt 622 Trần Cao Vân
-Đường Bãi Sậy
-Đường Hà Khê
-Đường Lê Hiến Mai
+Bãi Sậy
+Hà Khê
+Lê Hiến Mai
 Hẻm 7 Kiệt 569 Trần Cao Vân
-Đường Hoàng Minh Thảo
-Đường Vũ Lập
-Đường Hà Đông 2
+Hoàng Minh Thảo
+Vũ Lập
+Hà Đông 2
 Kiệt 244 Trần Đại Nghĩa
 Kiệt 503 Trưng Nữ Vương
 Hẻm 01 Trưng Nữ Vương
-Đường Hà Đông 3
-Đường Đà Sơn
+Hà Đông 3
+Đà Sơn
 Kiệt 19A Hà Huy Tập
 Kiệt 19 Hà Huy Tập
 Kiệt 569 Trần Cao Vân
-Đường Số 38
-Đường Văn Cận
-Đường Đoàn Quý Phi
+Số 38
+Văn Cận
+Đoàn Quý Phi
 Lê Chính Đang
-Đường Hàn Thuyên
+Hàn Thuyên
 Kiệt 374 Núi Thành
-Đường Phan Huy Ôn
-Đường Nguyễn Hoàng
+Phan Huy Ôn
+Nguyễn Hoàng
 Hẻm 11 Kiệt 654 Trưng Nữ Vương
 Kiệt 664 Trưng Nữ Vương
-Đường Nguyễn Cư Trinh
-Đường Bình Thái 1
+Nguyễn Cư Trinh
+Bình Thái 1
 Kiệt 52 Ông Ích Đường
 Kiệt 654 Trưng Nữ Vương
 Kiệt 108 Ông Ích Đường
-Đường Lưu Quý Kỳ
-Đường Bình Thái 4
+Lưu Quý Kỳ
+Bình Thái 4
 Kiệt 47 Bình Thái 1
-Đường Xuân Đán 1
+Xuân Đán 1
 Kiệt 435 Trần Cao Vân
 Kiệt 548 Trần Cao Vân
-Đường Xuân Đán 3
-Đường Võ Chí Công
+Xuân Đán 3
+Võ Chí Công
 Kiệt 47 Ngô Gia Khảm
 Kiệt 384 Điện Biên Phủ
-Đường Xuân Hòa 2
+Xuân Hòa 2
 Kiệt 634 Trưng Nữ Vương
 Kiệt 400 Điện Biên Phủ
 Kiệt 62 Hà Huy Tập
 Kiệt 99 Thái Thị Bôi
 Kiệt 96 Điện Biên Phủ
 Kiệt 251 Thái Thị Bôi
-Đường Cổ Mân Lan 4
-Đường Nguyễn Quang Lâm
-Đường Nguyễn Thành Hân
+Cổ Mân Lan 4
+Nguyễn Quang Lâm
+Nguyễn Thành Hân
 Hẻm 80 Kiệt 634 Trưng Nữ Vương
 Kiệt 42 Nguyễn Thành Hân
-Đường Trần Tử Bình
-Đường Trần Thúc Nhẫn
+Trần Tử Bình
+Trần Thúc Nhẫn
 Kiệt 546 Tôn Đản
-Đường Nguyễn Đức Thiệu
-Đường Nguyễn Xuân Hữu
+Nguyễn Đức Thiệu
+Nguyễn Xuân Hữu
 Kiệt 43 Nguyễn Nhàn
-Đường Nguyễn Phẩm
-Đường Bình An 6
-Đường Trần Văn Giáp
-Đường Bàu Hạc 5
-Đường Hà Xuân 2
-Đường Hà Xuân 1
+Nguyễn Phẩm
+Bình An 6
+Trần Văn Giáp
+Bàu Hạc 5
+Hà Xuân 2
+Hà Xuân 1
 Kiệt 379 Tôn Đản
 Kiệt 285 Trần Cao Vân
-Đường Tôn Thất Đạm
+Tôn Thất Đạm
 Kiệt 25 Nguyễn Nhàn
-Đường Bàu Hạc 1
+Bàu Hạc 1
 Kiệt 291 Trần Cao Vân
 Kiệt 23 Bình Thái 4
 Kiệt 02 Tôn Thất Đạm
-Đường Phú Xuân 1
+Phú Xuân 1
 Kiệt 158 Ông Ích Đường
-Đường Bàu Hạc 4
-Đường Bàu Hạc 6
+Bàu Hạc 4
+Bàu Hạc 6
 Kiệt 23 Nguyễn Văn Huề
 Kiệt 21 Nguyễn Văn Huề
 Hẻm 20 Kiệt 177 Lê Trọng Tấn
@@ -3742,115 +3738,115 @@ Kiệt 63 Bình Thái 4
 Hem 05 Kiệt 38A Nguyễn Hữu Thọ
 xóm kha
 39 Moi
-Đường Đinh Thị Hòa
-Đường An Đồn 4
-Đường Lê Văn Quý
-Đường Nguyễn Cao Luyện
+Đinh Thị Hòa
+An Đồn 4
+Lê Văn Quý
+Nguyễn Cao Luyện
 Công Trường Lam Sơn
-Đường tỉnh 848
-Đường Lê Cơ
-Đường Lê Trọng Tấn
-Đường Trừ Văn Thố
-Đường Nguyễn Thế Lịch
+tỉnh 848
+Lê Cơ
+Lê Trọng Tấn
+Trừ Văn Thố
+Nguyễn Thế Lịch
 Kiệt 270 Lê Trọng Tấn
-Đường Phước Tướng 5
-Đường Phước Tướng 10
+Phước Tướng 5
+Phước Tướng 10
 Hẻm 123 Pham Như Xương
-Đường Đồng Trí 2
-Đường Lý Chính Thắng
-Đường Phong Bắc 20
+Đồng Trí 2
+Lý Chính Thắng
+Phong Bắc 20
 Kiệt 129 Tiểu La
-Đường Phan Thanh
-Đường Trần Quý Hai
+Phan Thanh
+Trần Quý Hai
 Kiệt 5 Nguyễn Huy Lượng
-Đường Phan Văn Đáng
+Phan Văn Đáng
 Hẻm 69 Kiệt 814 Trần Cao Vân
-Đường Ngô Thế Vinh
-Đường Nguyễn Trác
-Đường Nguyễn Đăng Đạo
-Đường Nguyễn Huy Tưởng
-Đường Nhơn Hòa 6
-Đường Đào Sư Tích
-Đường Nhơn Hòa 11
-Đường Trần Văn Trà
-Đường Trần Đình Nam
-Đường Hoàng Đạo Thành
-Đường Đình Nhât Tân
+Ngô Thế Vinh
+Nguyễn Trác
+Nguyễn Đăng Đạo
+Nguyễn Huy Tưởng
+Nhơn Hòa 6
+Đào Sư Tích
+Nhơn Hòa 11
+Trần Văn Trà
+Trần Đình Nam
+Hoàng Đạo Thành
+Đình Nhât Tân
 Kiệt 47 Hoàng Văn Thái
 Kiệt 580 Núi Thành
-Đường Trần Tấn Mới
-Đường Giang Văn Minh
+Trần Tấn Mới
+Giang Văn Minh
 Kiệt 111 2 Tháng 9
 Yên Sonw
-Đường Lê Thạch
-Đường Nhơn Hòa 5
-Đường Đinh Liệt
+Lê Thạch
+Nhơn Hòa 5
+Đinh Liệt
 Kiệt 86 Nguyễn Huy Tưởng
-Đường Kiều Oánh Mậu
-Đường Huỳnh Tịnh Của
-Đường Hòa Nam 12
+Kiều Oánh Mậu
+Huỳnh Tịnh Của
+Hòa Nam 12
 Kiệt 318 Núi Thành
-Đường Đá Mọc 4
-Đường Đá Mọc 5
-Đường Dương Loan
-Đường Tiểu La
-Đường Duy Tân
+Đá Mọc 4
+Đá Mọc 5
+Dương Loan
+Tiểu La
+Duy Tân
 Kiệt 85 Lạc Long Quân
-Đường Nguyễn Sắc Kim
-Đường Lê Bá Trinh
-Đường Lê Vĩnh Huy
-Đường Dương Thường
-Đường Châu Thượng Văn
+Nguyễn Sắc Kim
+Lê Bá Trinh
+Lê Vĩnh Huy
+Dương Thường
+Châu Thượng Văn
 Nguyễn Phúc Nguyên
 113A NGUYEN TRAI
 113 NGUYEN TRAI
 Mai Xuân Thường
 ngo gia tu
-Đường Đào Duy Kỳ
-Đường Lê Thiết Hùng
-Đường Cẩm Nam 2
-Đường Đô Đốc Lộc
+Đào Duy Kỳ
+Lê Thiết Hùng
+Cẩm Nam 2
+Đô Đốc Lộc
 Kiệt 301 Nguyễn Tri Phương
 Kiệt 454 Nguyễn Tri Phương
 Kiệt 693A Trần Cao Vân
 Kiệt 104 Lê Đình Lý
-Đường Vũng Thùng 5
-Đường Trần Lê
+Vũng Thùng 5
+Trần Lê
 Kiệt 40 Lê Cơ
 Phan Văn Vàng
-Đường Triệu Nữ Vương
-Đường Trần Kế Xương
-Đường Tôn Thất Tùng
+Triệu Nữ Vương
+Trần Kế Xương
+Tôn Thất Tùng
 Kiệt 10 Phạm Văn Nghi
-Đường Đào Duy Anh
-Đường Nguyễn Gia Thiều
-Đường Trần Tống
+Đào Duy Anh
+Nguyễn Gia Thiều
+Trần Tống
 Kiệt 25 Tôn Thất Tùng
-Đường Trường Sơn
+Trường Sơn
 Hẻm 176 Nguyễn Văn Thương
-Phố Liễu Giai
-Đường Ngũ Hành Sơn
-Đường Hoài Thanh
-Đường Lê Văn Hưu
-Đường Hoàng Thúc Trâm
-Đường Mỹ Đa Đông 5
-Đường Mỹ Đa Đông 3
-Kiệt 43 Đường 3 Tháng 2
-Đường Trần Húng Đạo
-Đường Lê Đình Thâm
+Liễu Giai
+Ngũ Hành Sơn
+Hoài Thanh
+Lê Văn Hưu
+Hoàng Thúc Trâm
+Mỹ Đa Đông 5
+Mỹ Đa Đông 3
+Kiệt 43 3 Tháng 2
+Trần Húng Đạo
+Lê Đình Thâm
 Kiệt 49 Lê Đình Thâm
-Đường Tống Phước Phổ
+Tống Phước Phổ
 Thác Bacj
 Kiệt 50 Bùi Tá Hán
 Kiệt 142 Lê Văn Hiến
 Hẻm 21 Kiệt 856 Tôn Đức Thắng
-Đường Mai Đăng Chơn
+Mai Đăng Chơn
 Kiệt 906 Tôn Đức Thắng
 Hẻm 17 Kiệt 856 Tôn Đức Thắng
 Kiệt 874 Tôn Đức Thắng
-Đường Thanh Hoá
-Đường Đỗ Bá
-Đường Châu Thị Vĩnh Tế
+Thanh Hoá
+Đỗ Bá
+Châu Thị Vĩnh Tế
 Kiệt 24 Ngô Sĩ Liên
 Kiệt 24 Ngô Sỹ Liên
 Hẻm 21 Kiệt 24 Tôn Đức Thắng
@@ -3859,70 +3855,70 @@ Kiệt 45 Phan Dăng Lưu
 Kiệt 420 Lê Văn Hiến
 Kiệt 920 Tôn Đức Thắng
 Kiệt 42 Ngô Sĩ Liên
-Đường Ngô Sĩ Liên
+Ngô Sĩ Liên
 Kiệt 58 Ngô Sĩ Liên
-Đường Đặng Thái Thân
+Đặng Thái Thân
 Kiệt 176 Tống Phước Phổ
 Kiệt 35 Tô Hiến Thành
 Kiệt 65 Tô Hiến Thành
 Kiệt 267 Núi Thành
 Kiệt 97 Tô Hiến Thành
-Đường Nam Kỳ Khởi Nghĩa
-Đường Võ Nguyên Giáp
+Nam Kỳ Khởi Nghĩa
+Võ Nguyên Giáp
 Kiệt 113 Nguyễn Nhàn
-Đường Lương Thế Vinh
+Lương Thế Vinh
 Hẻm 05/26 Kiệt 382 Tôn Đản
-Đường Hòa An 19
-Đường Trần Ngọc Sương
+Hòa An 19
+Trần Ngọc Sương
 Kiệt 29 Trần Ngọc Sương
-Đường Nguyễn Hữu Tiến
-Đường Thăng Long
+Nguyễn Hữu Tiến
+Thăng Long
 Kiệt 105 Bình Thái 1
-Đường Hoàng Xuân Hãn
-Đường Phong Bắc 14
-Đường Đinh Châu
-Đường Bùi Xương Tự
-Đường Nguyễn Tuân
+Hoàng Xuân Hãn
+Phong Bắc 14
+Đinh Châu
+Bùi Xương Tự
+Nguyễn Tuân
 Kiệt 306 Nguyễn Công Hoan
 Trương Tùng Quân
 Hòn Chồng
-Phố Phú Gia
+Phú Gia
 Ngõ 885 Tam Trinh
 Ngõ 15 An Dương Vương
-Phố Nghĩa Đô
-Ngõ 260 Phố Tân Mai
-Ngõ 258 Phố Tân Mai
-Ngõ 293 Phố Tân Mai
+Nghĩa Đô
+Ngõ 260 Tân Mai
+Ngõ 258 Tân Mai
+Ngõ 293 Tân Mai
 Ngõ 41 An Dương Vương
 Ngõ 32 An Dương
 Ngõ 143 Nguyễn Chính
-Ngách 260/44 Phố Tân Mai
+Ngách 260/44 Tân Mai
 20
 Khu 6, Thị Trấn Bảo Lạc, Huyện Bảo Lạc, Cao Bằng
-Phố Yên Sở
-Phố Nhật Tảo
-Ngõ 521 Phố Nhật Tảo
-Phố Trần Cung
+Yên Sở
+Nhật Tảo
+Ngõ 521 Nhật Tảo
+Trần Cung
 Ngõ 99 Định Công Hạ
-Đường Tân Xuân
-Phố Bùi Trang Chước
+Tân Xuân
+Bùi Trang Chước
 Ngõ 3 Phúc Tân
-Phố Nguyễn Tư Giản
-Phố Bảo Linh
-Phố Phúc Tân
+Nguyễn Tư Giản
+Bảo Linh
+Phúc Tân
 Ngõ 39 Phú Thượng
-Phố Phú Thượng
-Phố Phú Xá
-Phố Phúc Hoa
+Phú Thượng
+Phú Xá
+Phúc Hoa
 Lê Đình Dương
 Ngõ 57 Phúc Tân
-Phố Yên Duyên
+Yên Duyên
 Nguyễn Hoàng Tôn
-Phố Yên Phụ
-Phố Thượng Thụy
-Phố Vĩnh Hưng
+Yên Phụ
+Thượng Thụy
+Vĩnh Hưng
 Ngách 99/122 Định Công Hạ
-Phố Đại Đồng
+Đại Đồng
 Ngõ 37 Đại Đồng
 Vườn Dào
 Ngõ 264 Âu Cơ
@@ -3938,14 +3934,14 @@ Ngõ 896 Nguyễn Khoái
 Ngõ 423 An Dương Vương
 Ngách 42/60 Thįnh Liệt
 Ngách 42/60
-Phố Thinh Liệt
+Thinh Liệt
 Ngõ 1299 Giải Phóng
 Ngách 423/2 An Dương Vương
-Phố Định Công Hạ
+Định Công Hạ
 Ngõ 69 Bùi Huy Bích
-Phố Lộc
+Lộc
 Ngách 362/37
-Phố Tây Trà
+Tây Trà
 Dinh Cong
 Ngõ 335 An Dương Vương
 Ngách 335/10 An Dương Vương
@@ -3961,97 +3957,97 @@ Ngách 335/28 An Dương Vương
 Ngõ 25
 Ngõ 69
 Ngõ 1
-Phố Nam Dư
+Nam Dư
 Ngõ 310 Nghi Tàm
-Phố Thanh Lân
+Thanh Lân
 Ngõ 89 Lạc Long Quân
 Ngõ 260 Đội Cấn
 Ngõ 677 Lạc Long Quân
-Phố Đại Từ
+Đại Từ
 Ngách 46/89 Lạc Long Quân
-Phố Thanh Nhàn
-Phố Lê Thanh Nghị
-Phố Lệ Mật
+Thanh Nhàn
+Lê Thanh Nghị
+Lệ Mật
 83 Ma May Street
 Hàng Diêu
 Trần Hưng đạo
 Ngõ 445 Lạc Long Quân
-Phố Thanh Đàm
-Phố Vạn Phúc
+Thanh Đàm
+Vạn Phúc
 Ngõ 647 Lạc Long Quân
 Ngách 603/54A Lạc Long Quân
 Ngõ 55 Thanh Lân
 Ngõ 603 Lạc Long Quân
 Ngõ 95 Nam Dư
-Ngõ 237 Phố Trích Sài
-Phố Hoa Lâm
+Ngõ 237 Trích Sài
+Hoa Lâm
 Ngô 42 Thįnh Liệt
-Đường Xuân La
-Đường Lĩnh Nam
+Xuân La
+Lĩnh Nam
 Ngõ 76 Đại Từ
 B2
 Ngõ 319 Tam Trinh
-Phố Kim Quan
-Phố Võng Thị
+Kim Quan
+Võng Thị
 Ngõ 299 Hoàng Mai
 Ngách 299/55 Mai Dộng
 Ngõ 22 Kim Quan
-Phố Kim Quan Thượng
+Kim Quan Thượng
 Hẻm 614 Hậu Giang
 Ngõ 28 Xuân La
-Phố Định Công Thượng
-Phố Sơn Tây
-Phố Thanh Bảo
+Định Công Thượng
+Sơn Tây
+Thanh Bảo
 Ngõ 141 Giáp Nhị
 Ngõ 282 Kim Giang
 Ngõ 78 Việt Hưng
 Ngõ 54 Kim Quan Thượng
 Ngõ 201 Phúc Lợi
-Phố Văn Cao
+Văn Cao
 Ngõ 87 Yên Duyên
-Phố Vũ Tông Phan
+Vũ Tông Phan
 Ngõ 225
 Ngõ 91
-Đường Văn Cao
-Phố Thượng Đình
+Văn Cao
+Thượng Đình
 Ngô 71 Việt Hưng
-Phố Kẻ Tạnh
-Ngõ 1 Phố Kẻ Tạnh
-Ngố 95 Phố Kẻ Tạnh
-Đường De Qual
+Kẻ Tạnh
+Ngõ 1 Kẻ Tạnh
+Ngố 95 Kẻ Tạnh
+De Qual
 Ngách 76/35 An Dương
 le quang dao
 Ngách 464/35 Âu Cơ
-Phố Sở Thượng
+Sở Thượng
 Ngõ 279 Đội Cấn
 Ngõ 156 Tam Trinh
 Ngõ 172 Âu Cơ
 Ngõ 268 Xuân Đỉnh
 Ngõ 323 Xuân Đỉnh
 Ngách 205/174 Xuân Đỉnh
-Phố Phúc Xá
+Phúc Xá
 Ngõ 83 Phúc Lợi
 Ngõ 193 Phúc Lợi
-F3,tập thể Hồng Hà,ngõ 190 phố Lò Đúc,phường Đống Mác,quận Hai Bà Trưng,Hà Nôij
+F3,tập thể Hồng Hà,ngõ 190 Lò Đúc,phường Đống Mác,quận Hai Bà Trưng,Hà Nôij
 DT20
 Ngõ 466 Ngô Gia Tự
-Đường Bình Minh 5
+Bình Minh 5
 Ngõ 120 Trường Chinh
-Ngõ 346 Phố Nam Dư
+Ngõ 346 Nam Dư
 Ngõ 295 Yên Duyên
 Ngách 406/2 Âu Cơ
 Ngõ 374 Âu Cơ
 Ngõ 406 Âu Cơ
 Ngõ 124 Âu Cơ
 Ngõ 464 Âu Cơ
-Phố Tân Ấp
+Tân Ấp
 Ngõ 19 Duy Tân
 Ngách 78/5 Trần Quốc Vượng
 Ngõ 181 Xuân Thủy
 Phúc Xá
 Ngõ Dầm Trị
 Xóm Chùa
-Phố Tương Mai
+Tương Mai
 Ngách 141/116 Giáp Nhị
 Ngách 42/133 Thįnh Liệt
 Ngo 42 Thįnh Liệt
@@ -4061,7 +4057,7 @@ Ngõ 89 Trung Hòa
 Hà Tôn Mục
 Khởi Nghĩa Bắc Sơn
 Lê Trực
-Phố Kim Đồng
+Kim Đồng
 Ngõ 76 An Dương
 Ngõ 91 Nguyễn Chí Thanh
 Ngách 124/45 Âu Cơ
@@ -4071,73 +4067,73 @@ Ngõ 328 Lê Trọng Tấn
 Ngõ 294 Thăng Long Mới
 Ngõ 294/2 Kim Mã
 Ngõ 140 Ngọc Thụy
-Đường Ngọc Thụy
+Ngọc Thụy
 Ngách 124/22 Âu Cơ
 Ngõ 238 Âu Cơ
-Phố Lê Hồng Phong
-Phố Trần Điền
+Lê Hồng Phong
+Trần Điền
 Lô 5 Đền Lừ 2
 Ngõ 252 Ngọc Thụy
 Trần Điền
 Ngách 264/21 Âu Cơ
-Đường Nườc Phấn Lan
-Đường số 22
+Nườc Phấn Lan
+số 22
 Bán Đảo Linh Đàm
-Đường Tiền Thành
-Đường Lũy
-Đường Bình Thới
+Tiền Thành
+Lũy
+Bình Thới
 Dương La Nội
-Đường La Dương
-Phố Hàng Khay
-Đường Phan Trọng Tuệ
-Đường Ngọc Hồi
+La Dương
+Hàng Khay
+Phan Trọng Tuệ
+Ngọc Hồi
 Ngõ 193 Cầu Cốc
-Đường Hữu Hưng
+Hữu Hưng
 Ngõ 180 Tây Mỗ
-Đường Tây Mỗ
-Phố Bằng B
+Tây Mỗ
+Bằng B
 Ngõ 15 Bằng Liệt
-Phố Đức Chính
-Phố Lạc Chinh
-Phố Mạc Đĩnh Chi
+Đức Chính
+Lạc Chinh
+Mạc Đĩnh Chi
 Tân Chánh Hiệp 7
-Đường Đông Thành
+Đông Thành
 Ngõ 16 Huỳnh Thúc Kháng
-Phố Đường Khuê
-Ngõ 60 Đường Khuê
+Khuê
+Ngõ 60 Khuê
 Ngõ 88 Trần Qúy Cáp
-Phố Trần Quý Cáp
-Phố Tạ Quang Bửu
-Phố Nguyễn Như Đổ
-Phố Ngô Sĩ Liên
-Đường Cầu Diễn
-Phố Bạch Mai
-Đường Tân Triều
+Trần Quý Cáp
+Tạ Quang Bửu
+Nguyễn Như Đổ
+Ngô Sĩ Liên
+Cầu Diễn
+Bạch Mai
+Tân Triều
 Thạnh Lộc 15
 Tân Chánh Hiệp 18
-Phố Định Công
-Phố Phan Đình Giót
-Phố Nguyễn Viết Xuân
-Phố Phương Mai
+Định Công
+Phan Đình Giót
+Nguyễn Viết Xuân
+Phương Mai
 Ngõ 34 Hoàng Cầu
 Phõ Dậng Tién Dóng
-Đường 72
-Đường Cổ Linh
+72
+Cổ Linh
 Ngõ 69 Hoàng Như Tiếp
 Bánh
-Phố Yết Kiêu
+Yết Kiêu
 Doi
-Đường D5
+D5
 Hà Tôn Quyền
 Ngõ 908
 Văn Khê
 Ngõ 103 Lý Sơn
 Ngõ 29 Thượng Thanh
 Ngõ 214 Nguyễn Xiển
-Đường Nguyễn Xiển
-Phố Gia Quất
-Phố Gia Thụy
-Đường Tỉnh 422B
+Nguyễn Xiển
+Gia Quất
+Gia Thụy
+Tỉnh 422B
 Ngõ 90 Gia Quất
 Ngõ 52 Quan Nhân
 Ngõ 68 Quan Nhân
@@ -4146,40 +4142,40 @@ Ngõ 64
 Ngõ 481 Ngọc Lâm
 Ngõ 532 Ngọc Thụy
 Ngõ 18 Ngô Quyền
-Phố Đại Linh
+Đại Linh
 Ngõ 134
 Ngõ 12
 Ngách 1/78
-Phố Nguyễn Khắc Nhu
-Đường Lý Sơn
-Phố Ngọc Trục
+Nguyễn Khắc Nhu
+Lý Sơn
+Ngọc Trục
 Ngõ 77 Ngọc Trục
 Ngách 24/2 Đại Mỗ
-Đường Phương Canh
-Phố Hòe Thị
+Phương Canh
+Hòe Thị
 Ngõ 127 Đại Linh
 Ngõ 24 Đại Mỗ
 Ngõ Thái Thịnh 1
 Ngõ 61
-Ngõ 28 Phố Đại Linh
-Phố Kiều Mai
+Ngõ 28 Đại Linh
+Kiều Mai
 Ngõ 267
-Phố Cầu Cốc
+Cầu Cốc
 Ngõ 43 Cầu Cốc
 Ngõ 67 Cầu Cốc
-Phố Phú Kiều
-Phố Tư Đình
+Phú Kiều
+Tư Đình
 Ngách 180/92 Tây Mỗ
-Phố Nguyễn Hoàng
-Đường Bát Khối
+Nguyễn Hoàng
+Bát Khối
 Ngõ 44 Tư Đình
 Ngõ 509 Đại Mỗ
 Ngõ 85
-Phố Sa Đôi
-Phố Miêu Nha
-Phố Quang Tiến
+Sa Đôi
+Miêu Nha
+Quang Tiến
 Ngõ 38 Tư Đình
-Ngõ 25 Đường Quang Tiến
+Ngõ 25 Quang Tiến
 Ngõ 51
 Ngách 27/9 Tây Mỗ
 Ngõ 15 Tây Mỗ
@@ -4193,264 +4189,264 @@ Ngõ 68
 Ngõ 371 Đại Mỗ
 Ngách 371/23 Đại Mỗ
 Ngách 371/59 Đại Mỗ
-Đường Hồ Mễ Trì
-Phố An Trạch
-Đường Phúc Diễn
+Hồ Mễ Trì
+An Trạch
+Phúc Diễn
 Ngõ 95 Chùa Bộc
-Phố Ô Chợ Dừa
-Phố Nam Đồng
+Ô Chợ Dừa
+Nam Đồng
 Hẻm 114 Dương Quảng Hàm
-Đường Bàn Cờ
+Bàn Cờ
 Hẻm 268/21/55 Ngọc Thụy,
-Phố Thịnh Yên
-Phố Chùa Vua
+Thịnh Yên
+Chùa Vua
 Ngõ 321 Vĩnh Hưng
 Ngõ 92 Mai Dộng
-Phố Ái Mộ
+Ái Mộ
 Trần Hữu Tước
-Phố Đông Tác
+Đông Tác
 Ngõ 23 Đỗ Quang
 Ngõ 101 Phạm Ngọc Thạch
-Phố Lương Đình Của
-Đường Mễ Trì
-Phố Hoàng Ngân
+Lương Đình Của
+Mễ Trì
+Hoàng Ngân
 Ngách 3/10
 Đuòng Nguyễn Khang
 Ngách 5/14
-Phố Nguyễn Đổng Chi
+Nguyễn Đổng Chi
 Ngõ 91 Lương Đình Của
 Ngõ 113 Hoàng Cầu
-Phố Nguyễn Lương Bằng
-Phố Trịnh Hoài Đức
+Nguyễn Lương Bằng
+Trịnh Hoài Đức
 Ngõ 59 Hoàng Cầu
 Ngõ 178 Nguyễn Lương Bằng
 Ngõ 41 Đông Tác
 Ngõ Giếng Hoàng Cầu
 Ngàch 59/65 Hoàng Cầu
 Ngõ 31 Hoàng Cầu
-Phố Đông Các
+Đông Các
 Ngõ 9 Hoàng Cầu
 Ngõ 90 Khuất Duy Tiến
 Tam Thai
-Phố Vũ Thạnh
+Vũ Thạnh
 Ngõ 40 Ngụy Như Kon Tum
 Ngõ 102 Khuất Duy Tiến
-Đường Khuất Duy Tiến
+Khuất Duy Tiến
 Road No. 43
-Đường Cống Lở
+Cống Lở
 Hẻm 102 Phan Huy Ích
 Ngõ 100 - Trung Kính
 Đàm Quang Trung
 Bai chao
 Nguyen Tri Phuong
 ngõ 279 Đội Cấn
-Phố Nguyễn Du
-Đường Ngô Nhân Tịnh
-Đường Lũy Bán Bích
-Đường Nguyễn Thị Nhỏ
-Đường Nguyễn Thức Đường
-Đường Hà Tôn Quyền
-Đường Phạm Phú Thứ
-Đường Phạm Văn Chí
+Nguyễn Du
+Ngô Nhân Tịnh
+Lũy Bán Bích
+Nguyễn Thị Nhỏ
+Nguyễn Thức Đường
+Hà Tôn Quyền
+Phạm Phú Thứ
+Phạm Văn Chí
 Phan Văn Khoẻ
-Đường Lý Chiêu Hoàng
-Đường Bùi Hữu Diện
-Đường số 17B
-Đường Bến Bãi Sậy
+Lý Chiêu Hoàng
+Bùi Hữu Diện
+số 17B
+Bến Bãi Sậy
 Bến Bãi Sậy
 Nguyễn Thức Tự
-Đường Đặng Nguyên Cẩn
-Đường Trần Bình
-Đường Số 36
-Đường Trần Văn Giàu
-Đường Tên Lửa
-Đường số 55
-Đường số 37
-Đường số 35
-Đường Kênh Tân Hóa
-Đường Bà Lài
-Đường Cao Văn Ngọc
+Đặng Nguyên Cẩn
+Trần Bình
+Số 36
+Trần Văn Giàu
+Tên Lửa
+số 55
+số 37
+số 35
+Kênh Tân Hóa
+Bà Lài
+Cao Văn Ngọc
 Hẻm 985 Hương lộ 2
 Hẻm 266 Lê Đình Cẩn
-Đường Lò Gốm
-Đường Văn Thân
-Đường số 86
-Đường Hoàng Lê Kha
-Đường Lê Văn Quới
-Đường Bình Trị Đông
-Đường số 51
+Lò Gốm
+Văn Thân
+số 86
+Hoàng Lê Kha
+Lê Văn Quới
+Bình Trị Đông
+số 51
 Hẻm 242 Lê Đình Cẩn
 Dủổng số 2C
-Đường Trương Phước Phan
-Đường Tôn Thất Hiệp
+Trương Phước Phan
+Tôn Thất Hiệp
 Công Chúa Ngọc Hân
-Đường Hậu Giang
+Hậu Giang
 Phan Dinh Giot
-Phố Lê Văn Thiêm
-Đường Khuông Việt
-Đường số 2B
-Đường Lê Ngã
-Đường số 1A
-Đường Tuệ Tĩnh
+Lê Văn Thiêm
+Khuông Việt
+số 2B
+Lê Ngã
+số 1A
+Tuệ Tĩnh
 Cư xá Phú Lâm D
-Đường Bến Phú Lâm
+Bến Phú Lâm
 Dủổng số 4C
 Dủổng số 5
 Hẻm 236 An Dương Vương
 Hẻm 80/1 Hoàng Xuân Nhị
-Đường Hoàng Xuân Nhị
+Hoàng Xuân Nhị
 Hẻm 80 Hoàng Xuân Nhị
 Khiếu Năng Tĩnh
-Đường Nguyễn Văn Phú
-Đường Tống Văn Trân
-Đường Đội Cung
-Đường Lãnh Binh Thăng
-Đường Tân Hóa
-Đường Quân Sự
+Nguyễn Văn Phú
+Tống Văn Trân
+Đội Cung
+Lãnh Binh Thăng
+Tân Hóa
+Quân Sự
 Tran Quang Khai Street
 Hẻm 341 Khuông Việt
 Hẻm 341 Lạc Long Quân
 Hẻm 919 Hương lộ 2
-Đường Bùi Tư Toàn
-Đường Hồ Học Lãm
-Đường Ngô Y Linh
+Bùi Tư Toàn
+Hồ Học Lãm
+Ngô Y Linh
 Hẻm 28 Ngô Y Linh
-Đường Nguyễn Cửu Phú
+Nguyễn Cửu Phú
 Tạ Uyên
-Đường số 13C
-Đường Chợ Lớn
-Đường số 13B
-Đường số 1B
+số 13C
+Chợ Lớn
+số 13B
+số 1B
 Hẻm 295 Tân Hòa Đông
-Đường Chiến Lược
-Dủổng số 9
-Đường số 21
-Đường số 8A
-Đường số 21B
-Đường Phan Anh
 Chiến Lược
-Đường Mã Lò
-Đường Hoàng Thiều Hoa
+Dủổng số 9
+số 21
+số 8A
+số 21B
+Phan Anh
+Chiến Lược
+Mã Lò
+Hoàng Thiều Hoa
 Hẻm 110 Tô Hiệu
-Đường số 34A
-Đường số 29
-Đường Phó Cơ Điều
-Đường số 2F
-Đường Hàn Hải Nguyên
+số 34A
+số 29
+Phó Cơ Điều
+số 2F
+Hàn Hải Nguyên
 Miếu Gò Xoài
 Nguyễn Bá Tòng
 Hẻm 308 Lê Văn Quới
 Hẻm 298 Lê Văn Quới
-Đường số 57
+số 57
 Ấp 7
 Dủổng số 6D
-Đường Bia Truyền Thống
-Đường Tân Thành
-Đường Mai Xuân Thưởng
-Hẻm 100 Đường số 3
-Hẻm 80/29 Đường số 3
-Hẻm 80 Đường số 3
-Hẻm 220 Đường số 10
+Bia Truyền Thống
+Tân Thành
+Mai Xuân Thưởng
+Hẻm 100 số 3
+Hẻm 80/29 số 3
+Hẻm 80 số 3
+Hẻm 220 số 10
 1121 Quốc lộ 1A, phường Tân Tạo, Quận Bình Tân
-Đường Hòa Hảo
-Đường An Bình
+Hòa Hảo
+An Bình
 Hẻm 290B/32 Dương Bá Trạc
-Đường Trần Xuân Hòa
+Trần Xuân Hòa
 Hẻm 243 Mã Lò
-Đường Phạm Thế Hiển
+Phạm Thế Hiển
 Đình An Tài
 Dủổng số 7B
-Đường số 7A
-Đường Nhật Tảo
+số 7A
+Nhật Tảo
 Vành Đai Trong
-Đường Lý Nam Đế
-Đường Tân Phước
-Đường Triệu Quang Phục
+Lý Nam Đế
+Tân Phước
+Triệu Quang Phục
 Phạm Đình Hổ
-Đường Dương Tử Giang
-Đường Phú Định
+Dương Tử Giang
+Phú Định
 Hẻm 312 Quang Trung
-Đường Vĩnh Hội
-Đường Tân Vĩnh
+Vĩnh Hội
+Tân Vĩnh
 Quốc lộ 50
-Đường Cao Xuân Dục
-Đường 12A
-Đường số 38
+Cao Xuân Dục
+12A
+số 38
 Hẻm 60 Lâm Văn Bền
-Đường Tùng Thiện Vương
+Tùng Thiện Vương
 Hẻm 62 Lâm Văn Bền
-Đường số 41
+số 41
 Ba Vân, phường 14, quận Tân Bình
 ĐB 8
 ĐB8
 Lê Chí Dân
-Đường NB8
-Đường DA1-2
-Đường BD4
+NB8
+DA1-2
+BD4
 Dủổng Sổ 265
-Đường Xóm Củi
+Xóm Củi
 Ưu Long
-Đường Nguyễn Hữu Hào
-Đường Hải Thượng Lãn Ông
-Đường Tháp Mười
-Đường Nguyễn Tất Thành
-Đường Lê Quốc Hưng
-Đường Gò Công
-Đường Học Lạc
-Đường Phan Văn Khoẻ
-Đường Hưng Phú
-Đường Ưu Long
-Đường Nguyễn Duy
-Đường Bà Triệu
-Đường Vĩnh Nam
+Nguyễn Hữu Hào
+Hải Thượng Lãn Ông
+Tháp Mười
+Nguyễn Tất Thành
+Lê Quốc Hưng
+Gò Công
+Học Lạc
+Phan Văn Khoẻ
+Hưng Phú
+Ưu Long
+Nguyễn Duy
+Bà Triệu
+Vĩnh Nam
 Từ văn phước
 An phú 10
 An phú 08
-Đường Nguyễn Văn Đùng
-Đường Lê Quang Kim
-Đường Hung Phu
-Đường Cao Đạt
-Đường Lê Hoàng Phái
-Đường Nguyễn Thần Hiến
-Đường Đặng Chất
-Đường Đoàn Văn Bơ
-Đường số 77
-Đường số 85
-Hẻm 27 đường số 9
-Hẻm 74/9 đường số 9
-Hẻm 74 đường số 9
-Đường Trần Bình Trọng
-Đường 79
+Nguyễn Văn Đùng
+Lê Quang Kim
+Hung Phu
+Cao Đạt
+Lê Hoàng Phái
+Nguyễn Thần Hiến
+Đặng Chất
+Đoàn Văn Bơ
+số 77
+số 85
+Hẻm 27 số 9
+Hẻm 74/9 số 9
+Hẻm 74 số 9
+Trần Bình Trọng
+79
 Số 25 Tân Quy Đông
 Nguyễn Văn Thành
-Đường Tân Mỹ
+Tân Mỹ
 Hẻm 736 Lê Đức Thọ
-Đường số 494
-Hẻm 27/39 đường số 9
-Đường Trần Tuấn Khải
-Đường Bùi Hữu Nghĩa
-Đường 81
-Đường số 75
-Đường 40
+số 494
+Hẻm 27/39 số 9
+Trần Tuấn Khải
+Bùi Hữu Nghĩa
+81
+số 75
+40
 Số 46 Tân Quy Đông
-Đường sổ 31
+sổ 31
 Số 48 Tân Quy Đông
-Đường 30
+30
 Số 63 Tân Quy Đông
-Đường 59
+59
 Số 52 Tân Quy Đông
 Số 53 Tân Quy Đông
-Đường 53
-Đường Trần Xuân Soạn
-Đường sổ 28
-Đường sổ 32
-Đường 66
-Đường Phan Huy Thực
+53
+Trần Xuân Soạn
+sổ 28
+sổ 32
+66
+Phan Huy Thực
 Số 41 Tân Quy Đông
-Đường Bạch Vân
-Đường Nguyễn Lâm
+Bạch Vân
+Nguyễn Lâm
 Dủổng sổ 44
-Đường Nguyễn Tiểu La
+Nguyễn Tiểu La
 Số 30 Tân Quy Đông
 Hẻm 293 Nguyễn Thị Minh Khai
 Hẻm 178 Phạm Văn Bạch
@@ -4461,118 +4457,118 @@ Pateur
 Hòa Hưng
 Hẻm 730 Lê Đức Thọ
 Hẻm 493/13 Lê Đức Thọ
-Hẻm 15 đường số 9
+Hẻm 15 số 9
 Trương Đình Hội
 Hẻm 467 Lê Đức Thọ
-Hẻm số 39 Đường số 1
+Hẻm số 39 số 1
 Hẻm 467/125 Lê Đức Thọ
 Hẻm 226 Nguyễn Văn Lượng
-Đường Đinh Hoà
+Đinh Hoà
 Hẻm 226/43/2 Nguyễn Văn Lượng
-Đường Bế Văn Cấm
-Đường Yersin
+Bế Văn Cấm
+Yersin
 Hẻm 496 Dương Quảng Hàm
-name=Hẻm 66 đường số 30
+name=Hẻm 66 số 30
 Phạm Đức Sơn
-Đường 44 Trương Đình Hội
+44 Trương Đình Hội
 Cây Me
 Quốc lộ 13 cũ
-Đường số 25
-Đường số 25A
-Đường Phước Hưng
+số 25
+số 25A
+Phước Hưng
 77/21A
 Dương Đình Phong Phú
-Đường số 48
-Đường Nguyễn Văn Tăng
+số 48
+Nguyễn Văn Tăng
 Bến Bình Đông
-Đường Bình Đông
-Đường 69
+Bình Đông
+69
 Đương Trần Bá Giao
 tô hiến thành
 Huỳnh Thị Tươi
 Mỹ Phước - Tân Vạn
 Hẻm 47/42/11 Bùi Đình Túy
-Đường Lưu Hữu Phước
-Đường Bình Đức
-Đường Rạch Cát
+Lưu Hữu Phước
+Bình Đức
+Rạch Cát
 Rạch Cát
 Võ Văn Hát
-Đường Bến Vân Đồn
+Bến Vân Đồn
 Bến Mễ Cốc
 Bình Đông
-Đường Vườn Chuối
-Đường Ký Con
-Đường Hoàng Sĩ Khải
-Đường Tuy Lý Vương
-Đường Nguyễn Ðình Chiểu
+Vườn Chuối
+Ký Con
+Hoàng Sĩ Khải
+Tuy Lý Vương
+Nguyễn Ðình Chiểu
 Hẻm 329 Ðiện Biên Phủ
-Đường số 1I
-Đường Võ Văn Hát
+số 1I
+Võ Văn Hát
 Hẻm 50
-Đường XC2
-Đường TC3
-Đường số 12B
-Đường số 4F
-Đường sô 11
-Đường Nguyễn Văn Của
-Đường Nguyễn Du
+XC2
+TC3
+số 12B
+số 4F
+sô 11
+Nguyễn Văn Của
+Nguyễn Du
 Bến Bùi Huy Bích
 2
 Hẻm 468 Phan Văn Trị
-Đường An Nhơn
-Đường Nghĩa Thục
+An Nhơn
+Nghĩa Thục
 Hẻm 688 Lê Đức Thọ
 Lê Qúy Đôn
-Đường sô 8
+sô 8
 Hẻm 590 Phan Văn Trị
 Le Van Sy
 Phan Xi Pang
 Quốc lộ 4A
-Đường Số 10
+Số 10
 Cộng Hòa
 Lũy Bán Bích
 Quốc lộ 15
 Nguyễn Văn Nghi
 Nguyễn Oanh
 - 254 - 256 Lê Duẩn
-Đường Mậu Thân
+Mậu Thân
 Khu Hoà Bình
-Đường 63
+63
 Le Thuc Nha
 Bát Sứ
 QL 37B, An Ninh
-Đường Ăn Trung Đông 1
+Ăn Trung Đông 1
 Khu đô thị Tây Nam Linh Đàm
 Tam Coc
-Đường An Thượng 30
+An Thượng 30
 RAI_22_YT_00
-Đường Mường Hoat
-Đường Trần Duy Hưng
+Mường Hoat
+Trần Duy Hưng
 Ngách 44/130 Trần Thái Tông
 Hẻm 353 Phan Huy Ích
 Tân Thi
-Phố Linh Đường
-Đường Đỗ Nhuận
-Phố Hàng Đường
-Đường 6D
+Linh Đường
+Đỗ Nhuận
+Hàng Đường
+6D
 Phùng Khắc Khoan
-Ngõ 94 Đường Tô Ngọc Vân
-Đường Cây Me
+Ngõ 94 Tô Ngọc Vân
+Cây Me
 BT7
 Lô Nhà Vườn
 Long Hậu
 Long Biên - Xuân Quan
-Phố Hàng Ngang
+Hàng Ngang
 Bui Huu
 Đặng Đoàn Bằng
-Đường tỉnh 769
-Đường dẫn cầu ổng chươngr
+tỉnh 769
+dẫn cầu ổng chươngr
 Hẻm 872/59 quang trung F8 gò vâps
 Nam Hồng
-Đường Bến Ba Đình
+Bến Ba Đình
 NGUYỄN LƯƠNG BẰNG
 Nguyễn Phi Khanh
-Khu phố đi bộ Sona sea, Phú Quốc
+Khu đi bộ Sona sea, Phú Quốc
 Hanoi, Vietnam
 Huỳnh Lý
 Võ Như Hưng
@@ -4584,10 +4580,10 @@ Hoàng Cầu
 Hẻm 184 Nguyễn Xí
 Hẻm Cô Giang
 ĐT787
-đường số 51
+số 51
 Hẻm 428 Chiến Lược
 RAI_40_HTN_019
-99A Đường Trần Hưng Đạo
+99A Trần Hưng Đạo
 116 tran hung dao
 Ngõ 91 A Lý Nam Đế
 Hẻm 337 Nguyễn Ðình Chiểu
@@ -4599,15 +4595,15 @@ Dương Tử Giang
 Nguyen Bao Duc
 điều xiển
 Điểu Xiển
-Đường Nguyễn Văn Dung
-Đường Nguyên Hồng
+Nguyễn Văn Dung
+Nguyên Hồng
 phan tây hồ
 Phan Tây Hồ
 Phan đăng lưu
 Hẻm 235 Tạ Uyên
-Đường Số 7
+Số 7
 Bùi Văn Ngữ 128
-đường 6A
+6A
 Hém 445
 Hẻm 445
 Bình Chiểu
@@ -4617,22 +4613,22 @@ Vĩnh Phú 38
 19 Gieng Don, Ha Long City
 Vĩnh Huy
 Hùng Vuong
-Phố Cửa Bắc
+Cửa Bắc
 Nguyen Van Linh Street
 200 Nguyễn Sơn
 2 thang 9
-Phố Đặng Văn Ngữ
-đường PHẠM THỊ GIÂY
+Đặng Văn Ngữ
+PHẠM THỊ GIÂY
 Tỉnh Lộ 10 ,Xã Đức Hòa Đông , Huyện Đức Hòa ,Tỉnh Long an
 Hẻm 275 Quang Trung
 La Sơn Phu Tử
-NGÕ 336 ĐƯỜNG NGUYỄN TRÃI
-Phố Trần Nguyên Đán
+NGÕ 336 NGUYỄN TRÃI
+Trần Nguyên Đán
 ngõ 335, nguyễn trãi
 Ngõ 85 - Hạ Đình
 Khu Đô Thị Mới Định Công
 Ngõ 342 Khương Đình
-Phố Chùa Hà
+Chùa Hà
 Trần Nguyên Đán
 Hào Nam
 Trung Hoà
@@ -4641,7 +4637,7 @@ Ngõ 554 Chường chinh
 Ngõ 554 Trường Chinh
 Thuỵ Khuê
 Ngõ 131 Hồng Hà
-Đường An Tư Công Chúa
+An Tư Công Chúa
 Phạm Ngu Lao Street
 số 19
 Huỳnh Dân Sanh
@@ -4649,26 +4645,26 @@ Ngõ 134 Lê Trọng Tấn
 Nguyễn Văn Lộc
 vườn nhãn
 Hẻm 179 Hai Bà Trưng
-đường TX33
+TX33
 Ngoc Chau
 Pham Ngoc Trach
 Bac Cau
-Đường Xuân Thanh
+Xuân Thanh
 Ngõ 1142 La Thành, V2, Khu tâp thê Bãc Thành Công
 Hoàng Ngoc Phàch, Làng Ha
 Hẻm 12 Cù Lao
 Hẻm 122 Phan Văn Hân
 85 Nguyễn Cửu Vân, Phường 17, Bình Thạnh, Hồ Chí Minh, Vietnam
 Ấp 1, Quốc lộ 50
-Phố Chả Cá
+Chả Cá
 Nguyễn đức chung
 Tan That Thiep
 Ton That Dam
-Đường số 24, KDC Hoàng Quân
-đường 600A
+số 24, KDC Hoàng Quân
+600A
 VMM trail 2015
 Luong Quan TP Hué
-Phố Hàng Khoai
+Hàng Khoai
 Xuân thuỷ
 Hang Thiec
 Ngô Gia Tự - Đức Giang
@@ -4685,7 +4681,7 @@ Bến Vân Đồn
 Cư xá Vĩnh Hội
 Nguyen Khoai
 Nguyễn Khoái
-đường Cách Mạng Tháng 8
+Cách Mạng Tháng 8
 Ngõ 107 Nguyễn Chí Thanh
 Tân Vĩnh
 Doi Can - Ba Dinh - Ha Noi
@@ -4695,56 +4691,56 @@ Bằng Lăng 1
 Tran Hung Dao st
 ngõ 1 Tạ Quang Bửu
 Bằng Liệt
-Phố Chu Văn An
-Phố Nam Cao
+Chu Văn An
+Nam Cao
 Hẻm 84A Trần Hữu Trang
-phố Vọng
+Vọng
 Hưng Thái 2
-đường 30/4
+30/4
 Võ Oanh
-Đường số 5A
+số 5A
 Cộng Hòa, P.12, Q.Tân Bình
 Phường
 Hải Đăng
-Đường Chiến Thắng
+Chiến Thắng
 Y Bih Alêô
 Y Jut
-Hẻm 85 đường Cây Cám
+Hẻm 85 Cây Cám
 Huỳnh Ngọc Hay
 Nguyễn Văn Hướng
 Thắng Nhì
-Đường Phạm Hồng Thái
+Phạm Hồng Thái
 BS Yersin
 Tết Mậu Thân
 ba Mươi Tháng Tư
 Hẻm 694 Nguyễn Kiệm
 Hồ Biểu Chánh
 205/39 Tran Van Dang
-Đường Nguyễn Trường Tộ
-Đường Vành đai ĐHQG
+Nguyễn Trường Tộ
+Vành đai ĐHQG
 Lê Thị Trung
 Bác ái
 Orchid
 Chân Lý
-Đường Nguyẽn Văn Trỗi
-Phố Lê Lai
+Nguyẽn Văn Trỗi
+Lê Lai
 Cao Lỗ
 Ngõ 54 Bùi Xương Trạch
 Tân Thới Hiệp 07
-Phố Hỏa Lò
+Hỏa Lò
 Ngách 106/2 Hoàng Quốc Việt
 Kiệt 68 Phùng Hưng
 Tôn Thất Hiệp
-đường Liên phường
-Phố Hoàng Minh Giám
+Liên phường
+Hoàng Minh Giám
 hẻm 525 Huỳnh Văn Bánh
 Hẻm 86 Thành Thái
-Đường Nguyễn Kiệm
+Nguyễn Kiệm
 Lương Trúc Đàm
 Le Thanh Nghi
 Nguyễn Tất Thành
 Công Trường Mê Linh
-Đường Tản Đà
+Tản Đà
 Chợ Lớn
 Đường số 8
 Hẻm 85 Bùi Minh Trực
@@ -4752,36 +4748,36 @@ Hoàng Kim Giao
 Lê Quyên
 Dương Quang Đông
 Ba Đình
-Đường Nguyễn Đình Chi
+Nguyễn Đình Chi
 Bàu Bàng
-Khu Phố Phước Thới
+Khu Phước Thới
 Lý Công Uẩn
 Hẻm 1041 Trần Xuân Soạn
 Lê Văn Duyệt
 Rạch Gầm
-Phố triều khúc
+triều khúc
 Nguyen Van Troi
-Đường Số 5
-Đường Số 52
+Số 5
+Số 52
 ĐT923
 Bình Thới
 Tân Túc
 Hoa Bằng
 Thuận Kiều
-Đường Cao Văn Lầu
+Cao Văn Lầu
 Long Binh
 Phan Kính
-Đường 1B
-Đường Lê Bôi
+1B
+Lê Bôi
 Cẩm Phú
 Huyền Trân Công Chúa
 Ấp Võ Dõng
 Cốm Vòng
-Đường Hồ Bá Phấn
+Hồ Bá Phấn
 Trần Văn Cẩn
 Nguyễn Trung Ngạn
 Kênh Nước Đen
-Đường Nguyễn Lý
+Nguyễn Lý
 Trương Công Xưởng
 Sương Nguyệt Anh
 Võ Văn Môn
@@ -4789,27 +4785,11 @@ Dương Thị Mười
 Phan Như Thạch
 Duong so 28
 Nguyen Tat Thanh Boulevard
-duong lo
-1
-18
-17
-16
-15
-14
-13
-12
-10
-9
-8
-7
-6
-5
-4
-Đường 21, khu vực 4
+21, khu vực 4
 cách mạng tháng 8
 Đại lộ Hòa Binh
 26 tháng 3
-đường Nguyễn Văn Cừ
+Nguyễn Văn Cừ
 Lộ Vòng Cung
 Đặng Thúc Vịnh
 DN6
@@ -4825,7 +4805,7 @@ ngô gia tự
 422/11
 Hẻm 422/14/12A
 Ngách 137/97 Việt Hưng
-Ngõ 95 phố Việt Hưng
+Ngõ 95 Việt Hưng
 lỗi vào thứ 2 của ngõ 67 nguyễn văn cừ
 Ngách 66/92 Ngọc Lâm
 Hẻm 640/21/16 Nguyễn Văn Cừ
@@ -4835,7 +4815,7 @@ NGõ 111 Nguyễn Văn Cừ
 hẻm 53/103/25
 Ngõ 53 Đức Giang
 ngách 53/49
-Phố Nguyễn Chánh
+Nguyễn Chánh
 Ngõ 43 Cổ Nhuế
 Hẻm 68/45/1 Nguyễn Văn Linh
 Ngõ 4 Ô Cách
@@ -4846,7 +4826,7 @@ Ngách 4/5 Ô Cách
 422/14/8
 422
 422/14/4
-Phố Nguyễn Sơn
+Nguyễn Sơn
 ngách 200/10/1
 Ngõ 46 Vũ Xuân Thiều
 Ngõ 757 Nguyễn Văn Linh
@@ -4876,22 +4856,22 @@ Mặt hồ tai trâu
 Ngõ 273 Ngọc Lâm
 Ngõ 247 Ngọc Lâm
 Ngõ 137 Việt Hưng
-ĐƯỜNG NỘI NHỎ
+NỘI NHỎ
 Ngõ Tân Lạc
 Thôn Cẩm Nê
 Ngõ 4 - Phương Mai
 Bạch Đằng, Đà Nẵng
 Định Hoaf
-Đường D1, Khu Công Nghệ Cao
+D1, Khu Công Nghệ Cao
 Ga Thái Nguyên
 Dien Bien Phu
 An Phu Đông 25
-Hẻm 606 đường 3/2
+Hẻm 606 3/2
 Bái Tử Long
 Sư Liễu Quán
 Ngõ 49 Nguyễn Khoái
 Phan Tôn
-phố Minh Khai
+Minh Khai
 Đại lộ Thăng Long
 Ngõ 135 Nguyễn Văn Cừ
 Nguyễn Văn Tốt
@@ -4904,88 +4884,88 @@ Lach Tray
 Nguyễn Hữu Hào
 Thạnh Quý
 Dương Bạch Mai
-Đường sô 44
+sô 44
 Nguyễn Thanh Sơn
-Đường Lê Phụng Hiếu
-Đường Hoàng Việt
-Đường Nguyễn Thị Định
-Đường Khúc Hạo
-Đường Yết Kiêu
-Đường Thành Vinh 2
-Đường Hồ Nghinh
-Đường Nguyễn Gia Trí
-Đường Đặng Tử Kính
-Đường An Trung 1
-Đường Nguyễn Thiếp
-Đường Trần Trọng Khiêm
+Lê Phụng Hiếu
+Hoàng Việt
+Nguyễn Thị Định
+Khúc Hạo
+Yết Kiêu
+Thành Vinh 2
+Hồ Nghinh
+Nguyễn Gia Trí
+Đặng Tử Kính
+An Trung 1
+Nguyễn Thiếp
+Trần Trọng Khiêm
 Ocean Drive
-Đường Dune Court
+Dune Court
 Ocean View Street
 Ocean Boulevard
 Trương Gia Mô
-đường Số 104-TML
-Đường Bùi Bỉnh Uyên
-Đường Hoành Bình Chính
-Đường Dâm Thánh 4
-Đường Dâm Thánh 5
-Đường Văn Thánh 8
-Đường Thanh Tịnh
-Đường Phan Đình Phùng
-Đường Đức Lợi 3
-Đường Võ Văn Tần
-Đường Lương Nhữ Hộc
-Đường Tăng Bạt Hổ
-Đường Đoàn Thị Điểm
-Đường Lê Như Hổ
-Đường Nguyễn Khoa Chiêm
-Hẻm 2 Đường Trường Chinh
-Đường Hoàng Đạo Thúy
-Đường Bàu Gia Thượng 1
-Đường Lê Sát
-Đường Nguyễn Lộ Trạch
-Đường Quy Mỹ
-Đường Nguyễn Phước Tấn
-Đường Cẩm Bắc 5
-Đường Đăng Quế
-Đường Cao Sơn 4
-Đường Triệu Quốc Đạt
+Số 104-TML
+Bùi Bỉnh Uyên
+Hoành Bình Chính
+Dâm Thánh 4
+Dâm Thánh 5
+Văn Thánh 8
+Thanh Tịnh
+Phan Đình Phùng
+Đức Lợi 3
+Võ Văn Tần
+Lương Nhữ Hộc
+Tăng Bạt Hổ
+Đoàn Thị Điểm
+Lê Như Hổ
+Nguyễn Khoa Chiêm
+Hẻm 2 Trường Chinh
+Hoàng Đạo Thúy
+Bàu Gia Thượng 1
+Lê Sát
+Nguyễn Lộ Trạch
+Quy Mỹ
+Nguyễn Phước Tấn
+Cẩm Bắc 5
+Đăng Quế
+Cao Sơn 4
+Triệu Quốc Đạt
 Kiệt 298 Cách Mang Tháng Tám
-Đường Nguyễn Hàng
-Đường Non Nước
-Đường Hà Tông Quyền
-Đường Đỗ Đăng Tuyển
-Đường Nguyễn Trung Ngạn
-Đường Trương Quang Giao
-Đường Lương Định Của
-Đường Nguyễn Quý Đức
-Đường Lê Văn An
-Đường Phạm Tứ
-Đường Nguyễn Văn Bổng
+Nguyễn Hàng
+Non Nước
+Hà Tông Quyền
+Đỗ Đăng Tuyển
+Nguyễn Trung Ngạn
+Trương Quang Giao
+Lương Định Của
+Nguyễn Quý Đức
+Lê Văn An
+Phạm Tứ
+Nguyễn Văn Bổng
 Lạc Quang
-Phố Tôn Thất Đàm
-Phố Ngọc Hà
-Phố Chùa Một Cột
-Phố Hoàng Hoa Thám
+Tôn Thất Đàm
+Ngọc Hà
+Chùa Một Cột
+Hoàng Hoa Thám
 8 Pháo Đài Láng
-Đường Đức Thắng
-Phố Thụy Khuê
-Phố Hàng Cót
-Phố Hàng Lược
-Phố Nguyễn Khắc Hiếu
-Phố Phan Huy Ích
-Phố Lương Ngọc Quyết
-Phố Hàng Buồm
-Phố Bát Đàn
+Đức Thắng
+Thụy Khuê
+Hàng Cót
+Hàng Lược
+Nguyễn Khắc Hiếu
+Phan Huy Ích
+Lương Ngọc Quyết
+Hàng Buồm
+Bát Đàn
 Hàng Vải
-Phố Thúy Lĩnh
+Thúy Lĩnh
 Ngõ 44 Thúy Lĩnh
 Ngõ 49 Thúy Lĩnh
-Phố Đào Duy Anh
-Phố Tôn Thất Thiệp
+Đào Duy Anh
+Tôn Thất Thiệp
 Ngõ 80
-Phố Thanh Am
+Thanh Am
 Ngõ 987
-Phố Trần Bình Trọng
+Trần Bình Trọng
 Ngõ 987 Ngô Gia Tự
 Ngách 321/28
 Ngách 201/2 Phúc Lợi
@@ -4994,28 +4974,28 @@ Ngõ 638 Ngô Gia Tự
 Hẻm 18A Nguyễn Thị Minh Khai
 Ngõ Xã Đàn II
 Ngõ 213
-Phố Qương Kiên
-Phố Chùa Quỳnh
-Đường số 32A
+Qương Kiên
+Chùa Quỳnh
+số 32A
 Dủổng 1C
-Đường sổ 10
-Đường sổ 7
-Đường sổ 5
+sổ 10
+sổ 7
+sổ 5
 Hẻm 178 Nguyễn Văn Thương
 Hẻm 152 Nguyễn Văn Thương
 Duong NG3
 Ngo Cau May
 Nguyễn Văn Hoài
-Đường số 59
-Đường T13A
+số 59
+T13A
 Đông Hưng Thuận 2
-Đường Nguyễn Văn Quá
-Đường D31
+Nguyễn Văn Quá
+D31
 Nguyễn Gia Trí
-Đường D21
+D21
 Đào Trí
 Hẻm 370 Võ Văn Kiệt
 Kiệt 35 Trưng Nhị
 Nguyễn Huệ
 Thụy Khuê
-đường Sáng Tạo
+Sáng Tạo

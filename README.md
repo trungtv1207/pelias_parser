@@ -9,9 +9,11 @@
 - code files imported:
     - ../classification/CountyClassification.js
     - ../classification/CountyClassification.test.js
+    - ../test/address.vie.test.js
 
 - code files edited:
     - ../classifier/WhosOnFirstClassifier.js
     - ../classifier/StreetSuffixClassifier.js
     - ../solver/LeadingAreaDeclassifier.js
     - ../parser/Parser.js
+    - ../resources/libpostal/dictionaries/vi/qualifiers.txt

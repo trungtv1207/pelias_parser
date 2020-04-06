@@ -3,7 +3,6 @@ An Biên
 An Dương
 An Khê
 An Lão
-An Lão
 An Minh
 An Nhơn
 An Phú
@@ -20,11 +19,9 @@ Ba Vì
 Bà Rịa
 Bá Thước
 Bác Ái
-Bạc Liêu
 Bạch Long Vĩ
 Bạch Thông
 Bảo Lạc
-Bảo Lâm
 Bảo Lâm
 Bảo Lộc
 Bảo Thắng
@@ -32,11 +29,8 @@ Bảo Yên
 Bát Xát
 Bàu Bàng
 Bắc Bình
-Bắc Giang
 Bắc Hà
-Bắc Kạn
 Bắc Mê
-Bắc Ninh
 Bắc Quang
 Bắc Sơn
 Bắc Tân Uyên
@@ -46,7 +40,6 @@ Bắc Yên
 Bến Cát
 Bến Cầu
 Bến Lức
-Bến Tre
 Biên Hòa
 Bỉm Sơn
 Bình Chánh
@@ -59,7 +52,6 @@ Bình Lục
 Bình Minh
 Bình Sơn
 Bình Tân
-Bình Tân
 Bình Thạnh
 Bình Thủy
 Bình Xuyên
@@ -70,8 +62,6 @@ Bù Gia Mập
 Buôn Đôn
 Buôn Hồ
 Buôn Ma Thuột
-Cà Mau
-Cai Lậy
 Cai Lậy
 Cái Bè
 Cái Nước
@@ -81,8 +71,6 @@ Cam Lộ
 Cam Ranh
 Can Lộc
 Càng Long
-Cao Bằng
-Cao Lãnh
 Cao Lãnh
 Cao Lộc
 Cao Phong
@@ -105,15 +93,6 @@ Châu Đốc
 Châu Đức
 Châu Phú
 Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
-Châu Thành
 Châu Thành A
 Chi Lăng
 Chí Linh
@@ -121,7 +100,6 @@ Chiêm Hóa
 Chợ Đồn
 Chợ Gạo
 Chợ Lách
-Chợ Mới
 Chợ Mới
 Chơn Thành
 Chư Păh
@@ -148,7 +126,6 @@ Diễn Châu
 Duy Tiên
 Duy Xuyên
 Duyên Hải
-Duyên Hải
 Dương Kinh
 Dương Minh Châu
 Đa Krông
@@ -173,7 +150,6 @@ Dương Minh Châu
 Đam Rông
 Đất Đỏ
 Điện Bàn
-Điện Biên
 Điện Biên Đông
 Điện Biên Phủ
 Đình Lập
@@ -226,10 +202,8 @@ Gò Dầu
 Gò Quao
 Gò Vấp
 Hà Đông
-Hà Giang
 Hà Quảng
 Hà Tiên
-Hà Tĩnh
 Hà Trung
 Hạ Hòa
 Hạ Lang
@@ -237,7 +211,6 @@ Hạ Long
 Hai Bà Trưng
 Hải An
 Hải Châu
-Hải Dương
 Hải Hà
 Hải Hậu
 Hải Lăng
@@ -251,14 +224,12 @@ Hiệp Hòa
 Hoa Lư
 Hòa An
 Hoà Bình
-Hoà Bình
 Hòa Thành
 Hòa Vang
 Hoài Ân
 Hoài Đức
 Hoài Nhơn
 Hoàn Kiếm
-Hoàng Mai
 Hoàng Mai
 Hoàng Sa
 Hoàng Su Phì
@@ -271,11 +242,9 @@ Hồng Bàng
 Hồng Dân
 Hồng Lĩnh
 Hồng Ngự
-Hồng Ngự
 Huế
 Hưng Hà
 Hưng Nguyên
-Hưng Yên
 Hương Khê
 Hương Sơn
 Hương Thủy
@@ -304,7 +273,6 @@ Kim Thành
 Kinh Môn
 Kon Plông
 Kon Rẫy
-Kon Tum
 Kông Chro
 Krông Ana
 Krông Bông
@@ -314,18 +282,14 @@ Krông Nô
 Krông Pa
 Krông Pắk
 Kỳ Anh
-Kỳ Anh
 Kỳ Sơn
 La Gi
 Lạc Dương
 Lạc Sơn
 Lạc Thủy
-Lai Châu
 Lai Vung
 Lang Chánh
 Lạng Giang
-Lạng Sơn
-Lào Cai
 Lắk
 Lâm Bình
 Lâm Hà
@@ -339,7 +303,6 @@ Long Biên
 Long Điền
 Long Hồ
 Long Khánh
-Long Mỹ
 Long Mỹ
 Long Phú
 Long Thành
@@ -387,7 +350,6 @@ Mỹ Xuyên
 Na Hang
 Na Rì
 Nam Đàn
-Nam Định
 Nam Đông
 Nam Giang
 Nam Sách
@@ -419,7 +381,6 @@ Nho Quan
 Nhơn Trạch
 Như Thanh
 Như Xuân
-Ninh Bình
 Ninh Giang
 Ninh Hải
 Ninh Hòa
@@ -433,7 +394,6 @@ Núi Thành
 Pác Nặm
 Phan Rang-Tháp Chàm
 Phan Thiết
-Phong Điền
 Phong Điền
 Phong Thổ
 Phổ Yên
@@ -449,9 +409,7 @@ Phú Quý
 Phú Quốc
 Phú Riềng
 Phú Tân
-Phú Tân
 Phú Thiện
-Phú Thọ
 Phú Vang
 Phú Xuyên
 Phù Cát
@@ -464,7 +422,6 @@ Phúc Thọ
 Phúc Yên
 Phụng Hiệp
 Phước Long
-Phước Long
 Phước Sơn
 Pleiku
 Quan Hóa
@@ -473,10 +430,7 @@ Quản Bạ
 Quang Bình
 Quảng Điền
 Quảng Hòa
-Quảng Ngãi
-Quảng Ninh
 Quảng Trạch
-Quảng Trị
 Quảng Yên
 Quảng Xương
 Quận 1
@@ -509,7 +463,6 @@ Sầm Sơn
 Si Ma Cai
 Sìn Hồ
 Sóc Sơn
-Sóc Trăng
 Sông Cầu
 Sông Công
 Sông Hinh
@@ -520,8 +473,6 @@ Sơn Động
 Sơn Dương
 Sơn Hà
 Sơn Hòa
-Sơn La
-Sơn Tây
 Sơn Tây
 Sơn Tịnh
 Sơn Trà
@@ -532,12 +483,10 @@ Tam Điệp
 Tam Đường
 Tam Kỳ
 Tam Nông
-Tam Nông
 Tánh Linh
 Tân An
 Tân Biên
 Tân Bình
-Tân Châu
 Tân Châu
 Tân Hiệp
 Tân Hồng
@@ -545,34 +494,28 @@ Tân Hưng
 Tân Kỳ
 Tân Lạc
 Tân Phú
-Tân Phú
 Tân Phú Đông
 Tân Phước
 Tân Sơn
 Tân Thạnh
 Tân Trụ
 Tân Uyên
-Tân Uyên
 Tân Yên
 Tây Giang
 Tây Hòa
 Tây Hồ
-Tây Ninh
 Tây Sơn
 Thạch An
 Thạch Hà
 Thạch Thành
 Thạch Thất
-Thái Bình
 Thái Hòa
-Thái Nguyên
 Thái Thụy
 Than Uyên
 Thanh Ba
 Thanh Bình
 Thanh Chương
 Thanh Hà
-Thanh Hóa
 Thanh Khê
 Thanh Liêm
 Thanh Miện
@@ -616,7 +559,6 @@ Tịnh Biên
 Trà Bồng
 Trà Cú
 Trà Ôn
-Trà Vinh
 Trạm Tấu
 Tràng Định
 Trảng Bàng
@@ -639,7 +581,6 @@ Tuy Hòa
 Tuy Phong
 Tuy Phước
 Tuyên Hóa
-Tuyên Quang
 Tư Nghĩa
 Tứ Kỳ
 Từ Sơn
@@ -670,10 +611,8 @@ Vĩnh Châu
 Vĩnh Cửu
 Vĩnh Hưng
 Vĩnh Linh
-Vĩnh Long
 Vĩnh Lộc
 Vĩnh Lợi
-Vĩnh Thạnh
 Vĩnh Thạnh
 Vĩnh Thuận
 Vĩnh Tường
@@ -689,7 +628,6 @@ Xuân Lộc
 Xuân Trường
 Xuyên Mộc
 Ý Yên
-Yên Bái
 Yên Bình
 Yên Châu
 Yên Dũng
