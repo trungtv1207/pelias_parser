@@ -4,7 +4,6 @@ Bach Dang
 Cao Thang
 Hong Hai
 Ha Lam
-Ha Trung
 Hong Ha
 Ha Tu
 Ha Phong
@@ -33,7 +32,6 @@ Mong Duong
 Duong Huy
 Quang Hanh
 Cam Thach
-Cam Thuy
 Cai Rong
 Van Yen
 Dai Xuyen
@@ -45,8 +43,6 @@ Ngoc Vung
 Quan Lan
 Ban Sen
 Minh Chau
-Ha Long
-Co To
 Thanh Lan
 Dong Tien
 Hoa Lac
@@ -55,12 +51,10 @@ Tran Phu
 Ka Long
 Ninh Duong
 Hai Yen
-Bac Son
 Hai Son
 Quang Nghia
 Hai Tien
 Hai Dong
-Van Ninh
 Vinh Trung
 Vinh Thuc
 Binh Ngoc
@@ -79,30 +73,21 @@ Quang Thinh
 Quang Chinh
 Quang Trung
 Phu Hai
-Quang Dien
 Tien Toi
 Cai Chien
-Binh Lieu
 Huc Dong
-Dong Van
 Hoanh Mo
 Dong Tam
 Luc Hon
 Tinh Huc
 Vo Ngai
-Dam Ha
 Quang Tan
 Quang Loi
-Tan Binh
 Quang Lam
 Quang An
 Duc Yen
 Dai Binh
 Tan Lap
-Dam Ha
-Tien Yen
-Tien Lang
-Dong Hai
 Dong Ngu
 Dai Duc
 Dai Thanh
@@ -112,9 +97,7 @@ Dien Xa
 Yen Than
 Hai Lang
 Dong Rui
-Ba Che
 Nam Son
-Thanh Son
 Thanh Lam
 Luong Mong
 Minh Cam
@@ -122,27 +105,21 @@ Dap Thanh
 Don Dac
 Troi
 Le Loi
-Son Duong
 Dong Lam
-Thong Nhat
 Vu Oai
-Hoa Binh
 Ky Thuong
 Dong Son
 Dan Chu
 Tan Dan
 Quang La
 Bang Ca
-Quang Yen
 Ha An
 Hoang Tan
-Tan An
 Tien An
 Minh Thanh
 Dong Mai
 Song Khoai
 Cong Hoa
-Hiep Hoa
 Yen Giang
 Nam Hoa
 Yen Hai
@@ -152,9 +129,7 @@ Tien Phong
 Lien Hoa
 Phong Hai
 Cam La
-Thanh Son
 Quang Trung
-Bac Son
 Vang Danh
 Thuong Yen Cong
 Phuong Dong
@@ -163,11 +138,9 @@ Yen Thanh
 Dien Cong
 Trung Vuong
 Nam Khe
-Dong Trieu
 Duc Chinh
 Trang An
 Xuan Son
-Kim Son
 Mao Khe
 Yen Tho
 Yen Duc
@@ -195,19 +168,14 @@ Hai Tan
 Ngoc Chau
 Nhi Chau
 Cam Thuong
-Thanh Binh
-Tan Binh
 Thach Khoi
-Tan Hung
 Nam Dong
 Ai Quoc
 An Chau
 Thuong Dat
 Viet Hoa
 Tu Minh
-Thanh Ha
 Thanh Xa
-Thanh Xuan
 Lien Mac
 Thanh Lang
 Thanh An
@@ -218,12 +186,8 @@ Hong Lac
 Quyet Thang
 Tien Tien
 Thanh Hai
-Tan An
-Thanh Khe
 An Luong
 Phuong Hoang
-Thanh Son
-Thanh Thuy
 Truong Thanh
 Thanh Hong
 Vinh Lap
@@ -244,14 +208,12 @@ Kim Dinh
 Binh Dan
 Lien Hoa
 Dai Duc
-Tam Ky
 Dong Gia
 Cam La
 Kim Tan
 Kim Khe
 Kim Anh
 Kim Luong
-Kinh Mon
 Phu Thu
 Minh Tan
 Duy Tan
@@ -263,7 +225,6 @@ Phuc Thanh B
 Quang Trung
 Thang Long
 Lac Long
-Hiep Hoa
 Thai Son
 Pham Menh
 Hiep Son
@@ -271,7 +232,6 @@ An Sinh
 Thuong Quan
 An Phu
 Hiep An
-Long Xuyen
 Hien Thanh
 Minh Hoa
 Thai Thinh
@@ -294,7 +254,6 @@ An Lac
 Kenh Giang
 Tan Dan
 Dong Lac
-Nam Sach
 An Lam
 Phu Dien
 Cong Hoa
@@ -313,7 +272,6 @@ Minh Tan
 Hong Phong
 Nam Hong
 Dong Lac
-Cam Giang
 Lai Cach
 Cao An
 Duc Chinh
@@ -332,15 +290,12 @@ Cam Phuc
 Tan Truong
 Cam Dong
 Cam Doai
-Gia Loc
 Gia Khanh
 Gia Luong
 Tan Tien
 Gia Xuyen
 Gia Tan
 Lien Hong
-Thong Nhat
-Trung Khanh
 Yet Kieu
 Gia Hoa
 Phuong Hung
@@ -359,27 +314,20 @@ Ke Sat
 Trang Liet
 Thuc Khang
 Thai Duong
-Thai Hoa
-Tan Hong
-Binh Minh
 Thai Hoc
-Binh Xuyen
 Nhan Quyen
 Co Bi
 Hong Khe
-Long Xuyen
 Tan Viet
 Hung Thang
 Vinh Tuy
 Vinh Hong
 Hung Thinh
-Thanh Mien
 Lam Son
 Pham Kha
 Thanh Tung
 Doan Tung
 Hong Quang
-Ngo Quyen
 Tan Trao
 Doan Ket
 Le Hong
@@ -392,7 +340,6 @@ Thanh Giang
 Ngu Hung
 Tu Cuong
 Hung Son
-Ninh Giang
 Dong Tam
 Vinh Hoa
 Ninh Thanh
@@ -400,7 +347,6 @@ Tan Huong
 Nghia An
 Quyet Thang
 Ung Hoe
-Ninh Hoa
 Hong Duc
 Van Phuc
 An Duc
@@ -408,29 +354,24 @@ Hoang Hanh
 Quang Hung
 Tan Quang
 Van Hoi
-Van Giang
 Hung Thai
 Hung Long
 Hong Phuc
 Tan Phong
 Kien Quoc
 Dong Xuyen
-Ninh Hai
 Hong Du
 Hong Thai
 Hong Phong
 Hiep Luc
-Tu Ky
 Dong Ky
 Quang Phuc
 Binh Lang
 Tai Son
 Hung Dao
 Dai Dong
-Ky Son
 Ngoc Son
 Ngoc Ky
-Tan Ky
 Dan Chu
 Quang Nghiep
 Dai Hop
@@ -488,16 +429,13 @@ Minh Tan
 Gia Minh
 Luu Ky
 Lien Khe
-Ky Son
 Lai Xuan
 An Son
-Phu Ninh
 Hop Thanh
 Quang Thanh
 Chinh My
 Luu Kiem
 Kenh Giang
-Dong Son
 My Dong
 Cao Nhan
 Kien Bai
@@ -508,9 +446,7 @@ Thuy Son
 Hoa Dong
 Tan Duong
 Duong Quan
-An Duong
 Nam Son
-Bac Son
 Tan Tien
 An Hung
 An Hong
@@ -524,7 +460,6 @@ Dang Cuong
 Hong Thai
 Dong Thai
 An Dong
-An Lao
 An Tien
 Truong Thanh
 Truong Tho
@@ -536,7 +471,6 @@ Tan Vien
 Chien Thang
 An Tho
 An Thai
-My Duc
 Thai Son
 Tan Dan
 Truong Son
@@ -549,21 +483,17 @@ Van Dau
 Dong Hoa
 Lam Ha
 Quan Tru
-Bac Son
 Nam Son
 Trai Cau
-An Bien
 Cat Dai
 Ho Nam
 Tran Nguyen Han
-An Duong
 Lam Son
 Niem Nghia
 Nghia Xa
 Vinh Niem
 Du Hang Kenh
 Kenh Duong
-Dong Hai
 Hang Kenh
 Du Hang
 Dang Lam
@@ -597,7 +527,6 @@ Du Le
 Ngu Phuc
 Kien Quoc
 Thuy Huong
-Thanh Son
 Dai Ha
 Tan Trao
 Doan Xa
@@ -605,7 +534,6 @@ Dai Hop
 Tu Son
 Tan Phong
 Ngu Doan
-Tien Lang
 Quyet Tien
 Tu Cuong
 Dai Thang
@@ -620,7 +548,6 @@ Bach Dang
 Tien Minh
 Nam Hung
 Tay Hung
-Dong Hung
 Tien Hung
 Vinh Quang
 Hung Thang
@@ -628,7 +555,6 @@ Bac Hung
 Tien Thang
 Toan Thang
 Quang Phuc
-Vinh Bao
 Tan Lien
 Viet Tien
 Vinh An
@@ -636,10 +562,8 @@ Giang Bien
 Dung Tien
 Trung Lap
 Thang Thuy
-Vinh Long
 Hiep Hoa
 Hung Tien
-Tan Hung
 An Hoa
 Hung Nhan
 Dong Minh
@@ -663,10 +587,8 @@ Viet Hai
 Gia Luan
 Phu Long
 Dong Bai
-Nghia Lo
 Hoang Chau
 Van Phong
-Cat Hai
 Hien Hao
 Xuan Dam
 Tran Chau
@@ -677,9 +599,7 @@ Le Hong Phong
 Hoang Dieu
 Dong My
 Dong Tho
-Dong Hoa
 Tien Phong
-Tan Binh
 Phu Xuan
 Phu Khanh
 Ky Ba
@@ -691,8 +611,6 @@ Vu Lac
 Vu Dong
 Thanh Ne
 An Boi
-Binh Minh
-Hoa Binh
 Dinh Phung
 Nam Cao
 Thuong Hien
@@ -714,7 +632,6 @@ Vu Qui
 Vu Trung
 Vu Thang
 Vu Hoa
-Quang Binh
 Vu Cong
 Vu Binh
 Minh Tan
@@ -726,24 +643,19 @@ Quang Hung
 Quang Trung
 Minh Hung
 Quang Minh
-Tien Hai
-Tay Son
 Dong Co
 Dong Minh
 Dong Hoang
 Dong Long
-Dong Hai
 Dong Tra
 Dong Xuyen
 Dong Qui
 Dong Trung
 Dong Phong
-Tay Ninh
 Tay Luong
 Vu Lang
 Tay An
 An Ninh
-Tay Giang
 Phuong Cong
 Tay Phong
 Van Truong
@@ -797,14 +709,12 @@ Thai Hoc
 Thai Thinh
 Thai Thanh
 Thai Tho
-My Loc
 Thai Do
 Thai Hoa
 Thai An
 Thai Xuyen
 Thai Tan
 Thai Hung
-Thai Nguyen
 Thai Thuy
 Thuy Lien
 Thuy Ha
@@ -813,7 +723,6 @@ Quynh Coi
 Quynh Hong
 Quynh Minh
 An Thai
-An Khe
 An Dong
 An Hiep
 Quynh Tho
@@ -834,7 +743,6 @@ Quynh Hai
 Quynh Hoi
 Quynh Xa
 An Vinh
-Dong Hai
 An Trang
 Dong Tien
 An My
@@ -847,21 +755,14 @@ An Qui
 An ap
 An Cau
 An Ninh
-Hung Ha
 Minh Khai
-Hong Linh
 Hoa Binh
-Chi Lang
 Tay Do
-Thong Nhat
 Dong Do
-Bac Son
 Van Cam
-Duyen Hai
 Dan Chu
 Diep Nong
 Hung Dung
-Doan Hung
 Tan Tien
 Phuc Khanh
 Hoa Tien
@@ -882,17 +783,12 @@ Minh Hoa
 Hong Minh
 Chi Hoa
 Van Lang
-Dong Hung
 Dong Xa
 Dong Cuong
 Dong Phuong
-Dong Son
 Dong La
 Lien Giang
-Do Luong
 An Chau
-Phu Luong
-Me Linh
 Hop Tien
 Chuong Duong
 Lo Giang
@@ -903,9 +799,7 @@ Hong Chau
 Bach Dang
 Hong Giang
 Hoa Nam
-Hoa Lu
 Minh Chau
-Dong Phu
 Trong Quan
 Phu Chau
 Phong Chau
@@ -924,9 +818,6 @@ Dong Phong
 Dong Linh
 Dong Tan
 Dong Kinh
-Dong Giang
-Dong Ha
-Vu Thu
 Minh Quang
 Tan Hoa
 Tan Phong
@@ -934,7 +825,6 @@ Phuc Thanh
 Minh Lang
 Minh Khai
 Song Lang
-Hiep Hoa
 Xuan Hoa
 Dong Thanh
 Hong Ly
@@ -955,16 +845,12 @@ Vu Hoi
 Viet Thuan
 Trung An
 Song An
-Hoa Binh
 Ba Trieu
 Quang Trung
 Nguyen Du
 Vi Hoang
-Vi Xuyen
 Tran Te Xuong
-Ha Long
 Loc Ha
-Thong Nhat
 Loc Vuong
 Cua Bac
 Loc Hoa
@@ -980,8 +866,6 @@ Nam Phong
 Cua Nam
 Phan Dinh Phung
 Tran Hung Dao
-Ngo Quyen
-My Loc
 My Thang
 My Trung
 My Tan
@@ -1012,21 +896,15 @@ Minh Tan
 Kim Thai
 Lam
 Yen Duong
-Yen My
-Yen Minh
-Yen Binh
 Yen Loi
 Yen Tan
 Yen Nghia
 Yen Trung
-Yen Thanh
 Yen Tho
 Yen Phuong
 Yen Chinh
 Yen Phu
 Yen Hung
-Yen Khanh
-Yen Phong
 Yen Quang
 Yen Hong
 Yen Tien
@@ -1067,7 +945,6 @@ Nghia Tan
 Nghia Binh
 Nghia Phong
 Nghia Hong
-Nam Giang
 Nam Hung
 Nam Hoa
 Nam Hong
@@ -1080,7 +957,6 @@ Hong Quang
 Nghia An
 Nam Cuong
 Nam Duong
-Binh Minh
 Nam Tien
 Dong Son
 Nam Thai
@@ -1108,7 +984,6 @@ Viet Hung
 Liem Hai
 Phuong Dinh
 Truc Chinh
-Xuan Truong
 Xuan Tien
 Xuan Kien
 Xuan Ninh
@@ -1150,9 +1025,7 @@ Giao Huong
 Giao Thanh
 Hong Thuan
 Binh Hoa
-Yen Dinh
 Hai Thanh
-Hai Ha
 Hai Phuc
 Hai Nam
 Hai Van
@@ -1164,10 +1037,8 @@ Hai Minh
 Hai Duong
 Hai Phong
 Hai Toan
-Hai An
 Hai Giang
 Hai Ninh
-Hai Chau
 Thinh Long
 Hai Trieu
 Hai Hoa
@@ -1185,11 +1056,9 @@ Hai Quang
 Hai Loc
 Hai Phuong
 Hai Long
-Thanh Binh
 Van Giang
 Nam Binh
 Ninh Phong
-Ninh Son
 Ninh Phuc
 Bich Dao
 Dong Thanh
@@ -1201,12 +1070,9 @@ Nam Thanh
 Ninh Tien
 Thien Ton
 Ninh Khang
-Ninh Giang
 Ninh My
-Ninh Hoa
 Truong Yen
 Ninh Xuan
-Ninh Hai
 Ninh Thang
 Ninh Van
 Ninh An
@@ -1231,13 +1097,11 @@ Gia Lac
 Gia Minh
 Gia Phong
 Gia Sinh
-Nho Quan
 Lang Phong
 Lac Van
 Duc Long
 Gia Tuong
 Gia Thuy
-Gia Lam
 Gia Son
 Xich Tho
 Thach Binh
@@ -1249,37 +1113,25 @@ Thuong Hoa
 Thanh Lac
 Son Thanh
 Son Lai
-Son Ha
 Quynh Luu
-Phu Loc
 Van Phu
 Van Phuong
 Cuc Phuong
 Ky Phu
 Phu Long
 Quang Lac
-Bac Son
 Trung Son
-Yen Binh
-Tan Binh
-Yen Son
 Quang Son
-Tay Son
 Nam Son
-Dong Son
 Yen Thinh
-Yen Phong
 Khanh Thinh
 Khanh Duong
 Khanh Thuong
-Mai Son
 Yen Thang
 Yen Hoa
 Yen Hung
 Yen Tu
 Yen Nhan
-Yen My
-Yen Thanh
 Yen Mac
 Yen Dong
 Yen Thai
@@ -1302,7 +1154,6 @@ Luu Phuong
 Tan Thanh
 Yen Loc
 Lai Thanh
-Dinh Hoa
 Van Hai
 Kim Tan
 Kim My
@@ -1310,7 +1161,6 @@ Con Thoi
 Kim Hai
 Kim Trung
 Kim Dong
-Binh Minh
 Yen Ninh
 Khanh Loi
 Khanh Thien
@@ -1333,7 +1183,6 @@ Khanh Thanh
 Hang Trong
 Ly Thai To
 Phuc Tan
-Dong Xuan
 Hang Buom
 Hang Bac
 Hang Dao
@@ -1356,7 +1205,6 @@ Giang Vo
 Thanh Cong
 Kim Ma
 Doi Can
-Dien Bien
 Nguyen Trung Truc
 Phuc Xa
 Truc Bach
@@ -1435,8 +1283,6 @@ Yen So
 Tran Phu
 Linh Nam
 Mai Dong
-Thanh Tri
-Vinh Hung
 Hoang Van Thu
 Tan Mai
 Tuong Mai
@@ -1452,7 +1298,6 @@ Ngoc Thuy
 Ngoc Lam
 Gia Thuy
 Bo De
-Long Bien
 Cu Khoi
 Thach Ban
 Phuc Loi
@@ -1495,23 +1340,18 @@ Yen Nghia
 Bien Giang
 Dong Mai
 Phu Lam
-Phu Luong
 Kien Hung
 Phu La
-Soc Son
 Tan Minh
 Bac Phu
-Tan Hung
 Trung Gia
 Hong Ky
 Phu Linh
 Nam Son
-Bac Son
 Minh Tri
 Minh Phu
 Tan Dan
 Hien Ninh
-Thanh Xuan
 Quang Tien
 Phu Cuong
 Phu Minh
@@ -1524,7 +1364,6 @@ Xuan Thu
 Kim Lu
 Xuan Giang
 Viet Long
-Dong Anh
 Uy No
 Viet Hung
 Lien Ha
@@ -1552,7 +1391,6 @@ Trau Quy
 Duong Xa
 Duong Quang
 Phu Thi
-Kim Son
 Le Chi
 Trung Mau
 Phu Dong
@@ -1571,7 +1409,6 @@ Van Duc
 Da Ton
 Kieu Ky
 Van Dien
-Yen My
 Tu Hiep
 Tam Hiep
 Thanh Liet
@@ -1580,7 +1417,6 @@ Huu Hoa
 Vinh Quynh
 Ta Thanh Oai
 Dai Ang
-Ngoc Hoi
 Lien Ninh
 Dong My
 Van Phuc
@@ -1598,7 +1434,6 @@ Co Do
 Van Thang
 Phu Dong
 Phong Van
-Thai Hoa
 Dong Thai
 Vat Lai
 Phu Son
@@ -1609,7 +1444,6 @@ Thuan My
 Ba Trai
 Minh Quang
 Khanh Thuong
-Ba Vi
 Yen Bai
 Van Hoa
 Tan Linh
@@ -1624,17 +1458,13 @@ Duong Lam
 Xuan Son
 Thanh My
 Xuan Khanh
-Kim Son
 Co Dong
 Son Dong
 Trung Son Tram
 Son Loc
 Trung Hung
 Quang Trung
-Ngo Quyen
-Phuc Tho
 Phuc Hoa
-Long Xuyen
 Thuong Coc
 Hat Mon
 Van Nam
@@ -1672,9 +1502,7 @@ Hoang Kim
 Van Khe
 Trang Viet
 Tien Phong
-Me Linh
 Phung
-Dan Phuong
 Thuong Mo
 Ha Mo
 Tan Hoi
@@ -1684,7 +1512,6 @@ Lien Ha
 Lien Hong
 Hong Ha
 Trung Chau
-Tho Xuan
 Tho An
 Phuong Dinh
 Dong Thap
@@ -1697,7 +1524,6 @@ Lai Thuong
 Binh Yen
 Tan
 Thach Hoa
-Yen Binh
 Yen Trung
 Tien Xuan
 Ha Bang
@@ -1727,13 +1553,10 @@ Dong La
 La Phu
 An Khanh
 Lai Yen
-Van Canh
 Di Trach
 Kim Chung
 Son Dong
 Duc Giang
-Quoc Oai
-Yen Son
 Phuong Cach
 Sai Son
 Ngoc My
@@ -1751,7 +1574,6 @@ Thach Than
 Cong Hoa
 Dong Quang
 Tan Hoa
-Tan Phu
 Dai Thanh
 Chuc Son
 Phung Chau
@@ -1761,8 +1583,6 @@ Truong Yen
 Phu Nghia
 Dong Phuong Yen
 Trung Hoa
-Thanh Binh
-Dong Son
 Thuy Xuan Tien
 Xuan Mai
 Nam Phuong Tien
@@ -1773,7 +1593,6 @@ My Luong
 Tran Phu
 Dong Lac
 Hong Phong
-Dong Phu
 Hoa Chinh
 Phu Nam An
 Van Vo
@@ -1791,7 +1610,6 @@ Thanh Van
 Thanh Thuy
 Tam Hung
 My Hung
-Binh Minh
 Cu Khe
 Bich Hoa
 Cao Vien
@@ -1806,7 +1624,6 @@ Xuan Duong
 Hong Duong
 Lien Chau
 Tan Uoc
-Thuong Tin
 Ha Hoi
 Van Tao
 Thu Phu
@@ -1817,7 +1634,6 @@ Duyen Thai
 Van Binh
 Nhi Khe
 Khanh Ha
-Hoa Binh
 Van Phu
 Tien Phong
 Tan Minh
@@ -1828,7 +1644,6 @@ To Hieu
 Van Tu
 Minh Cuong
 Van Diem
-Thong Nhat
 Le Loi
 Thang Loi
 Quat Dong
@@ -1851,8 +1666,6 @@ Hong Son
 Hop Tien
 Hop Thanh
 An Tien
-An Phu
-Huong Son
 Hung Tien
 Doc Tin
 Van Kim
@@ -1886,7 +1699,6 @@ Minh Duc
 Dong Tan
 Trung Tu
 Tao Duong Van
-Phu Xuyen
 Phuc Tien
 Tri Thuy
 Khai Thai
@@ -1896,7 +1708,6 @@ Phu Minh
 Thuy Phu
 Van Nhan
 Nam Phong
-Son Ha
 Quang Trung
 Tan Dan
 Dai Thang
@@ -1915,8 +1726,6 @@ Bach Ha
 Minh Tan
 Quang Lang
 Tich Son
-Dong Da
-Ngo Quyen
 Khai Quang
 Lien Bao
 Dinh Trung
@@ -1943,15 +1752,12 @@ Dao Tru
 Yen Duong
 Bo Ly
 Tam Quan
-Tam Dao
 Minh Quang
-Lap Thach
 Tu Du
 Ban Gian
 Lien Hoa
 Hoa Son
 Lien Son
-Thai Hoa
 Bac Binh
 Hop Ly
 Quang Son
@@ -1963,7 +1769,6 @@ Van Quan
 Son Dong
 Trieu De
 Dinh Chu
-Tien Lu
 Dong Ich
 Tam Son
 Nhao Son
@@ -1978,11 +1783,9 @@ Phuong Khoan
 Nhu Thuy
 Tu Yen
 Duc Bac
-Cao Phong
 Dong Thinh
 Yen Thach
 Tan Lap
-Vinh Tuong
 Tu Trung
 Van Xuan
 Vu Di
@@ -1991,11 +1794,8 @@ Vinh Son
 Tho Tang
 Dai Dong
 Tan Tien
-Nghia Hung
 Chan Hung
-Yen Binh
 Kim Xa
-Yen Lap
 Viet Xuan
 Lung Hoa
 Bo Sao
@@ -2003,7 +1803,6 @@ Cao Dai
 Tan Cuong
 Thuong Trung
 Phu Thinh
-Ly Nhan
 Tuan Chinh
 An Tuong
 Vinh Thinh
@@ -2011,10 +1810,8 @@ Vinh Ninh
 Phu Da
 Ngu Kien
 Tam Phuc
-Yen Lac
 Binh Dinh
 Dong Cuong
-Dong Van
 Trung Nguyen
 Te Lo
 Tam Hong
@@ -2034,7 +1831,6 @@ Ba Hien
 Trung My
 Thien Ke
 Gia Khanh
-Huong Son
 Tam Hop
 Quat Luu
 Tan Phong
@@ -2046,7 +1842,6 @@ Trung Nhi
 Phuc Thang
 Nam Viem
 Xuan Hoa
-Dong Xuan
 Ngoc Thanh
 Cao Minh
 Tien Chau
@@ -2136,18 +1931,13 @@ Lai Ha
 Trung Kenh
 An Thinh
 My Huong
-Phu Hoa
 Tan Lang
 Quang Phu
 Binh Dinh
-Lam Thao
-Phu Luong
-Gia Binh
 Xuan Lai
 Nhan Thang
 Binh Duong
 Cao Duc
-Van Ninh
 Thai Bao
 Dai Lai
 Song Giang
@@ -2169,7 +1959,6 @@ Phuong Mao
 Mo Dao
 Yen Gia
 Han Quang
-Chi Lang
 Bong Lai
 Cach Bi
 Dao Vien
@@ -2192,11 +1981,9 @@ Quang Chau
 Phu Cuong
 Hung Cuong
 Phuong Chieu
-Tan Hung
 Hoang Hanh
 Vuong
 Hung Dao
-Ngo Quyen
 Nhat Tan
 Di Che
 Le Xa
@@ -2223,9 +2010,7 @@ Tam Da
 Minh Tien
 Nguyen Hoa
 Tong Tran
-An Thi
 Phu Ung
-Bac Son
 Bai Say
 Dao Duong
 Tan Phuc
@@ -2265,10 +2050,8 @@ Viet Hung
 Tan Quang
 Dinh Du
 Minh Hai
-Luong Tai
 Trung Trac
 Lac Hong
-Van Giang
 Xuan Quan
 Cuu Cao
 Phung Cong
@@ -2279,7 +2062,6 @@ Lien Nghia
 Tan Tien
 Thang Loi
 Me So
-Yen My
 Giai Pham
 Nghia Hiep
 Dong Than
@@ -2296,9 +2078,7 @@ Minh Chau
 Trung Hung
 Ly Thuong Kiet
 Tan Viet
-Khoai Chau
 Dong Tao
-Binh Minh
 Da Trach
 Ham Tu
 Ong Dinh
@@ -2310,7 +2090,6 @@ Binh Kieu
 Dan Tien
 Dong Tien
 Hong Tien
-Tan Chau
 Lien Khe
 Phung Hung
 Viet Hoa
@@ -2352,7 +2131,6 @@ Thanh Tuyen
 Thanh Chau
 Liem Chinh
 Tran Hung Dao
-Hai Ba Trung
 Minh Khai
 Liem Chung
 Trinh Xa
@@ -2369,7 +2147,6 @@ Bach Thuong
 Duy Minh
 Duy Hai
 Hoang Dong
-Dong Van
 Tien Noi
 Tien Ngoai
 Chau Son
@@ -2387,18 +2164,14 @@ Dai Cuong
 Le Ho
 Nguyen Uy
 Tuong Linh
-Tan Son
 Thuy Loi
 Ngoc Son
 Kha Phong
 Ba Sao
 Lien Son
-Thanh Son
 Thi Son
-Thanh Ha
 Thanh Phong
 Kien Khe
-Thanh Thuy
 Thanh Tan
 Thanh Huong
 Thanh Nghi
@@ -2410,7 +2183,6 @@ Liem Tuc
 Liem Thuan
 Liem Phong
 Liem Can
-Thanh Binh
 Thanh Luu
 Binh My
 An My
@@ -2426,7 +2198,6 @@ Trang An
 Don Xa
 My Tho
 La Son
-An Lao
 Tieu Dong
 An Do
 Trung Luong
@@ -2462,7 +2233,6 @@ Nguyen Trai
 Minh Khai
 Phuong Do
 Phuong Thien
-Vi Xuyen
 Ngoc Linh
 Ngoc Minh
 Linh Ho
@@ -2471,7 +2241,6 @@ Kim Thach
 Tung Ba
 Thuan Hoa
 Minh Tan
-Thanh Thuy
 Thanh Duc
 Xin Chai
 Lao Chai
@@ -2513,11 +2282,9 @@ Tung Vai
 Ta Van
 Thanh Van
 Quyet Tien
-Quan Ba
 Dong Ha
 Thai An
 Lung Tam
-Meo Vac
 Giang Chu Phin
 Xin Cai
 Thuong Phung
@@ -2535,7 +2302,6 @@ Ta Lung
 Can Chu Phin
 Lung Phu
 Son Vi
-Dong Van
 Ma Le
 Lung Cu
 Lung Tao
@@ -2583,7 +2349,6 @@ Coc Pai
 Then Phang
 Ban Diu
 Nan Xin
-Xin Man
 Chi Ca
 Pa Vay Su
 Nan Ma
@@ -2598,20 +2363,17 @@ Coc Re
 Thu Ta
 Ngan Chien
 Trung Thinh
-Yen Binh
 Tan Bac
 Tan Thinh
 Xuan Minh
 Tien Nguyen
 Tan Nam
-Yen Thanh
 Ban Ria
 Bang Lang
 Na Khuong
 Xuan Giang
 Tien Yen
 Vi Thuong
-Huong Son
 Yen Ha
 Viet Quang
 Viet Vinh
@@ -2637,10 +2399,8 @@ Thuong Binh
 Kim Ngoc
 Bang Hanh
 Yen Phu
-Yen Phong
 Giap Trung
 Minh Son
-Yen Dinh
 Minh Ngoc
 Lac Nong
 Thuong Tan
@@ -2649,7 +2409,6 @@ Yen Cuong
 Duong Hong
 Duong Am
 Phu Nam
-Yen Phong
 Hop Giang
 Song Bang
 Ngoc Xuan
@@ -2667,7 +2426,6 @@ Dan Chu
 Duc Long
 Truong Luong
 Cong Trung
-Binh Long
 Hong Viet
 Hoang Tung
 Binh Duong
@@ -2711,18 +2469,15 @@ Quang Vinh
 Luu Ngoc
 Cao Chuong
 Quoc Toan
-Thong Nong
 Da Thong
 Luong Thong
 Vi Quang
 Can Yen
 Can Nong
 Ngoc Dong
-Yen Son
 Thanh Long
 Binh Lang
 Luong Can
-Bao Lac
 Co Ba
 Thuong Ha
 Coc Pang
@@ -2736,7 +2491,6 @@ Son Lap
 Dinh Phung
 Huy Giap
 Hong An
-Xuan Truong
 Phan Thanh
 Khanh Xuan
 Pac Mi Au
@@ -2753,12 +2507,10 @@ Quang Lam
 Thai Hoc
 Yen Tho
 Thai Son
-Nguyen Binh
 Minh Thanh
 Thai Hoc
 The Duc
 Trieu Nguyen
-Yen Lac
 Ca Thanh
 Vu Nong
 Tinh Tuc
@@ -2802,7 +2554,6 @@ Thanh Nhat
 Quang Long
 Dong Loan
 Ly Quoc
-Minh Long
 Thang Loi
 Duc Quang
 Kim Loan
@@ -2812,7 +2563,6 @@ Co Ngan
 Thi Hoa
 Thai Duc
 Viet Chu
-Trung Khanh
 Kham Thanh
 Dinh Phong
 Ngoc Khe
@@ -2832,7 +2582,6 @@ Dinh Minh
 Phong Chau
 Chi Vien
 Dam Thuy
-Quang Uyen
 Doc Lap
 Binh Lang
 Quang Hung
@@ -2854,7 +2603,6 @@ Nong Tien
 Trang Da
 Tan Ha
 Minh Xuan
-Phan Thiet
 Y La
 Tan Quang
 Hung Thanh
@@ -2880,7 +2628,6 @@ Phu Lam
 Nhu Han
 Nhu Khe
 Doi Binh
-Tan Binh
 Hoang Khai
 Kim Phu
 Trung Mon
@@ -2893,24 +2640,19 @@ Dao Vien
 Trung Son
 Hung Loi
 Trung Minh
-Vinh Loc
 Ngoc Hoi
-Phu Binh
 Binh Phu
-Yen Lap
 Hung My
 Phuc Son
 Minh Quang
 Trung Ha
 Ha Lang
 Tan My
-Tan An
 Xuan Quang
 Phuc Thinh
 Tan Thinh
 Hoa Phu
 Yen Nguyen
-Hoa An
 Nhan Ly
 Binh Nhan
 Vinh Quang
@@ -2919,7 +2661,6 @@ Kim Binh
 Tri Phu
 Linh Phu
 Kien Dai
-Na Hang
 Son Phu
 Da Vi
 Hong Thai
@@ -2934,12 +2675,10 @@ Thanh Tuong
 Lang Can
 Thuong Lam
 Khuon Ha
-Phuc Yen
 Xuan Lap
 Binh An
 Hong Quang
 Tho Binh
-Tan Yen
 Tan Thanh
 Minh Huong
 Phu Luu
@@ -2954,10 +2693,8 @@ Bang Coc
 Thanh Long
 Hung Duc
 Duc Ninh
-Thai Hoa
 Thai Son
 Binh Xa
-Son Duong
 Hop Thanh
 Luong Thien
 Tan Trao
@@ -2966,7 +2703,6 @@ Minh Thanh
 Binh Yen
 Tu Thinh
 Thuong Am
-Vinh Loi
 Cap Tien
 Dong Tho
 Quyet Thang
@@ -2982,7 +2718,6 @@ Dong Quy
 Phuc Ung
 Thanh Phat
 Dong Loi
-Phu Luong
 Dai Phu
 Son Nam
 Ninh Lai
@@ -2993,7 +2728,6 @@ Khang Nhat
 Phung Chi Kien
 Duc Xuan
 Nguyen Thi Minh Khai
-Song Cau
 Xuat Hoa
 Huyen Tung
 Duong Quang
@@ -3009,7 +2743,6 @@ Tu Tri
 Tan Tien
 Quan Binh
 Ha Vi
-Cam Giang
 Nguyen Phuc
 My Thanh
 Cao Son
@@ -3069,23 +2802,19 @@ Luong Bang
 Nghia Ta
 Binh Trung
 Yen Nhuan
-Yen My
 Phong Huan
 Bang Lang
 Dai Sao
 Dong Vien
-Cho Moi
 Yen Dinh
 Nhu Co
 Nong Ha
 Cao Ky
-Tan Son
 Hoa Muc
 Thanh Van
 Thanh Mai
 Mai Lap
 Nong Thinh
-Thanh Binh
 Quang Chu
 Binh Van
 Yen Han
@@ -3140,17 +2869,14 @@ Thinh Duc
 Tich Luong
 Phu Xa
 Cam Gia
-Huong Son
 Trung Thanh
 Tan Thanh
 Dong Lien
 Hoa Thuong
 Hoa Trung
-Song Cau
 Quang Son
 Tan Long
 Van Lang
-Hoa Binh
 Minh Lap
 Khe Mo
 Nam Hoa
@@ -3172,17 +2898,14 @@ Lau Thuong
 Lien Minh
 Trang Xa
 Dan Tien
-Binh Long
 Phuong Giao
 Du
 Dong Dat
-Yen Lac
 Yen Ninh
 Yen Trach
 Yen Do
 On Luong
 Hop Thanh
-Phu Ly
 Phan Me
 Giang Tien
 Co Lung
@@ -3196,7 +2919,6 @@ Lam Vy
 Linh Thong
 Quy Ky
 Kim Phuong
-Kim Son
 Bao Linh
 Phuc Chu
 Bao Cuong
@@ -3222,7 +2944,6 @@ Minh Tien
 Phu Cuong
 Na Mao
 Yen Lang
-Phu Xuyen
 Phu Thinh
 Ban Ngoai
 La Bang
@@ -3230,7 +2951,6 @@ Hoang Nong
 Tien Hoi
 Khoi Ky
 My Yen
-Van Yen
 Ky Phu
 Cat Ne
 Quan Chu
@@ -3245,7 +2965,6 @@ Cu Van
 An Khanh
 Ba Hang
 Dong Tien
-Bac Son
 Hong Tien
 Phuc Tan
 Dac Son
@@ -3255,8 +2974,6 @@ Van Phai
 Phuc Thuan
 Nam Tien
 Trung Thanh
-Thuan Thanh
-Tan Phu
 Dong Cao
 Tan Huong
 Tien Phong
@@ -3267,11 +2984,8 @@ Mo Che
 Thang Loi
 Pho Co
 Cai Dan
-Luong Son
 Tan Quang
-Binh Son
 Vinh Son
-Huong Son
 Tan Hoa
 Tan Thanh
 Tan Kim
@@ -3296,17 +3010,14 @@ Dong Kinh
 Hoang Van Thu
 Hoang Dong
 Tam Thanh
-Chi Lang
 Quang Lac
 Mai Pha
-Cao Loc
 Hop Thanh
 Hoa Cu
 Hai Yen
 Cao Lau
 Loc Yen
 Thanh Loa
-Bao Lam
 Dong Dang
 Thach Dan
 Thuy Hung
@@ -3352,10 +3063,8 @@ Vinh Tien
 Khanh Long
 Doan Ket
 Cao Minh
-Tan Yen
 Tan Tien
 Kim Dong
-Chi Lang
 De Tham
 Bac Ai
 Hung Son
@@ -3365,13 +3074,11 @@ Quoc Viet
 Dao Vien
 Trung Thanh
 Tan Minh
-Binh Gia
 To Hieu
 Minh Khai
 Hong Phong
 Hoa Tham
 Hung Dao
-Vinh Yen
 Quy Hoa
 Yen Lo
 Quang Trung
@@ -3379,13 +3086,11 @@ Thien Thuat
 Thien Hoa
 Thien Long
 Tan Hoa
-Hoa Binh
 Mong An
 Hoang Van Thu
 Tan Van
 Hong Thai
 Binh La
-Bac Son
 Quynh Son
 Long Dong
 Van Thuy
@@ -3402,17 +3107,13 @@ Tan Huong
 Vu Lang
 Chieu Vu
 Huu Vinh
-Bac Son
 Hung Vu
-Tran Yen
 Van Quan
 Vinh Lai
 Song Giang
 Tran Ninh
-Phu My
 Viet Yen
 Van Mong
-Hoa Binh
 Tu Xuyen
 Luong Nang
 Tri Le
@@ -3429,26 +3130,19 @@ Khanh Khe
 Chu Tuc
 Dai An
 Van An
-Huu Lung
 Dong Tan
 Cai Kinh
-Yen Son
 Huu Lien
 Yen Thinh
-Hoa Binh
-Yen Binh
 Quyet Thang
 Thien Ky
 Tan Lap
-Thanh Son
 Dong Tien
 Van Nham
-Do Luong
 Minh Tien
 Yen Vuong
 Nhat Tien
 Minh Son
-Son Ha
 Minh Hoa
 Ho Son
 Hoa Thang
@@ -3458,16 +3152,11 @@ Hoa Lac
 Dong Mo
 Mai Sao
 Thuong Cuong
-Gia Loc
 Bang Huu
 Bang Mac
 Van Linh
 Y Tich
-Chi Lang
-Chi Lang
-Hoa Binh
 Quang Lang
-Quan Son
 Nhan Ly
 Lam Son
 Huu Kien
@@ -3476,7 +3165,6 @@ Bac Thuy
 Van Thuy
 Chien Thang
 Van An
-Loc Binh
 Huu Khanh
 Yen Khoai
 Mau Son
@@ -3505,11 +3193,9 @@ Khuat Xa
 Tinh Bac
 Tam Gia
 Tu Mich
-Dinh Lap
 Kien Moc
 Bac Xa
 Binh Xa
-Dinh Lap
 Thai Binh
 Nong Truong Thai Binh
 Cuong Loi
@@ -3544,7 +3230,6 @@ Bich Son
 Trung Son
 Tien Son
 Van Ha
-Ninh Son
 Quang Minh
 Nenh
 Quang Chau
@@ -3560,7 +3245,6 @@ Duc Giang
 Tri Yen
 Quynh Son
 Lao Ho
-Tan An
 Tan Dan
 Huong Gian
 Xuan Phu
@@ -3576,7 +3260,6 @@ Dong Viet
 Doi Ngo
 Tien Hung
 Tien Nha
-Dong Hung
 Dong Phu
 Tam Di
 Bao Son
@@ -3585,20 +3268,17 @@ Thanh Lam
 Phuong Son
 Chu Dien
 Lan Mau
-Yen Son
 Vu Xa
 Dan Hoi
 Cam Ly
 Bac Lung
 Kham Lang
 Huyen Son
-Luc Nam
 Cuong Son
 Nghia Phuong
 Truong Giang
 Vo Tranh
 Truong Son
-Binh Son
 Luc Son
 An Chau
 An Lap
@@ -3608,11 +3288,9 @@ Van Son
 Huu San
 Thach Son
 Phuc Thang
-Que Son
 Chien Son
 Giao Liem
 Cam Dan
-Yen Dinh
 An Ba
 An Chau
 An Lac
@@ -3621,7 +3299,6 @@ Long Son
 Bong Am
 Tuan Dao
 Tuan Mau
-Thanh Son
 Thanh Luan
 Chu
 Phi Dien
@@ -3630,11 +3307,9 @@ Tan Quang
 Dong Coc
 Tan Hoa
 Bien Dong
-Kim Son
 Xa Ly
 Phong Minh
 Phong Van
-Tan Son
 Cam Son
 Son Hai
 Ho Dap
@@ -3652,15 +3327,10 @@ Phuong Son
 Tan Moc
 Tan Lap
 Deo Gia
-Phu Nhuan
 Voi
-Yen My
-Tan Hung
-Huong Son
 Kep
 Quang Thinh
 Nghia Hoa
-Nghia Hung
 Dao My
 An Ha
 Tan Thinh
@@ -3688,7 +3358,6 @@ Tam Tien
 Tam Hiep
 Tien Thang
 An Thuong
-Tan Hiep
 Phon Xuong
 Dong Lac
 Tan Soi
@@ -3696,7 +3365,6 @@ Bo Ha
 Bo Ha
 Dong Ky
 Huong Vi
-Dong Son
 Cao Thuong
 Cao Thuong
 Hop Duc
@@ -3707,7 +3375,6 @@ Nha Nam
 Lan Gioi
 Dai Hoa
 Quang Tien
-An Duong
 Lien Son
 Cao Xa
 Ngoc Chau
@@ -3754,7 +3421,6 @@ Doan Ket
 Tan Phong
 Dong Phong
 San Thang
-Tam Duong
 Binh Lu
 Son Binh
 Ho Thau
@@ -3768,7 +3434,6 @@ Ban Hon
 Khun Ha
 Na Tam
 Ban Bo
-Phong Tho
 Khong Lao
 Ban Lang
 Dao San
@@ -3786,7 +3451,6 @@ Muong So
 La Nhi Thang
 Nam Xe
 Sin Suoi Ho
-Muong Te
 Bun Nua
 Pa Ve Su
 Pa U
@@ -3794,13 +3458,11 @@ Ta Ba
 Thu Lum
 Ka Lang
 Mu Ca
-Muong Te
 Nam Khao
 Bun To
 Ta Tong
 Kan Ho
 Vang San
-Nam Nhun
 Nam Hang
 Pu Dao
 Nam Pi
@@ -3811,7 +3473,6 @@ Muong Mo
 Nam Cha
 Nam Manh
 Le Loi
-Sin Ho
 Phang So Lin
 Ma Quai
 Phin Ho
@@ -3833,7 +3494,6 @@ Pu Sam Cap
 Pa Khoa
 Nam Tam
 Lung Thang
-Tan Uyen
 Phuc Khoa
 Muong Khoa
 Than Thuoc
@@ -3843,7 +3503,6 @@ Ta Mit
 Pac Ta
 Ho Mit
 Trung Dong
-Than Uyen
 Muong Than
 Phuc Than
 Muong Mit
@@ -3858,7 +3517,6 @@ Hua Na
 Kim Tan
 Van Hoa
 Pho Moi
-Lao Cai
 Duyen Hai
 Coc Leu
 Dong Tuyen
@@ -3866,9 +3524,7 @@ Bac Cuong
 Ta Phoi
 Hop Thanh
 Cam Duong
-Thong Nhat
 Xuan Tang
-Binh Minh
 Pom Han
 Bac Lenh
 Nam Cuong
@@ -3883,11 +3539,8 @@ Gia Phu
 Son Hai
 Xuan Giao
 Tang Loong
-Phu Nhuan
-Son Ha
 Pho Lu
 Tri Quang
-Bac Ha
 Ta Chai
 Thai Giang Pho
 Ta Cu Ty
@@ -3908,7 +3561,6 @@ Nam Luc
 Ban Cai
 Nam Khanh
 Ban Lien
-Si Ma Cai
 Nan San
 Ban Me
 Thao Chu Phin
@@ -3921,12 +3573,10 @@ Can Cau
 Lu Than
 Lung Sui
 San Chai
-Muong Khuong
 Tung Chung Pho
 Ta Ngai Cho
 Pha Long
 Nam Chay
-Thanh Binh
 Lung Vai
 Ban Lau
 Ban Sen
@@ -3937,7 +3587,6 @@ Lung Khau Nhin
 Nam Lu
 Din Chin
 Ta Gia Khau
-Bat Xat
 Ban Qua
 Ban Vuoc
 Coc My
@@ -3960,7 +3609,6 @@ Quang Kim
 Phin Ngan
 Tong Sanh
 Coc San
-Sa Pa
 Sa Pa
 Trung Chai
 Ta Phin
@@ -4000,29 +3648,22 @@ Khanh Yen Ha
 Liem Phu
 Nam Tha
 Chieng Ken
-Tan An
 Pho Rang
 Xuan Thuong
 Xuan Hoa
-Vinh Yen
 Nghia Do
 Tan Tien
 Dien Quan
 Thuong Ha
 Tan Duong
 Minh Tan
-Kim Son
 Cam Con
 Bao Ha
-Yen Son
-Luong Son
-Long Khanh
 Long Phuc
 Viet Tien
 Him Lam
 Thanh Minh
 Thanh Truong
-Thanh Binh
 Tan Thanh
 Muong Thanh
 Noong Bua
@@ -4053,7 +3694,6 @@ Na Tong
 Muong Nha
 Phu Luong
 Muong Loi
-Dien Bien Dong
 Phi Nhu
 Chieng So
 Xa Dung
@@ -4067,7 +3707,6 @@ Tia Dinh
 Hang Lia
 Luan Gioi
 Muong Luan
-Muong Ang
 Ang To
 Ngoi Cay
 Muong Dang
@@ -4077,7 +3716,6 @@ Nam Lich
 Muong Lan
 Xuan Lao
 Bung Lao
-Tuan Giao
 Quai Cang
 Toa Tinh
 Ta Ma
@@ -4096,7 +3734,6 @@ Chieng Sinh
 Chieng Dong
 Tenh Phong
 Quai To
-Tua Chua
 Muong Bang
 Xa Nhe
 Muong Dun
@@ -4111,7 +3748,6 @@ Sinh Phinh
 Na Lay
 Song Da
 Lay Nua
-Muong Cha
 Huoi Mi
 Nam Nen
 Pa Ham
@@ -4138,7 +3774,6 @@ Nam Nhu
 Nam Chua
 Na Bung
 Vang Dan
-Muong Nhe
 Nam Vi
 Chung Chai
 Leng Su Sin
@@ -4166,13 +3801,11 @@ Van Tien
 Tan Thinh
 Dong Tam
 Yen Thinh
-Yen Binh
 Vinh Kien
 Yen Binh
 Bach Ha
 Vu Linh
 Phuc An
-Yen Thanh
 Xuan Lai
 My Gia
 Cam Nhan
@@ -4187,16 +3820,13 @@ Cam An
 Tan Huong
 Dai Dong
 Phu Thinh
-Van Lang
 Thinh Hung
 Dai Minh
 Han Da
 Thac Ba
-Yen The
 Minh Xuan
 Muong Lai
 Yen Thang
-Mai Son
 Khanh Thien
 Lam Thuong
 Tan Phuong
@@ -4212,7 +3842,6 @@ Tan Lap
 Phuc Loi
 Trung Tam
 Phan Thanh
-An Phu
 Minh Tien
 Lieu Do
 Vinh Lac
@@ -4257,10 +3886,8 @@ Cao Pha
 La Pan Tan
 Che Cu Nha
 Nam Co
-Tram Tau
 Hat Luu
 Xa Ho
-Tram Tau
 Pa Lau
 Tuc Dan
 Ban Cong
@@ -4274,7 +3901,6 @@ Nghia Loi
 Nghia Phuc
 Pu Trang
 Nghia An
-Tan An
 Cau Thia
 Son Thinh
 Suoi Giang
@@ -4368,7 +3994,6 @@ Nam Et
 Muong Sai
 Chieng On
 Muong Gion
-Thuan Chau
 Chieng La
 Tong Lanh
 Tong Co
@@ -4397,7 +4022,6 @@ Bon Phang
 Nam Lau
 Ban Lam
 Muoi Noi
-Song Ma
 Chieng Khoong
 Na Nguu
 Nam Ty
@@ -4416,7 +4040,6 @@ Muong Hung
 Chieng Khuong
 Muong Sai
 Chieng Cang
-Sop Cop
 Dom Cang
 Pung Banh
 Sam Kha
@@ -4446,7 +4069,6 @@ Phieng Pan
 Hat Lot
 Chieng Luong
 Co Noi
-Bac Yen
 Ta Xua
 Hang Dong
 Xim Vang
@@ -4462,13 +4084,11 @@ Chieng Sai
 Song Pe
 Hong Ngai
 Phieng Ban
-Yen Chau
 Sap Vat
 Chieng Dong
 Chieng Sang
 Chieng Pan
 Vieng Lan
-Yen Son
 Chieng On
 Phieng Khoai
 Chieng Khoi
@@ -4477,7 +4097,6 @@ Long Phieng
 Chieng Tuong
 Tu Nang
 Muong Lum
-Moc Chau
 NT Moc Chau
 Hua Pang
 Na Muong
@@ -4492,12 +4111,10 @@ Long Sap
 Chieng Son
 Dong Sang
 Phieng Luong
-Van Ho
 Long Luong
 Chieng Yen
 Muong Men
 Quang Minh
-Muong Te
 Song Khua
 Lien Hoa
 Suoi Bang
@@ -4506,7 +4123,6 @@ Chieng Khoa
 Chieng Xuan
 Xuan Nha
 Tan Xuan
-Phu Yen
 Huy Thuong
 Muong Coi
 Muong Thai
@@ -4535,7 +4151,6 @@ Nam Phong
 Muong Bang
 Tho Son
 Thanh Mieu
-Song Lo
 Trung Vuong
 Duu Lau
 Phuong Lau
@@ -4558,24 +4173,20 @@ Ben Got
 Bach Hac
 Phong Chau
 Phu Nham
-Tien Du
 Gia Thanh
 Ha Giap
 Bao Thanh
 Tri Quan
 Le My
-Phu My
 Lien Hoa
 Tram Than
 Tien Phu
 Trung Giap
-Phu Loc
 Phu Ninh
 An Dao
 Binh Bo
 Tu Da
 Vinh Phu
-Lam Thao
 Thach Son
 Hung Son
 Tien Kien
@@ -4583,13 +4194,11 @@ Xuan Lung
 Xuan Huy
 Hop Hai
 Kinh Ke
-Son Duong
 Tu
 Ban Nguyen
 Vinh Lai
 Cao Xa
 Son Vi
-Doan Hung
 Huu Do
 Chi Dam
 Van Du
@@ -4610,7 +4219,6 @@ Soc Dang
 Dai Nghia
 Phu Thu
 Hung Long
-Van Don
 Yen Kien
 Tieu Son
 Minh Tien
@@ -4650,12 +4258,10 @@ Chinh Cong
 Yen Ky
 Cao Dien
 Phuong Vien
-Yen Lap
 Hung Long
 Xuan Thuy
 Xuan Vien
 Xuan An
-Luong Son
 My Luong
 My Lung
 Trung Son
@@ -4667,14 +4273,12 @@ Ngoc Lap
 Ngoc Dong
 Minh Hoa
 Dong Lac
-Tan Phu
 Thu Ngac
 Thach Kiet
 Thu Cuc
 Dong Son
 Lai Dong
 Kiet Son
-Tan Son
 Xuan Dai
 Xuan Son
 Kim Thuong
@@ -4715,14 +4319,12 @@ Hien Da
 Tinh Cuong
 Phu Lac
 Yen Tap
-Thanh Ba
 Thai Ninh
 Dai An
 Dong Linh
 Thanh Van
 Hanh Cu
 Van Linh
-Dong Xuan
 Yen Khe
 Yen Noi
 Phuong Linh
@@ -4732,7 +4334,6 @@ Thanh Xa
 Hoang Cuong
 Chi Tien
 Son Cuong
-Thanh Ha
 Do Son
 Do Xuyen
 Luong Lo
@@ -4742,7 +4343,6 @@ Khai Xuan
 Nang Yen
 Quang Nap
 Ninh Dan
-Thanh Son
 Son Hung
 Thuc Luyen
 Dich Qua
@@ -4765,10 +4365,8 @@ Cu Dong
 Tat Thang
 Thach Khoan
 Giap Lai
-Thanh Thuy
 Tan Phuong
 Thach Dong
-Xuan Loc
 Dao Xa
 Son Thuy
 Hoang Xa
@@ -4779,7 +4377,6 @@ Yen Mao
 Tu Vu
 Dong Luan
 Doan Ha
-Bao Yen
 Au Co
 Phong Chau
 Ha Thach
@@ -4822,10 +4419,8 @@ Huu Nghi
 Tan Thinh
 Thai Thinh
 Thai Binh
-Thong Nhat
 Cham Mat
 Dan Chu
-Ky Son
 Dan Ha
 Mong Hoa
 Dan Hoa
@@ -4835,7 +4430,6 @@ Phu Minh
 Hop Thinh
 Hop Thanh
 Doc Lap
-Luong Son
 Hoa Son
 Lam Son
 Truong Son
@@ -4855,7 +4449,6 @@ Cao Duong
 Trung Son
 Thanh Lap
 Lien Son
-Da Bac
 Hao Ly
 Tu Ly
 Tan Minh
@@ -4875,14 +4468,12 @@ Cao Son
 Vay Nua
 Hien Luong
 Toan Son
-Mai Chau
 Tong Dau
 Ba Khan
 Tan Mai
 Tan Dan
 Phuc San
 Dong Bang
-Tan Son
 Pa Co
 Hang Kia
 Cun Pheo
@@ -4898,7 +4489,6 @@ Van Mai
 Pu Pin
 Noong Luong
 Thung Khe
-Cao Phong
 Dong Phong
 Thu Phong
 Bac Phong
@@ -4908,7 +4498,6 @@ Tay Phong
 Tan Phong
 Dung Phong
 Nam Phong
-Yen Lap
 Yen Thuong
 Xuan Phong
 Muong Khen
@@ -4923,7 +4512,6 @@ Dich Giao
 Tuan Lo
 Quy My
 Quyet Chien
-Bac Son
 Lung Van
 Nam Son
 Do Nhan
@@ -4935,7 +4523,6 @@ Dong Lai
 Thanh Hoi
 Tu Ne
 Man Duc
-Vu Ban
 Yen Phu
 Binh Hem
 Van Nghia
@@ -4949,7 +4536,6 @@ Van Son
 Xuat Hoa
 Thuong Coc
 Phuc Tuy
-Phu Luong
 Chi Thien
 Dinh Cu
 Chi Dao
@@ -4965,7 +4551,6 @@ Tan My
 An Nghia
 Yen Nghiep
 Hang Tram
-Yen Lac
 Huu Loi
 Bao Hieu
 Lac Hung
@@ -4982,7 +4567,6 @@ Lac Long
 Co Nghia
 Phu Lao
 Phu Thanh
-Thanh Ha
 Thanh Nong
 Hung Thi
 Dong Mon
@@ -4998,8 +4582,6 @@ Trung Bi
 Lap Chieng
 Nat Son
 Hung Tien
-Bac Son
-Binh Son
 Du Sang
 Tu Son
 Vinh Tien
@@ -5011,7 +4593,6 @@ Dong Bac
 Thuong Tien
 Hop Dong
 Kim Tien
-Kim Boi
 Kim Truy
 Cuoi Ha
 Nuong Dam
@@ -5019,7 +4600,6 @@ Mi Hoa
 Sao Bay
 Nam Thuong
 Hop Kim
-Kim Son
 Ham Rong
 Tao Xuyen
 Thieu Duong
@@ -5034,22 +4614,16 @@ Thieu Khanh
 Thieu Van
 Dong Linh
 Phu Son
-Dien Bien
-Ba Dinh
 Ngoc Trao
 Lam Son
 Dong Huong
-Dong Hai
 Hoang Quang
 Hoang Dai
 Quang Hung
-Dong Son
 Dong Ve
 Quang Thang
-Tan Son
 Dong Tan
 An Hoach
-Dong Hung
 Dong Vinh
 Quang Thinh
 Quang Thanh
@@ -5058,7 +4632,6 @@ Quang Phu
 Quang Tam
 Quang Cat
 Truong Son
-Bac Son
 Trung Son
 Quang Cu
 Quang Tien
@@ -5111,12 +4684,9 @@ Hoang Trach
 Hoang Phong
 Hoang Tan
 Hoang Chau
-Hau Loc
-Xuan Loc
 Hoa Loc
 Hai Loc
 Minh Loc
-Phu Loc
 Thinh Loc
 Hoa Loc
 Ngu Loc
@@ -5129,16 +4699,13 @@ Phong Loc
 Cau Loc
 Thanh Loc
 Dong Loc
-Dai Loc
 Chau Loc
 Trieu Loc
 Tien Loc
 Loc Son
 Loc Tan
-My Loc
 Van Loc
 Thuan Loc
-Nga Son
 Nga Yen
 Nga Hai
 Nga Lien
@@ -5151,7 +4718,6 @@ Nga Giap
 Nga Thien
 Nga Truong
 Nga Vinh
-Ba Dinh
 Nga Tien
 Nga Van
 Nga Thang
@@ -5165,7 +4731,6 @@ Nga Hung
 Nga Thanh
 Nga Thuy
 Nga Tan
-Ha Trung
 Ha Lai
 Ha Chau
 Ha Vinh
@@ -5183,31 +4748,25 @@ Ha Ngoc
 Ha Phong
 Ha Bac
 Ha Long
-Ha Giang
 Ha Tien
 Ha Tan
 Ha Linh
-Ha Dong
 Ha Son
 Ha Toai
 Ba Dinh
 Lam Son
-Dong Son
 Ha Lan
 Quang Trung
 Phu Son
 Ngoc Trao
-Bac Son
 Rung Thong
 Dong Tien
 Dong Thanh
 Dong Khe
 Dong Hoang
 Dong Ninh
-Dong Anh
 Dong Minh
 Dong Thinh
-Dong Hoa
 Dong Yen
 Dong Van
 Dong Phu
@@ -5256,12 +4815,10 @@ Dinh Thanh
 Dinh Cong
 Yen Thai
 yen Ninh
-Yen Lac
 Yen Thinh
 Yen Hung
 Yen Phong
 Yen Truong
-Yen Bai
 Yen Phu
 Yen Giang
 Yen Tam
@@ -5269,13 +4826,8 @@ Yen Trung
 Yen Tho
 Quy Loc
 Yen Lam
-Thong Nhat
-Vinh Loc
 Vinh Phuc
-Vinh Hung
-Vinh Long
 Vinh Quang
-Vinh Yen
 Vinh Tien
 Vinh Thanh
 Vinh Ninh
@@ -5314,7 +4866,6 @@ Thanh Tam
 Thanh An
 Thanh Long
 Ngoc Trao
-Cam Thuy
 Cam Phong
 Cam Giang
 Cam Tu
@@ -5334,7 +4885,6 @@ Cam Tam
 Cam Tan
 Cam Phu
 Cam Van
-Ba Thuoc
 Luong Ngoai
 Luong Noi
 Ha Trung
@@ -5357,7 +4907,6 @@ Thiet Ong
 Thiet Ke
 Ky Tan
 Van Nho
-Trieu Son
 Minh Chau
 Dan Ly
 Minh Dan
@@ -5367,14 +4916,12 @@ Tho The
 Tho Phu
 Tho Vuc
 Xuan Thinh
-Xuan Loc
 Tho Dan
 Xuan Tho
 Tho Ngoc
 Tho Cuong
 Tho Son
 Tho Tien
-Binh Son
 Tho Binh
 Hop Ly
 Hop Tien
@@ -5387,19 +4934,16 @@ An Nong
 Van Son
 Nong Truong
 Tien Nong
-Thai Hoa
 Tan Ninh
 Khuyen Nong
 Dong Loi
 Dong Tien
 Dong Thang
-Tho Xuan
 Hanh Phuc
 Xuan Thanh
 Xuan Tan
 Xuan Lai
 Xuan Yen
-Xuan Truong
 Xuan Hoa
 Tho Hai
 Phu Yen
@@ -5425,8 +4969,6 @@ Xuan Hung
 Xuan Son
 Xuan Giang
 Xuan Quang
-Tay Ho
-Nam Giang
 Tho Loc
 Bac Luong
 Tho Nguyen
@@ -5434,7 +4976,6 @@ Xuan Phong
 Xuan Khanh
 Tho Truong
 Xuan Vinh
-Ngoc Lac
 Ngoc Khe
 Ngoc Son
 Ngoc Trung
@@ -5456,7 +4997,6 @@ Phung Giao
 Phung Minh
 Phuc Thinh
 Kien Tho
-Lang Chanh
 Dong Luong
 Quang Hien
 Tan Phuc
@@ -5467,7 +5007,6 @@ Yen Thang
 Tri Nang
 Giao An
 Giao Thien
-Quan Hoa
 Xuan Phu
 Phu Nghiem
 Hoi Xuan
@@ -5477,7 +5016,6 @@ Thien Phu
 Hien Kiet
 Hien Chung
 Nam Tien
-Thanh Xuan
 Phu Xuan
 Phu Le
 Phu Son
@@ -5485,20 +5023,17 @@ Phu Thanh
 Trung Thanh
 Thanh Son
 Trung Son
-Quan Son
 Trung Thuong
 Trung Tien
 Trung Ha
 Trung Xuan
 Son Lu
 Tam Lu
-Son Ha
 Tam Thanh
 Son Dien
 Muong Min
 Na Meo
 Son Thuy
-Muong Lat
 Trung Ly
 Muong Ly
 Tam Chung
@@ -5507,7 +5042,6 @@ Nhi Son
 Pu Nhi
 Quang Chieu
 Muong Chanh
-Thuong Xuan
 Xuan Duong
 Ngoc Phung
 Xuan Cam
@@ -5519,12 +5053,10 @@ Tho Thanh
 Xuan Cao
 Xuan Le
 Xuan Chinh
-Xuan Loc
 Luan Khe
 Luan Thanh
 Tan Thanh
 Xuan Thang
-Nong Cong
 Van Thien
 Truong Minh
 Truong Trung
@@ -5546,7 +5078,6 @@ Trung Chinh
 Van Thang
 Thang Long
 Thang Tho
-Thang Binh
 Truong Son
 Truong Giang
 Tuong Van
@@ -5555,9 +5086,7 @@ Tuong Son
 Cong Liem
 Cong Chinh
 Cong Binh
-Yen My
 Ben Sung
-Phu Nhuan
 Mau Lam
 Phuong Nghi
 Xuan Du
@@ -5569,19 +5098,15 @@ Hai Van
 Xuan Thai
 Xuan Phuc
 Yen Tho
-Yen Lac
 Phuc Duong
 Thanh Tan
 Thanh Ky
 Yen Cat
-Tan Binh
 Yen Le
 Thuong Ninh
 Cat Tan
 Hoa Quy
 Cat Van
-Thanh Xuan
-Thanh Son
 Thanh Quan
 Thanh Phong
 Thanh Lam
@@ -5591,18 +5116,14 @@ Binh Luong
 Xuan Hoa
 Xuan Binh
 Bai Tranh
-Quang Xuong
 Quang Duc
 Quang Giao
 Quang Dinh
 Quang Tan
-Quang Trach
 Quang Phong
 Quang Hoa
-Quang Yen
 Quang Long
 Quang Hop
-Quang Ninh
 Quang Nhan
 Quang Hai
 Quang Luu
@@ -5621,26 +5142,17 @@ Quang Thach
 Quang Chinh
 Quang Trung
 Quang Nham
-Tinh Gia
 Hai Hoa
-Ninh Hai
 Hai Nhan
 Dinh Hai
 Hai Linh
 Tan Dan
-Hai An
 Trieu Duong
 Hai Ninh
-Hai Chau
-Thanh Thuy
-Thanh Son
 Ngoc Linh
-Anh Son
 Hung Son
 Cac Son
 Phu Son
-Nguyen Binh
-Binh Minh
 Hai Thanh
 Hai Binh
 Xuan Lam
@@ -5653,7 +5165,6 @@ Tinh Hai
 Hai Yen
 Truong Lam
 Hai Thuong
-Hai Ha
 Nghi Son
 Le Mao
 Truong Thi
@@ -5699,9 +5210,7 @@ Nghi Dien
 Nghi Van
 Nghi Truong
 Nghi Thach
-Nghi Xuan
 Nghi Phong
-Phuc Tho
 Nghi Thai
 Nghi Long
 Nghi Quang
@@ -5717,7 +5226,6 @@ Nghi Lam
 Nghi My
 Nghi Cong Bac
 Nghi Cong Nam
-Dien Chau
 Dien Thanh
 Dien Ngoc
 Dien Hoa
@@ -5787,7 +5295,6 @@ Tan Thang
 Quynh Thang
 Quynh Chau
 Quynh Tam
-Tan Son
 Ngoc Son
 Yen Thanh
 Hoa Thanh
@@ -5809,7 +5316,6 @@ Bao Thanh
 Son Thanh
 Vien Thanh
 Vinh Thanh
-Long Thanh
 Nhan Thanh
 Hong Thanh
 Tho Thanh
@@ -5822,13 +5328,11 @@ Hau Thanh
 Phuc Thanh
 Hung Thanh
 Lang Thanh
-Kim Thanh
 Quang Thanh
 Tay Thanh
 Dong Thanh
 Thinh Thanh
 Minh Thanh
-Nghia Dan
 Nghia Hoi
 Nghia Tho
 Nghia Phu
@@ -5843,7 +5347,6 @@ Nghia Yen
 Nghia Mai
 Nghia Hong
 Nghia Thinh
-Nghia Hung
 Nghia Thang
 Nghia Lien
 Nghia Tan
@@ -5853,12 +5356,10 @@ Nghia An
 Nghia Khanh
 Nghia Long
 Nghia Loc
-Tan Ky
 Ky Tan
 Nghia Dung
 Tan Long
 Nghia Hoan
-Tan Phu
 Nghia Thai
 Nghia Hop
 Nghia Binh
@@ -5866,16 +5367,11 @@ Nghia Dong
 Tan Xuan
 Giai Xuan
 Tan Hop
-Dong Van
 Nghia Phuc
-Tan An
 Huong Son
-Ky Son
 Tan Huong
-Nghia Hanh
 Phu Son
 Tien Ky
-Quy Hop
 Minh Hop
 Nghia Xuan
 Tho Hop
@@ -5887,16 +5383,13 @@ Yen Hop
 Lien Hop
 Chau Tien
 Chau Hong
-Chau Thanh
 Chau Cuong
 Chau Thai
 Chau Dinh
 Chau Ly
 Nam Son
-Bac Son
 Van Loi
 Ha Son
-Quy Chau
 Chau Binh
 Chau Nga
 Chau Hanh
@@ -5908,21 +5401,17 @@ Chau Thang
 Chau Phong
 Chau Hoan
 Dien Lam
-Kim Son
 Muong Noc
 Chau Kim
 Chau Thon
 Nam Nhoong
 Cam Muon
 Quang Phong
-Que Son
 Tien Phong
-Dong Van
 Thong Thu
 Hanh Dich
 Nam Giai
 Tri Le
-Do Luong
 Yen Son
 Van Son
 Thinh Son
@@ -5930,8 +5419,6 @@ Da Son
 Trung Son
 Thuan Son
 Xuan Son
-Lac Son
-Tan Son
 Thai Son
 Minh Son
 Quang Son
@@ -5946,21 +5433,17 @@ Luu Son
 Dang Son
 Nam Son
 Ngoc Son
-Bac Son
 Trang Son
-Dong Son
 Bai Son
 Boi Son
 Lam Son
 Hong Son
 Giang Son Dong
 Giang Son Tay
-Anh Son
 Long Son
 Khai Son
 Cao Son
 Linh Son
-Lang Son
 Tao Son
 Vinh Son
 Thach Son
@@ -5973,10 +5456,8 @@ Cam Son
 Hung Son
 Dinh Son
 Tam Son
-Binh Son
 Thanh Son
 Tho Son
-Con Cuong
 Bong Khe
 Chi Khe
 Yen Khe
@@ -5986,10 +5467,8 @@ Mon Son
 Thach Ngan
 Mau Duc
 Don Phuc
-Cam Lam
 Lang Khe
 Binh Chuan
-Hoa Binh
 Thach Giam
 Yen Thang
 Yen Na
@@ -6001,7 +5480,6 @@ Luong Minh
 Huu Khuong
 Tam Dinh
 Nhon Mai
-Mai Son
 Tam Thai
 Tam Quang
 Tam Hop
@@ -6011,7 +5489,6 @@ Muong Xen
 Chieu Luu
 Huu Lap
 Bao Nam
-Bao Thang
 Muong Long
 Pha Danh
 Nam Can
@@ -6022,7 +5499,6 @@ Keng Du
 Bac Ly
 My Ly
 Huu Kiem
-Tay Son
 Ta Ca
 Muong Tip
 Muong Ai
@@ -6050,7 +5526,6 @@ Hung Khanh
 Hung Chau
 Hung Loi
 Hung Nhan
-Nam Dan
 Xuan Hoa
 Nam Anh
 Nam Xuan
@@ -6064,7 +5539,6 @@ Hong Long
 Kim Lien
 Xuan Lam
 Nam Cat
-Khanh Son
 Nam Trung
 Nam Phuc
 Nam Cuong
@@ -6074,7 +5548,6 @@ Nam Thai
 Nam Thanh
 Nam Nghia
 Nam Hung
-Thanh Chuong
 Thanh Ngoc
 Thanh Dong
 Thanh Phong
@@ -6089,10 +5562,8 @@ Thanh Hoa
 Thanh Nho
 Thanh Duc
 Hanh Lam
-Thanh Son
 Thanh My
 Thanh Linh
-Dong Van
 Thanh Huong
 Ngoc Lam
 Thanh An
@@ -6104,7 +5575,6 @@ Xuan Tuong
 Thanh Long
 Vo Liet
 Thanh Thuy
-Thanh Ha
 Thanh Tung
 Thanh Duong
 Thanh Luong
@@ -6112,7 +5582,6 @@ Thanh Khai
 Thanh Yen
 Thanh Giang
 Thanh Mai
-Thanh Xuan
 Thanh Lam
 Hoa Hieu
 Quang Tien
@@ -6143,14 +5612,11 @@ Thach Mon
 Thach Ha
 Thach Trung
 Nguyen Du
-Bac Ha
 Tran Phu
 Thach Linh
 Ha Huy Tap
 Dai Nai
-Van Yen
 Thach Binh
-Thach Ha
 Thach Long
 Thach Ban
 Thach Dinh
@@ -6172,7 +5638,6 @@ Thach Thanh
 Thach Ngoc
 Thach Vinh
 Ngoc Son
-Bac Son
 Thach Luu
 Thach Dai
 Thach Tan
@@ -6194,15 +5659,12 @@ Song Loc
 Thuong Nga
 Truong Loc
 Yen Loc
-Phu Loc
 Vinh Loc
 Gia Hanh
 Trung Loc
 Thuong Loc
-Xuan Loc
 Dong Loc
 Quang Loc
-My Loc
 Son Loc
 Binh Loc
 An Loc
@@ -6217,11 +5679,9 @@ Thach Chau
 Thach My
 Mai Phu
 Ho Do
-Nghi Xuan
 Xuan Hai
 Xuan Pho
 Xuan Dan
-Xuan Truong
 Xuan Hoi
 Tien Dien
 Xuan Yen
@@ -6242,7 +5702,6 @@ Trung Luong
 Duc Thuan
 Thuan Loc
 Dau Lieu
-Duc Tho
 Lien Minh
 Duc La
 Duc Vinh
@@ -6262,7 +5721,6 @@ Trung Le
 Duc Thanh
 Duc Lam
 Duc Long
-Duc Hoa
 Duc Lac
 Duc Lap
 Duc Dung
@@ -6275,12 +5733,10 @@ Son Trung
 Son Bang
 Son Binh
 Son Long
-Son Tra
 Son Ha
 Son My
 Son Chau
 Son Ninh
-Son Hoa
 Son Tan
 Son Thinh
 Son An
@@ -6297,12 +5753,9 @@ Son Phuc
 Son Thuy
 Son Mai
 Son Truong
-Son Tay
-Tay Son
 Son Hong
 Son Kim 1
 Son Kim 2
-Vu Quang
 Duc Bong
 Duc Huong
 Duc Lien
@@ -6314,11 +5767,9 @@ Huong Dien
 Huong Minh
 Huong Tho
 Huong Quang
-Huong Khe
 Huong Do
 Loc Yen
 Huong Giang
-Huong Thuy
 Ha Linh
 Phuong My
 Phuong Dien
@@ -6331,12 +5782,10 @@ Phu Phong
 Phu Gia
 Huong Vinh
 Huong Xuan
-Huong Tra
 Huong Lam
 Huong Lien
 Phuc Trach
 Huong Trach
-Cam Xuyen
 Cam Thang
 Cam Phuc
 Thien Cam
@@ -6353,7 +5802,6 @@ Cam Thanh
 Cam Due
 Cam Thach
 Cam Quan
-Cam My
 Cam Hung
 Cam Thinh
 Cam Son
@@ -6393,12 +5841,9 @@ Ky Tan
 Ky Hop
 Ky Tay
 Ky Thuong
-Ky Son
 Ky Lam
 Ky Lac
 Bac Ly
-Dong Phu
-Loc Ninh
 Thuan Duc
 Dong Son
 Bac Nghia
@@ -6442,7 +5887,6 @@ Son Trach
 Hung Trach
 Phu Dinh
 Nong Truong Viet Trung
-Ba Don
 Quang Tho
 Quang Long
 Quang Phong
@@ -6480,13 +5924,11 @@ Dong Le
 Thuan Hoa
 Kim Hoa
 Huong Hoa
-Thanh Hoa
 Lam Hoa
 Thanh Thach
 Le Hoa
 Dong Hoa
 Son Hoa
-Thach Hoa
 Nam Hoa
 Duc Hoa
 Phong Hoa
@@ -6509,7 +5951,6 @@ Hoa Hop
 Hoa Son
 Quy Hoa
 Tan Hoa
-Minh Hoa
 Trung Hoa
 Thuong Hoa
 Quan Hau
@@ -6524,7 +5965,6 @@ Duy Ninh
 Vo Ninh
 Gia Ninh
 Hai Ninh
-Van Ninh
 Truong Xuan
 Truong Son
 Kien Giang
@@ -6557,14 +5997,12 @@ Kim Thuy
 Lam Thuy
 Phuong 1
 Phuong 2
-Dong Giang
 Dong Thanh
 Phuong 4
 Phuong 3
 Phuong 5
 Dong Le
 Dong Luong
-Cam Lo
 Cam Thanh
 Cam An
 Cam Thuy
@@ -6573,7 +6011,6 @@ Cam Thanh
 Cam Hieu
 Cam Nghia
 Cam Chinh
-Gio Linh
 Gio My
 Trung Giang
 Trung Hai
@@ -6640,7 +6077,6 @@ A Doi
 Xy
 Krong Klang
 Huong Hiep
-Da Krong
 Mo O
 Ba Nang
 Trieu Nguyen
@@ -6657,7 +6093,6 @@ Trieu Thanh
 Trieu Dong
 Trieu Tai
 Trieu Trung
-Trieu Son
 Trieu Lang
 Trieu Trach
 Trieu Van
@@ -6676,13 +6111,10 @@ Phuong 3
 Phuong 1
 An Don
 Hai Le
-Hai Lang
 Hai Thien
 Hai Thanh
 Hai Hoa
-Hai Duong
 Hai Khe
-Hai An
 Hai Que
 Hai Ba
 Hai Vinh
@@ -6701,15 +6133,11 @@ Vi Da
 Phu Cat
 Phu Hiep
 Phu Hau
-Phu Binh
 Thuan Loc
 Huong So
 An Hoa
 Tay Loc
-Thuan Thanh
-Phu Hoa
 Phu Hoi
-Phu Nhuan
 Vinh Ninh
 Thuan Hoa
 Kim Long
@@ -6734,7 +6162,6 @@ Quang Phu
 Quang Tho
 Quang An
 Quang Thanh
-Phong Dien
 Phong Hien
 Phong Chuong
 Dien Loc
@@ -6754,7 +6181,6 @@ Tu Ha
 Huong Toan
 Huong Vinh
 Huong Phong
-Hai Duong
 Huong Van
 Huong Xuan
 Huong Chu
@@ -6766,13 +6192,11 @@ Binh Dien
 Hong Tien
 Huong Tho
 Binh Thanh
-A Luoi
 Hong Ha
 Hong Kim
 Hong Van
 Hong Thuy
 Hong Trung
-Bac Son
 Hong Bac
 Hong Quang
 A Ngo
@@ -6810,7 +6234,6 @@ Thuong Quang
 Thuong Lo
 Thuong Long
 Thuong Nhat
-Phu Loc
 Loc Binh
 Loc Vinh
 Vinh Hai
@@ -6821,7 +6244,6 @@ Vinh Hien
 Loc An
 Loc Son
 Loc Bon
-Xuan Loc
 Loc Hoa
 Loc Dien
 Loc Tien
@@ -6840,18 +6262,15 @@ Vinh Xuan
 Phu Dien
 Phu Hai
 Phu Thuan
-Thuan An
 Phu Thanh
 Phu Mau
 Phu Thuong
 Phu Duong
 Phu An
-Phu My
 Phu Ho
 Hai Chau 1
 Thach Thang
 Thuan Phuoc
-Thanh Binh
 Hai Chau 2
 Phuoc Ninh
 Nam Duong
@@ -6864,7 +6283,6 @@ Hoa Cuong Nam
 Xuan Ha
 Thanh Khe Dong
 Thanh Khe Tay
-An Khe
 Hoa Khe
 Chinh Gian
 Thac Gian
@@ -6890,7 +6308,6 @@ Hoa Hiep Bac
 Hoa Tho Dong
 Hoa Xuan
 Khue Trung
-Hoa An
 Hoa Phat
 Hoa Tho Tay
 Hoa Phong
@@ -6906,9 +6323,7 @@ Hoa Chau
 Hoa Phuoc
 An My
 Hoa Thuan
-Tan Thanh
 Phuoc Hoa
-An Phu
 Tam Phu
 Tam Thanh
 Tam Thang
@@ -6921,10 +6336,8 @@ Ha Lam
 Binh Nguyen
 Binh Phuc
 Binh Trieu
-Binh Giang
 Binh Duong
 Binh Dao
-Binh Minh
 Binh Hai
 Binh Sa
 Binh Nam
@@ -6934,14 +6347,12 @@ Binh Tu
 Binh Quy
 Binh Dinh Bac
 Binh Dinh Nam
-Binh Chanh
 Binh Que
 Binh Phu
 Binh Tri
 Binh Lanh
 Minh An
 Son Phong
-Tan An
 Cam Pho
 Thanh Ha
 Cam Kim
@@ -6951,7 +6362,6 @@ Cam Chau
 Cua Dai
 Cam An
 Cam Ha
-Tan Hiep
 Vinh Dien
 Dien Nam Dong
 Dien Nam Trung
@@ -7047,7 +6457,6 @@ Son Vien
 Dong Phu
 Que Chau
 Que Thuan
-Phu Tho
 Que Cuong
 Huong An
 Que Phu
@@ -7055,15 +6464,11 @@ Que Xuan 1
 Que Xuan 2
 Que Hiep
 Que Long
-Que Phong
 Que An
 Que Minh
-Tan An
-Binh Son
 Binh Lam
 Que Tho
 Hiep Thuan
-Hiep Hoa
 Song Tra
 Que Binh
 Phuoc Tra
@@ -7091,7 +6496,6 @@ Tra Cang
 Tra Nam
 Tra Don
 Tra Van
-Tra Vinh
 Tra My
 Tra Duong
 Tra Dong
@@ -7131,7 +6535,6 @@ Tam Dan
 Tam Dai
 Tam Lanh
 Tam Thai
-Nui Thanh
 Tam Giang
 Tam Quang
 Tam Hai
@@ -7156,7 +6559,6 @@ Nguyen Nghiem
 Truong Quang Trong
 Tinh An Tay
 Quang Phu
-Nghia Lo
 Chanh Lo
 Nghia Dong
 Nghia Ha
@@ -7185,23 +6587,18 @@ Tinh Giang
 Chau O
 Binh Thoi
 Binh Duong
-Binh Chanh
 Binh Nguyen
 Binh Trung
 Binh Chuong
-Binh Long
 Binh Thanh Tay
 Binh Thanh Dong
 Binh Hoa
 Binh Phuoc
 Binh Dong
-Binh Thanh
 Binh Khuong
 Binh An
-Binh Minh
 Binh My
 Binh Hiep
-Binh Tan
 Binh Chau
 Binh Phu
 Binh Hai
@@ -7281,7 +6678,6 @@ Hanh Tin Dong
 Hanh Thien
 Hanh Thinh
 Hanh Phuoc
-Mo Duc
 Duc Thanh
 Duc Minh
 Duc Chanh
@@ -7290,11 +6686,9 @@ Duc Loi
 Duc Nhuan
 Duc Hiep
 Duc Tan
-Duc Hoa
 Duc Phu
 Duc Lan
 Duc Phong
-Ba To
 Ba Cung
 Ba Chua
 Ba Dinh
@@ -7309,12 +6703,10 @@ Ba Dien
 Ba Giang
 Ba Ngac
 Ba Tieu
-Ba Vi
 Ba To
 Ba Xa
 Ba Nam
 Ba Le
-Duc Pho
 Pho Minh
 Pho Vinh
 Pho Quang
@@ -7342,7 +6734,6 @@ Quang Trung
 Nguyen Van Cu
 Hai Cang
 Thi Nai
-Dong Da
 Nhon Binh
 Nhon Phu
 Tran Quang Dieu
@@ -7353,13 +6744,11 @@ Nhon Hoi
 Nhon Ly
 Phuoc My
 Nhon Chau
-Tuy Phuoc
 Phuoc Nghia
 Phuoc Loc
 Phuoc An
 Dieu Tri
 Phuoc Thuan
-Phuoc Son
 Phuoc Hiep
 Phuoc Thanh
 Phuoc Hoa
@@ -7395,11 +6784,9 @@ Cat Lam
 Cat Hung
 Cat Thang
 Cat Tien
-Cat Hai
 Cat Minh
 Cat Son
 Cat Chanh
-Phu My
 My Quang
 My Trinh
 My Hoa
@@ -7408,7 +6795,6 @@ My Tai
 My Chanh Tay
 My Tho
 My Phong
-My Loc
 My Cat
 My Chanh
 My Thanh
@@ -7416,12 +6802,10 @@ My An
 My Thang
 My Loi
 Binh Duong
-My Duc
 My Chau
 Bong Son
 Hoai Xuan
 Hoai Tan
-Hoai Duc
 Hoai My
 Hoai Hai
 Hoai Huong
@@ -7435,7 +6819,6 @@ Hoai Chau
 Hoai Chau Bac
 Hoai Son
 Hoai Phu
-An Lao
 An Hung
 An Trung
 An Dung
@@ -7460,11 +6843,9 @@ Dak Mang
 Bok Toi
 An Nghia
 An Tuong Tay
-Vinh Thanh
 Vinh Thinh
 Vinh Hiep
 Vinh Hao
-Vinh Thuan
 Vinh Quang
 Vinh Hoa
 Vinh Kim
@@ -7472,7 +6853,6 @@ Vinh Son
 Phu Phong
 Binh Hoa
 Binh Thanh
-Tay Giang
 Binh Tuong
 Tay Phu
 Tay Xuan
@@ -7481,10 +6861,8 @@ Tay Binh
 Tay Vinh
 Tay An
 Binh Thuan
-Binh Tan
 Tay Thuan
 Vinh An
-Van Canh
 Canh Hien
 Canh Hiep
 Canh Thuan
@@ -7505,7 +6883,6 @@ Phuong 8
 Phuong 9
 Phuong 7
 Binh Kien
-An Phu
 Hoa Kien
 Chi Thanh
 An Cu
@@ -7561,13 +6938,11 @@ Ca Lui
 Son Phuoc
 Eacha Rang
 Suoi Trai
-Krong Pa
 Hai Rieng
 EaBia
 Duc Binh Tay
 Son Giang
 Duc Binh Dong
-Song Hinh
 EaTrol
 EaBar
 Ealy
@@ -7593,11 +6968,9 @@ Hoa Xuan Nam
 Hoa Xuan Tay
 Hoa Xuan Dong
 Hoa Tan Dong
-Hoa Thanh
 Phu Hoa
 Hoa Dinh Dong
 Hoa Thang
-Hoa An
 Hoa Tri
 Hoa Quang Nam
 Hoa Quang Bac
@@ -7618,7 +6991,6 @@ Van Thang
 Phuong Sai
 Phuong Son
 Vinh Hiep
-Vinh Thanh
 Vinh Trung
 Vinh Thai
 Phuoc Hai
@@ -7628,7 +7000,6 @@ Tan Lap
 Phuoc Hoa
 Vinh Nguyen
 Vinh Truong
-Phuoc Long
 Phuoc Dong
 Van Gia
 Van Hung
@@ -7647,9 +7018,7 @@ Ninh Hiep
 Ninh Than
 Ninh Phung
 Ninh Xuan
-Ninh Binh
 Ninh Quang
-Ninh Giang
 Ninh Ha
 Ninh Loc
 Ninh Ich
@@ -7658,19 +7027,15 @@ Ninh Tan
 Ninh Sim
 Ninh Tay
 Ninh Thuong
-Ninh Son
 Ninh An
 Ninh Trung
 Ninh Dong
 Ninh Da
 Ninh Tho
-Ninh Hai
 Ninh Diem
 Ninh Thuy
 Ninh Phu
-Ninh Phuoc
 Ninh Van
-Khanh Vinh
 Song Cau
 Khanh Phu
 Khanh Thanh
@@ -7684,7 +7049,6 @@ Khanh Trung
 Khanh Hiep
 Khanh Binh
 Khanh Dong
-Dien Khanh
 Dien Phu
 Dien Dien
 Dien Son
@@ -7740,12 +7104,10 @@ Cam Nghia
 Cam Thanh Nam
 Cam Phuc Bac
 Cam Phuc Nam
-Truong Sa
 Sinh Ton
 Song Tu Tay
 My Huong
 Kinh Dinh
-Thanh Son
 Phu Ha
 Dao Long
 Tan Tai
@@ -7756,7 +7118,6 @@ Dai Son
 Phuoc My
 Bao An
 My Dong
-Dong Hai
 Thanh Hai
 Do Vinh
 Khanh Hai
@@ -7773,7 +7134,6 @@ Cong Hai
 Phuoc Chien
 Phuoc Khang
 Bac Phong
-Bac Son
 Phuoc Dai
 Phuoc Tien
 Phuoc Binh
@@ -7783,7 +7143,6 @@ Phuoc Thang
 Phuoc Chinh
 Phuoc Trung
 Phuoc Thanh
-Tan Son
 Luong Son
 Lam Son
 Quang Son
@@ -7795,7 +7154,6 @@ Phuoc Dan
 An Hai
 Phuoc Thuan
 Phuoc Hau
-Phuoc Son
 Phuoc Vinh
 Phuoc Thai
 Phuoc Huu
@@ -7817,7 +7175,6 @@ Ngo May
 Nguyen Trai
 Tran Hung Dao
 Le Loi
-Thong Nhat
 Dak Ro Wa
 Dak Bla
 Dak Cam
@@ -7827,7 +7184,6 @@ Kroong
 Dak Nang
 Doan Ket
 Ia Chim
-Hoa Binh
 Chu Hreng
 Dak Rve
 Dak Koi
@@ -7845,7 +7201,6 @@ Dak Nen
 Mang But
 Dak Tang
 Mang Canh
-Dak Ha
 Tu Mo Rong
 Ngoc Yeu
 Van Xuoi
@@ -7856,7 +7211,6 @@ Dak Sao
 Te Xang
 Dak Ro Ong
 Dak To Kan
-Dak Glei
 Xop
 Ngoc Linh
 Muong Hoong
@@ -7876,7 +7230,6 @@ Dak Xu
 Po Y
 Dak Kan
 Sa Loong
-Dak Ha
 Dak Ngok
 Dak PXi
 Dak Ui
@@ -7887,7 +7240,6 @@ Ha Mon
 Dak La
 Ngok Wang
 Ngok Reo
-Dak To
 Kon Dao
 Van Lem
 Dak Tram
@@ -7896,7 +7248,6 @@ Ngok Tu
 Tan Canh
 Po Ko
 Dien Binh
-Sa Thay
 Sa Nghia
 Ho Moong
 Sa Nhon
@@ -7913,34 +7264,25 @@ Ia Dal
 Tay Son
 Hoi Thuong
 Phu Dong
-Hoa Lu
-Thong Nhat
 Yen Do
 Dien Hong
 Ia Kring
 Hoi Phu
 Tra Ba
-Chi Lang
 Thang Loi
-An Phu
 Chu A
 Tra Da
 Bien Ho
-Tan Son
 Yen The
-Dong Da
 Dien Phu
 Gao
 Ia Kenh
 Chu HDrong
-Dak Doa
-Tan Binh
 K' Dang
 H' Neng
 Kon Gang
 Hai Yang
 Dak Somei
-Ha Dong
 Dak Krong
 Ha Bau
 Nam Yang
@@ -7988,7 +7330,6 @@ Ia Lang
 Ia Krieng
 Ia Pnon
 Ia Nan
-Chu Prong
 Ia Kly
 Ia Tor
 Ia Bang
@@ -8008,7 +7349,6 @@ Ia Ga
 Ia Puch
 Ia Mo
 Ia Pior
-Phu Thien
 Chu A Thai
 Ayun Ha
 Ia Ake
@@ -8027,7 +7367,6 @@ Chu Don
 Ia Phang
 Ia Le
 Ia Blu
-Chu Se
 Dun
 Alba
 Bo Ngoong
@@ -8045,7 +7384,6 @@ Hbong
 Doan Ket
 Song Bo
 Cheo Reo
-Hoa Binh
 Chu Bah
 Ia Rbol
 Ia Sao
@@ -8063,7 +7401,6 @@ Chu Drang
 Ia Rmok
 Chu Ngoc
 Ia Dreh
-Krong Nang
 Kim Tan
 Chu Rang
 Po To
@@ -8073,7 +7410,6 @@ Ia Broai
 Ia Tul
 Chu Mo
 Ia Kdam
-Kong Chro
 Ya Ma
 Dak Tpang
 Kong Yang
@@ -8087,16 +7423,13 @@ Dak Ko Ning
 Sro
 Dak Song
 Dak Pling
-Dak Po
 An Thanh
 Ha Tam
 Yang Bac
 Ya Hoi
 Phu An
-Tan An
 Cu An
 Tay Son
-An Phu
 An Tan
 Ngo May
 Song An
@@ -8135,11 +7468,9 @@ Kon Chieng
 Thang Loi
 Tu An
 Tan Lap
-Tan An
 Tan Hoa
 Tan Loi
 Cu EBur
-Thong Nhat
 Thanh Cong
 Tan Tien
 Thanh Nhat
@@ -8154,7 +7485,6 @@ Hoa Thang
 Ea Tu
 Hoa Thuan
 Phuoc An
-Hoa An
 Ea Phe
 KRong Buk
 Ea Kly
@@ -8169,7 +7499,6 @@ Ea Yong
 Ea Kenh
 Ea KNuec
 Hoa Dong
-Ea Kar
 Ea Kmut
 Cu Hue
 Xuan Phu
@@ -8185,12 +7514,10 @@ Cu Prong
 Cu Jang
 Cu Bong
 Cu ELang
-Krong Nang
 Phu Xuan
 Ea Dah
 Ea Puk
 Tam Giang
-Phu Loc
 Ea Ho
 Ea Toh
 Ea Tan
@@ -8212,11 +7539,9 @@ Ea Nam
 Dle Yang
 Ea Hiao
 Ea Sol
-Ea H'leo
 Ea Wy
 Cu A Mung
 Ea Tir
-Ea Sup
 Ea Le
 Cu KBang
 Ea Rok
@@ -8239,7 +7564,6 @@ Ea Pok
 Cu Sue
 Ea M'nang
 Quang Hiep
-Cu M'gar
 Ea KPam
 Ea H'dinh
 Ea M'DRoh
@@ -8256,8 +7580,6 @@ An Binh
 Doan Ket
 Thien An
 Ea Blang
-Thong Nhat
-Binh Tan
 Cu Bao
 Binh Thuan
 Ea Sien
@@ -8272,7 +7594,6 @@ Ea Ning
 Ea Ktur
 Buon Trap
 Binh Hoa
-Quang Dien
 Dur KMal
 Bang A Drenh
 Ea Bong
@@ -8286,7 +7607,6 @@ Ea R'Bin
 Nam Ka
 Dak Nue
 Dak Phoi
-Krong No
 Bong Krang
 Yang Tao
 Krong Kmar
@@ -8295,7 +7615,6 @@ Hoa Son
 Ea Trul
 Yang Reh
 Hoa Tan
-Hoa Thanh
 Dang Kang
 Cu KTy
 Hoa Le
@@ -8351,8 +7670,6 @@ Nam Dong
 Dak DRong
 Ea Po
 Dak Wil
-Dak Mil
-Thuan An
 Duc Minh
 Dak Sak
 Long Son
@@ -8401,9 +7718,7 @@ Phuong 3
 Phuong 10
 Phuong 11
 Xuan Tho
-Xuan Truong
 Tram Hanh
-Lac Duong
 Da Sar
 Lat
 Dung KNo
@@ -8423,16 +7738,13 @@ Phi To
 Da Don
 Tan Van
 Tan Ha
-Gia Lam
 Nam Ban
 Dong Thanh
 Me Linh
 Phu Son
 Phuc Tho
 Tan Thanh
-Hoai Duc
 Lien Ha
-Dan Phuong
 Loc Thang
 Loc Ngai
 Loc Phu
@@ -8446,7 +7758,6 @@ Loc Bac
 Loc Tan
 Loc Thanh
 Loc Nam
-Tan Lac
 Phuong 1
 Loc Phat
 Phuong 2
@@ -8458,26 +7769,17 @@ Dam Bri
 Loc Tien
 Loc Chau
 Dai Lao
-Cat Tien
 My Lam
 Nam Ninh
-Gia Vien
 Duc Pho
-Quang Ngai
 Tu Nghia
 Tien Hoang
 Dong Nai Thuong
 Phuoc Cat 2
 Phuoc Cat
-Da Teh
 Da Kho
-Ha Dong
 Trieu Hai
 Da Pal
-Quang Tri
-My Duc
-Quoc Oai
-An Nhon
 Huong Lam
 Da Lay
 Ma Da Guoi
@@ -8490,9 +7792,7 @@ Doan Ket
 Da Ploa
 Da M'ri
 Da M'ri
-Di Linh
 Tan Nghia
-Tan Chau
 Lien Dam
 Gung Re
 Bao Thuan
@@ -8517,7 +7817,6 @@ Tan Hoi
 Tan Thanh
 Phu Hoi
 Hiep An
-Binh Thanh
 Ninh Gia
 Ta Hine
 Ninh Loan
@@ -8534,21 +7833,16 @@ Pro
 Ka Do
 Lac Xuan
 D'Ran
-Tan Phu
 Tien Thanh
 Tan Thanh
 Tien Hung
-Tan Binh
 Tan Xuan
 Tan Thien
 Tan Dong
-Tan Phu
 Tan Tien
 Tan Lap
 Tan Hoa
 Tan Loi
-Tan Hung
-Tan Phuoc
 Dong Tam
 Dong Tien
 Thuan Phu
@@ -8560,13 +7854,11 @@ Phu Son
 Dak Nhau
 Duong 10
 Bom Bo
-Binh Minh
 Minh Hung
 Duc Lieu
 Nghia Binh
 Nghia Trung
 Dang Ha
-Thong Nhat
 Phuoc Son
 Dong Nai
 Long Phuoc
@@ -8583,8 +7875,6 @@ Da Kia
 Duc Hanh
 Phu Van
 Dak O
-Bu Gia Map
-Loc Ninh
 Loc Thuan
 Loc Hiep
 Loc An
@@ -8600,14 +7890,12 @@ Loc Khanh
 Loc Dien
 Loc Quang
 Loc Phu
-Thanh Binh
 Phuoc Thien
 Hung Phuoc
 Thien Hung
 Thanh Hoa
 Tan Thanh
 Tan Tien
-Phu Rieng
 Phu Trung
 Phuoc Tan
 Bu Nho
@@ -8615,35 +7903,28 @@ Long Tan
 Long Ha
 Long Binh
 Long Hung
-Binh Tan
 Binh Son
 Tan Khai
 Tan Quan
 Phuoc An
-Tan Hung
 Thanh An
 An Khuong
 Tan Loi
-Thanh Binh
-An Phu
 Minh Tam
 Minh Duc
 Dong No
-Tan Hiep
 Hung Chien
 Phu Duc
 Phu Thinh
 An Loc
 Thanh Phu
 Thanh Luong
-Chon Thanh
 Minh Thanh
 Nha Bich
 Minh Thang
 Minh Lap
 Quang Minh
 Minh Hung
-Minh Long
 Thanh Tam
 Ben Nghe
 Da Kao
@@ -8655,7 +7936,6 @@ Pham Ngu Lao
 Co Giang
 Nguyen Cu Trinh
 Cau Kho
-An Phu
 Thao Dien
 Binh An
 An Khanh
@@ -8678,14 +7958,12 @@ Long Phuoc
 Truong Thanh
 Long Thanh My
 Long Binh
-Tan Phu
 Binh Tho
 Linh Chieu
 Linh Trung
 Linh Xuan
 Linh Tay
 Tam Phu
-Tam Binh
 Binh Chieu
 Hiep Binh Phuoc
 Hiep Binh Chanh
@@ -8718,7 +7996,6 @@ Thoi An
 Thanh Xuan
 Thanh Loc
 An Phu Dong
-Cu Chi
 Tan An Hoi
 Tan Thong Hoi
 Tan Phu Trung
@@ -8732,18 +8009,15 @@ Phu Hoa Dong
 Pham Van Coi
 Nhuan Duc
 An Nhon Tay
-An Phu
 Phu My Hung
 Trung Lap Thuong
 Trung Lap Ha
 Phuoc Thanh
 Thai My
 Phuoc Hiep
-Hoc Mon
 Thoi Tam Thon
 Dong Thanh
 Nhi Binh
-Tan Hiep
 Tan Thoi Nhi
 Xuan Thoi Son
 Xuan Thoi Thuong
@@ -8759,7 +8033,6 @@ Quy Duc
 Da Phuoc
 Phong Phu
 Binh Hung
-Binh Chanh
 Tan Kien
 Tan Nhut
 Le Minh Xuan
@@ -8913,13 +8186,10 @@ Phuong 15
 Phuong 16
 Phuong 18
 Phuong 13
-Phu My
 Phu Thuan
-Tan Phu
 Tan Thuan Dong
 Tan Thuan Tay
 Tan Kieng
-Tan Hung
 Tan Quy
 Binh Thuan
 Tan Phong
@@ -8953,7 +8223,6 @@ Phuong 11
 Phuong 12
 Phuong 13
 Phuong 14
-Nha Be
 Phuoc Kien
 Phuoc Loc
 Nhon Duc
@@ -8969,38 +8238,29 @@ An Thoi Dong
 Ly Nhon
 Phu Cuong
 Chanh Nghia
-Phu Tho
 Phu Hoa
 Phu Loi
 Hiep Thanh
-Phu Tan
-Phu My
 Hoa Phu
 Dinh Hoa
 Hiep An
-Tan An
 Tuong Binh Hiep
 Chanh My
 Lai Thieu
 Vinh Phu
 Binh Hoa
-An Phu
 Binh Chuan
 Thuan Giao
 An Thanh
 Hung Dinh
 Binh Nham
 An Son
-Di An
 An Binh
-Dong Hoa
 Binh Thang
 Binh An
 Tan Dong Hiep
-Tan Binh
 Uyen Hung
 Hoi Nghia
-Tan Hiep
 Vinh Tan
 Phu Chanh
 Tan Vinh Hiep
@@ -9008,7 +8268,6 @@ Khanh Binh
 Bach Dang
 Thanh Phuoc
 Tan Phuoc Khanh
-Thai Hoa
 Thanh Hoi
 Tan Thanh
 Hieu Liem
@@ -9016,7 +8275,6 @@ Tan Dinh
 Binh My
 Tan Lap
 Dat Cuoc
-Tan Binh
 Lac An
 Tan My
 Thuong Tan
@@ -9026,7 +8284,6 @@ Phuoc Sang
 An Thai
 An Long
 An Linh
-Tan Hiep
 Tan Long
 Phuoc Hoa
 Vinh Hoa
@@ -9036,9 +8293,7 @@ Tru Van Tho
 Cay Truong II
 Long Nguyen
 Lai Hung
-Tan Hung
 Hung Hoa
-Dau Tieng
 Thanh An
 Thanh Tuyen
 Long Tan
@@ -9058,13 +8313,10 @@ Tan Dinh
 Thoi Hoa
 Hoa Loi
 Chanh Phu Hoa
-Thanh Binh
 Quyet Thang
 Thong Nhat
 Tam Hiep
 Tam Hoa
-Tan Hiep
-Tan Bien
 Tan Hoa
 Ho Nai
 Tan Tien
@@ -9074,11 +8326,9 @@ Trung Dung
 Quang Vinh
 Buu Long
 Tan Hanh
-Hoa Binh
 Hoa An
 Tan Van
 Buu Hoa
-Hiep Hoa
 Binh Da
 An Binh
 Long Binh Tan
@@ -9087,7 +8337,6 @@ Long Hung
 Phuoc Tan
 Tam Phuoc
 Long Binh
-Long Thanh
 Loc An
 Binh An
 Long Duc
@@ -9096,7 +8345,6 @@ Tam An
 Long An
 Long Phuoc
 Phuoc Thai
-Tan Hiep
 Phuoc Binh
 Bau Can
 Suoi Trau
@@ -9114,22 +8362,17 @@ Vinh Thanh
 Hiep Phuoc
 Long Tho
 Phuoc An
-Trang Bom
 Tay Hoa
 Song Thao
 Bau Ham
-Thanh Binh
 Cay Gao
 Song Trau
-Bac Son
 Ho Nai 3
-Binh Minh
 Quang Tien
 Giang Dien
 Doi 61
 Trung Hoa
 An Vien
-Dong Hoa
 Hung Thinh
 Xuan Thanh
 Quang Trung
@@ -9151,7 +8394,6 @@ Suoi Tre
 Xuan Trung
 Xuan Binh
 Xuan Hoa
-Phu Binh
 Bau Sen
 Xuan Lap
 Xuan Tan
@@ -9170,7 +8412,6 @@ Xuan Duong
 Song Nhan
 Thua Duc
 Gia Ray
-Xuan Truong
 Xuan Thanh
 Suoi Cao
 Xuan Bac
@@ -9184,11 +8425,9 @@ Lang Minh
 Xuan Hung
 Xuan Hoa
 Xuan Tam
-Dinh Quan
 Phu Hoa
 Phu Loi
 Phu Vinh
-Phu Tan
 Thanh Son
 Ngoc Dinh
 Phu Ngoc
@@ -9198,8 +8437,6 @@ Tuc Trung
 Phu Tuc
 Suoi Nho
 Gia Canh
-Tan Phu
-Phu Loc
 Phu Xuan
 Thanh Son
 Phu Trung
@@ -9214,19 +8451,15 @@ Phu Thinh
 Tra Co
 Phu Thanh
 Phu Lam
-Phu Binh
 Phu Dien
 Vinh An
 Ma Da
 Phu Ly
 Hieu Liem
 Tri An
-Tan An
 Vinh Tan
 Thien Tan
-Thanh Phu
 Binh Loi
-Tan Binh
 Binh Hoa
 Duc Thang
 Binh Hung
@@ -9253,7 +8486,6 @@ Vinh Hao
 Phan Dung
 Phu Lac
 Phong Phu
-Binh Thanh
 Chi Cong
 Hoa Minh
 Phan Ri Cua
@@ -9271,7 +8503,6 @@ Phan Thanh
 Song Binh
 Song Luy
 Phan Tien
-Binh Tan
 Luong Son
 Hong Thai
 Hoa Thang
@@ -9284,7 +8515,6 @@ Thuan Hoa
 Dong Tien
 Da Mi
 La Da
-Dong Giang
 Ham Phu
 Thuan Minh
 Ham Liem
@@ -9331,14 +8561,10 @@ Son My
 Tan Thang
 Thang Hai
 Phuoc Hoi
-Binh Tan
-Tan Binh
 Tan Tien
 Tan Hai
-Tan An
 Tan Thien
 Phuoc Loc
-Tan Phuoc
 Thuan Nam
 Ham Minh
 Ham Cuong
@@ -9362,7 +8588,6 @@ Long Toan
 Long Tam
 Long Phuoc
 Hoa Long
-Tan Hung
 Phuoc Hung
 Kim Dinh
 Long Huong
@@ -9383,15 +8608,12 @@ Rach Dua
 Phuong 11
 Phuong 12
 Long Son
-Dat Do
 Phuoc Long Tho
 Long Tan
 Lang Dai
 Loc An
 Phuoc Hoi
-Long My
 Phuoc Hai
-Long Dien
 An Nhut
 An Ngai
 Tam Phuoc
@@ -9408,9 +8630,7 @@ Hoa Hiep
 Tan Lam
 Bau Lam
 Hoa Hung
-Hoa Binh
 Phuoc Tan
-Xuyen Moc
 Ngai Giao
 Binh Gia
 Binh Trung
@@ -9427,12 +8647,10 @@ Da Bac
 Xuan Son
 Son Binh
 Suoi Rao
-Phu My
 My Xuan
 Hac Dich
 Song Xoai
 Toc Tien
-Tan Phuoc
 Chau Pha
 Tan Hoa
 Tan Hai
@@ -9443,11 +8661,8 @@ Phuong 3
 Phuong 4
 Hiep Ninh
 Ninh Thanh
-Ninh Son
 Thanh Tan
-Tan Binh
 Binh Minh
-Duong Minh Chau
 Phan
 Bau Nang
 Cha La
@@ -9458,7 +8673,6 @@ Ben Cui
 Phuoc Minh
 Phuoc Ninh
 Suoi Da
-Tan Chau
 Suoi Day
 Tan Thanh
 Tan Hoa
@@ -9466,21 +8680,16 @@ Suoi Ngo
 Tan Dong
 Tan Ha
 Tan Hoi
-Tan Hiep
 Thanh Dong
-Tan Phu
-Tan Hung
 Tan Bien
 Thanh Binh
 Thanh Bac
 Tan Lap
-Tan Binh
 Thanh Tay
 Hoa Hiep
 Tan Phong
 Mo Cong
 Tra Vong
-Chau Thanh
 Dong Khoi
 Thai Binh
 Hao Duoc
@@ -9503,7 +8712,6 @@ Long Thanh Nam
 Truong Tay
 Truong Dong
 Truong Hoa
-Go Dau
 Thanh Phuoc
 Phuoc Thanh
 Phuoc Dong
@@ -9512,23 +8720,18 @@ Hiep Thanh
 Thanh Duc
 Cam Giang
 Phuoc Trach
-Ben Cau
 Tien Thuan
 Long Chu
 Long Giang
 Long Phuoc
-Long Khanh
 Long Thuan
 Loi Thuan
 An Thanh
 Trang Bang
-Gia Loc
 Loc Hung
 Hung Thuan
 Don Thuan
-Gia Binh
 Phuoc Luu
-Binh Thanh
 Phuoc Chi
 An Hoa
 An Tinh
@@ -9539,7 +8742,6 @@ My Tan
 My Ngai
 Phuong 11
 Tan Thuan Tay
-Hoa An
 Hoa Thuan
 Phuong 4
 Phuong 2
@@ -9564,7 +8766,6 @@ Binh Hang Trung
 Binh Hang Tay
 My Long
 My Hiep
-Binh Thanh
 My An
 Tan Kieu
 My Hoa
@@ -9586,9 +8787,7 @@ Phu Hiep
 Phu Thanh B
 An Hoa
 An Long
-Phu Ninh
 Phu Thanh A
-Phu Tho
 Phu Duc
 Sa Rai
 Tan Thanh B
@@ -9598,9 +8797,7 @@ Tan Ho Co
 Binh Phu
 Tan Cong Chi
 An Phuoc
-Tan Phuoc
 An Thanh
-Binh Thanh
 Tan Hoi
 An Lac
 An Loc
@@ -9617,7 +8814,6 @@ Long Khanh B
 Long Thuan
 Phu Thuan B
 Phu Thuan A
-Thanh Binh
 Binh Thanh
 Binh Tan
 Tan My
@@ -9626,11 +8822,7 @@ An Phong
 Tan Quoi
 Tan Hoa
 Tan Hue
-Tan Binh
 Tan Long
-Tan Thanh
-Tan Phu
-Lap Vo
 Binh Thanh
 Dinh An
 Dinh Yen
@@ -9639,15 +8831,11 @@ Hoi An Dong
 My An Hung A
 My An Hung B
 Tan My
-Vinh Thanh
 Long Hung B
 Long Hung A
 Tan Khanh Trung
-Lai Vung
-Hoa Thanh
 Tan Duong
 Long Hau
-Tan Phuoc
 Tan Thanh
 Vinh Thoi
 Hoa Long
@@ -9659,18 +8847,14 @@ Phuong 1
 Phuong 3
 Phuong 4
 Phuong 2
-Tan Phu Dong
 An Hoa
 Tan Quy Tay
 Tan Quy Dong
 Tan Khanh Dong
 Cai Tau Ha
-An Nhon
 An Hiep
 Tan Nhuan Dong
-Tan Binh
 Tan Phu Trung
-Tan Phu
 Phu Long
 Phu Huu
 An Phu Thuan
@@ -9703,7 +8887,6 @@ Hiep Thanh
 Duong Xuan Hoi
 Long Tri
 An Luc Long
-Tan Tru
 Tan Phuoc Tay
 Binh Trinh Dong
 An Nhut Tan
@@ -9714,7 +8897,6 @@ Binh Lang
 Binh Tinh
 Duc Tan
 Nhut Ninh
-Can Duoc
 Tan Lan
 My Le
 Tan Trach
@@ -9731,15 +8913,12 @@ Phuoc Dong
 Long Cang
 Long Huu Dong
 Long Huu Tay
-Can Giuoc
 Long Hau
 Tan Kim
-My Loc
 Long Thuong
 Phuoc Ly
 Phuoc Hau
 Phuoc Lam
-Thuan Thanh
 Truong Binh
 Phuoc Lai
 Phuoc Vinh Dong
@@ -9748,7 +8927,6 @@ Long An
 Long Phung
 Dong Thanh
 Tan Tap
-Ben Luc
 My Yen
 Thanh Phu
 Tan Buu
@@ -9770,16 +8948,12 @@ Tan My
 An Ninh Dong
 Loc Giang
 An Ninh Tay
-Hiep Hoa
-Hiep Hoa
-Tan Phu
 Hoa Khanh Tay
 Hoa Khanh Dong
 Duc Hoa Thuong
 My Hanh Bac
 My Hanh Nam
 Duc Hoa Dong
-Duc Hoa
 Hoa Khanh Nam
 Duc Hoa Ha
 Huu Thanh
@@ -9795,10 +8969,8 @@ Binh Thanh
 Binh Hoa Hung
 Binh Hoa Nam
 Thanh Hoa
-Thanh Phu
 Thuan Nghia Hoa
 Thuan Binh
-Tan Hiep
 Thanh Phuoc
 Thuy Tay
 Thanh An
@@ -9809,40 +8981,30 @@ Phuong 1
 Phuong 2
 Phuong 3
 Binh Hiep
-Binh Tan
-Thanh Tri
 Tuyen Thanh
 Thanh Hung
 Tan Thanh
 Binh Hoa Dong
-Binh Thanh
 Binh Hoa Tay
 Binh Hoa Trung
 Tan Lap
 Binh Phong Thanh
-Vinh Hung
 Thai Binh Trung
 Thai Tri
 Hung Dien A
 Khanh Hung
 Vinh Tri
 Vinh Binh
-Vinh Thuan
 Tuyen Binh Tay
 Tuyen Binh
-Tan Hung
-Vinh Thanh
 Thanh Hung
-Hung Ha
 Hung Dien B
 Hung Dien
 Hung Thanh
 Vinh Chau B
-Vinh Loi
 Vinh Chau A
 Vinh Dai
 Vinh Buu
-Tan Thanh
 Kien Binh
 Nhon Hoa
 Tan Lap
@@ -9854,11 +9016,9 @@ Tan Thanh
 Tan Ninh
 Nhon Ninh
 Tan Hoa
-Tan Binh
 Thu Thua
 Tan Thanh
 Tan Lap
-Long Thanh
 Long Thanh
 Long Thuan
 My Lac
@@ -9866,7 +9026,6 @@ My Thanh
 My An
 Binh An
 My Phu
-Binh Thanh
 Nhi Thanh
 Phuong 7
 Phuong 3
@@ -9887,10 +9046,7 @@ Tan Long
 Thoi Son
 Phu Thanh
 Phu Dong
-Phu Tan
-Tan Phu
 Tan Thoi
-Tan Thanh
 Phuong 2
 Phuong 3
 Long Thuan
@@ -9917,7 +9073,6 @@ Binh An
 Binh Nghi
 Phuoc Trung
 Vinh Binh
-Thanh Tri
 Yen Luong
 Thanh Cong
 Binh Phu
@@ -9940,7 +9095,6 @@ Hoa Dinh
 An Thanh Thuy
 Binh Ninh
 Dang Hung Phuoc
-Thanh Binh
 Tan Binh Thanh
 Trung Hoa
 My Tinh An
@@ -9948,7 +9102,6 @@ Hoa Tinh
 Phu Kiet
 Luong Hoa Lac
 Song Binh
-Tan Hiep
 Tan Ly Tay
 Tan Huong
 Tan Hoi Dong
@@ -9962,21 +9115,17 @@ Diem Hy
 Duong Diem
 Huu Dao
 Binh Trung
-Dong Hoa
 Long Hung
-Thanh Phu
 Binh Duc
 Song Thuan
 Vinh Kim
 Ban Long
-Kim Son
 Phu Phong
 My Phuoc
 Phuoc Lap
 Tan Lap 1
 Tan Lap 2
 Tan Hoa Thanh
-Phu My
 Hung Thanh
 Tan Hoa Dong
 Thanh My
@@ -9988,35 +9137,27 @@ Binh Phu
 My Thanh Bac
 Phu Cuong
 My Thanh Nam
-Phu Nhuan
 Thanh Loc
 Cam Son
 Phu An
 My Long
 Long Tien
-Hiep Duc
 Long Trung
 Hoi Xuan
 Tan Phong
-Tam Binh
 Ngu Hiep
 Phuong 1
 Phuong 4
 Phuong 3
 Nhi My
 Tan Hoi
-Tan Phu
 My Hanh Dong
 My Hanh Trung
 My Phuoc Tay
-Tan Binh
 Phuong 2
 Thanh Hoa
-Long Khanh
 Phuong 5
-Phu Quy
 Nhi Quy
-Cai Be
 Dong Hoa Hiep
 An Cu
 Hau Thanh
@@ -10035,7 +9176,6 @@ My Duc Tay
 My Loi A
 An Thai Dong
 An Thai Trung
-Tan Hung
 Tan Thanh
 An Huu
 Hoa Hung
@@ -10052,10 +9192,8 @@ Truong An
 Tan Ngai
 Tan Hoa
 Tan Hoi
-Long Ho
 Thanh Duc
 Binh Hoa Phuoc
-Dong Phu
 Hoa Ninh
 An Binh
 Long Phuoc
@@ -10067,18 +9205,13 @@ Hoa Phu
 Loc Hoa
 Phu Duc
 Long An
-Tam Binh
 Tuong Loc
 Hoa Hiep
 Hoa Thanh
 Hoa Loc
-Hau Loc
 Tan Loc
-Phu Loc
 Song Phu
 Phu Thinh
-Tan Phu
-Long Phu
 My Loc
 My Thanh Trung
 Loan My
@@ -10091,19 +9224,16 @@ Nguyen Van Thanh
 Thanh Trung
 Thanh Dong
 Tan Thanh
-Tan Hung
 Tan Luoc
 Tan An Thanh
 Tan Binh
 Cai Von
 Dong Thuan
-Thuan An
 Thanh Phuoc
 My Hoa
 Dong Binh
 Dong Thanh
 Dong Thanh
-Tra On
 Thien My
 Tich Thien
 Vinh Xuan
@@ -10112,12 +9242,10 @@ Tra Con
 Thuan Thoi
 Huu Thanh
 Thoi Hoa
-Hoa Binh
 Xuan Hiep
 Nhon Binh
 Luc Sy Thanh
 Phu Thanh
-Vung Liem
 Trung Thanh Tay
 Quoi An
 Tan Quoi Trung
@@ -10132,7 +9260,6 @@ Hieu Thuan
 Trung An
 Trung Ngai
 Trung Nghia
-Thanh Binh
 Quoi Thien
 Hieu Nhon
 Hieu Thanh
@@ -10142,7 +9269,6 @@ Chanh An
 An Phuoc
 My Phuoc
 My An
-Long My
 Hoa Tinh
 Nhon Phu
 Chanh Hoi
@@ -10156,7 +9282,6 @@ Phuong 1
 Phuong 4
 Phu Hung
 Phu Khuong
-Phu Tan
 Son Dong
 My Thanh
 Binh Phu
@@ -10166,8 +9291,6 @@ Phuong 5
 Phuong 3
 My Thanh An
 Nhon Thanh
-Phu Nhuan
-Chau Thanh
 Phu An Hoa
 An Phuoc
 Phuoc Thanh
@@ -10180,7 +9303,6 @@ Tan Thach
 An Khanh
 Tam Phuoc
 Tuong Da
-Son Hoa
 An Hiep
 Thanh Trieu
 Phu Tuc
@@ -10188,7 +9310,6 @@ Phu Duc
 Quoi Thanh
 Tien Thuy
 Tien Long
-Tan Phu
 Cho Lach
 Hoa Nghia
 Tan Thieng
@@ -10207,7 +9328,6 @@ Tan Thanh Binh
 Tan Phu Tay
 Thanh Ngai
 Thanh Tan
-Phu My
 Hung Khanh Trung A
 Nhuan Phu Tan
 Tan Thanh Tay
@@ -10230,7 +9350,6 @@ Ngai Dang
 Minh Duc
 Cam Son
 Huong My
-Giong Trom
 Binh Hoa
 Chau Binh
 Chau Hoa
@@ -10243,7 +9362,6 @@ Luong Phu
 Thuan Dien
 Son Phu
 Hung Phong
-Phuoc Long
 Long My
 Tan Loi Thanh
 Thanh Phu Dong
@@ -10252,17 +9370,13 @@ Tan Thanh
 Binh Thanh
 Hung Nhuong
 Hung Le
-Binh Dai
 Binh Thang
 Dai Hoa Loc
 Binh Thoi
-Thanh Tri
 Phu Long
 Dinh Trung
 Loc Thuan
-Phu Vang
 Vang Quoi Dong
-Thoi Lai
 Vang Quoi Tay
 Phu Thuan
 Chau Hung
@@ -10272,7 +9386,6 @@ Tam Hiep
 Thanh Phuoc
 Thua Duc
 Thoi Thuan
-Ba Tri
 Vinh Hoa
 Phu Ngai
 Bao Thanh
@@ -10287,7 +9400,6 @@ Phu Le
 An Binh Tay
 An Ngai Trung
 An Phu Trung
-Tan Hung
 An Ngai Tay
 An Hiep
 An Duc
@@ -10296,7 +9408,6 @@ An Hoa Tay
 An Thuy
 Tan Thuy
 Bao Thuan
-Thanh Phu
 An Thanh
 My An
 My Hung
@@ -10306,7 +9417,6 @@ Dai Dien
 Phu Khanh
 Thoi Thanh
 Hoa Loi
-Binh Thanh
 An Thuan
 An Nhon
 Giao Thanh
@@ -10324,7 +9434,6 @@ Phuong 7
 Phuong 8
 Phuong 9
 Long Duc
-Cang Long
 Nhi Long
 Dai Phuoc
 Nhi Long Phu
@@ -10333,14 +9442,11 @@ My Cam
 An Truong A
 An Truong
 Tan Binh
-Tan An
 Huyen Hoi
 Phuong Thanh
 Dai Phuc
 Binh Phu
-Cau Ke
 Hoa An
-Thanh Phu
 Thong Hoa
 Tam Ngai
 An Phu Tan
@@ -10349,7 +9455,6 @@ Chau Dien
 Phong Thanh
 Phong Phu
 Ninh Thoi
-Tieu Can
 Tap Ngai
 Hieu Tu
 Hieu Trung
@@ -10360,17 +9465,14 @@ Tan Hoa
 Hung Hoa
 Tan Hung
 Ngai Hung
-Tra Cu
 Thanh Son
 Long Hiep
-Tan Hiep
 Phuoc Hung
 Tap Son
 Tan Son
 An Quang Huu
 Luu Nghiep Anh
 Ngai Xuyen
-Kim Son
 Ham Tan
 Dinh An
 Dinh An
@@ -10384,10 +9486,8 @@ Long Huu
 Long Toan
 Dan Thanh
 Truong Long Hoa
-Long Thanh
 Don Xuan
 Don Chau
-Long Khanh
 Ngu Lac
 Long Vinh
 Dong Hai
@@ -10406,7 +9506,6 @@ Thanh Hoa Son
 Hiep My Dong
 Hiep My Tay
 My Long Nam
-Chau Thanh
 Phuoc Hao
 Hung My
 Hoa Thuan
@@ -10422,7 +9521,6 @@ Hoa Minh
 Long Hoa
 My Long
 My Binh
-My Xuyen
 My Phuoc
 My Quy
 My Hoa Hung
@@ -10433,7 +9531,6 @@ My Hoa
 Dong Xuyen
 My Thoi
 My Thanh
-Cho Moi
 Kien An
 My Hoi Dong
 Nhon My
@@ -10448,11 +9545,7 @@ Long Kien
 Long Giang
 An Thanh Trung
 Binh Phuoc Xuan
-Hoi An
 Hoa Binh
-Hoa An
-Phu My
-Phu Tho
 Phu An
 Phu Thanh
 Cho Vam
@@ -10464,7 +9557,6 @@ Hoa Lac
 Phu Thanh
 Phu Xuan
 Hiep Xuong
-Phu Binh
 Binh Thanh Dong
 Phu Hung
 Tan Hoa
@@ -10474,16 +9566,11 @@ Long Hung
 Long Chau
 Vinh Hoa
 Vinh Xuong
-Phu Loc
-Tan Thanh
-Tan An
 Long An
 Chau Phong
 Le Chanh
 Phu Vinh
-Long Phu
 Long Son
-An Phu
 Vinh Loc
 Phu Huu
 Khanh An
@@ -10502,21 +9589,17 @@ Chau Phu A
 Vinh Nguon
 Vinh Te
 Nui Sam
-Vinh Chau
 Vinh My
 Cai Dau
 Vinh Thanh Trung
 My Phu
 Khanh Hoa
-My Duc
 O Long Vi
 Dao Huu Canh
 Thanh My Tay
 Binh Phu
-Binh Long
 Binh Chanh
 Binh My
-Binh Thuy
 Tinh Bien
 An Nong
 An Cu
@@ -10531,7 +9614,6 @@ Nui Voi
 Tan Loi
 An Hao
 Tan Lap
-Tri Ton
 Chau Lang
 Le Tri
 Ba Chuc
@@ -10547,7 +9629,6 @@ Co To
 Ta Danh
 Tan Tuyen
 An Chau
-Binh Thanh
 Binh Hoa
 An Hoa
 Can Dang
@@ -10556,7 +9637,6 @@ Vinh Binh
 Vinh An
 Tan Phu
 Vinh Nhuan
-Vinh Loi
 Hoa Binh Thanh
 Vinh Thanh
 Nui Sap
@@ -10582,24 +9662,18 @@ Vinh Quang
 Phi Thong
 Vinh Thong
 Vinh Hiep
-Vinh Bao
 Vinh Lac
 An Hoa
 Rach Soi
-Vinh Loi
 An Binh
-Tan Hiep
 Tan Hiep B
 Tan Hoa
 Tan Thanh
 Tan Hoi
-Tan An
 Tan Hiep A
-Thanh Tri
 Thanh Dong A
 Thanh Dong
 Thanh Dong B
-Hon Dat
 My Thai
 Nam Thai Son
 Binh Son
@@ -10608,7 +9682,6 @@ Linh Huynh
 Tho Son
 Son Kien
 Son Binh
-Soc Son
 My Lam
 My Phuoc
 My Hiep Son
@@ -10625,7 +9698,6 @@ Phao Dai
 To Chau
 Tien Hai
 Thuan Yen
-Kien Luong
 Kien Binh
 Hoa Dien
 Duong Hoa
@@ -10644,7 +9716,6 @@ Vinh Hoa Phu
 Binh An
 Minh Hoa
 Thu Ba
-Hung Yen
 Tay Yen A
 Tay Yen
 Nam Yen
@@ -10654,30 +9725,24 @@ Dong Thai
 Dong Yen
 Thu Muoi Mot
 Dong Thanh
-Dong Hoa
 Thuan Hoa
-Tan Thanh
 Dong Hung A
 Van Khanh Dong
 Van Khanh
 Van Khanh Tay
 Dong Hung B
-Dong Hung
 An Minh Bac
 Minh Thuan
 Vinh Hoa
 Hoa Chanh
 Thanh Yen
 Thanh Yen A
-Vinh Thuan
 Phong Dong
 Vinh Binh Nam
 Vinh Binh Bac
 Binh Minh
 Tan Thuan
-Vinh Thuan
 Vinh Phong
-Go Quao
 Vinh Hoa Hung Nam
 Vinh Hoa Hung Bac
 Dinh An
@@ -10721,7 +9786,6 @@ Ganh Dau
 An Thoi
 Hon Thom
 Tho Chau
-Thoi Binh
 Cai Khe
 An Hoa
 An Nghiep
@@ -10734,7 +9798,6 @@ Xuan Khanh
 Hung Loi
 An Khanh
 An Binh
-Binh Thuy
 Bui Huu Nghia
 Tra An
 Tra Noc
@@ -10749,9 +9812,7 @@ Thoi An
 Thoi Long
 Long Hung
 Thoi Hoa
-Thot Not
 Thoi Thuan
-Thuan An
 Trung Nhut
 Thanh Hoa
 Trung Kien
@@ -10769,20 +9830,16 @@ Thanh Tien
 Thanh Loc
 Vinh Binh
 Vinh Trinh
-Co Do
 Thoi Hung
 Trung Thanh
 Trung An
 Trung Hung
-Thanh Phu
 Thoi Dong
 Thoi Xuan
 Dong Thang
 Dong Hiep
-Thoi Lai
 Dinh Mon
 Thoi Thanh
-Tan Thanh
 Xuan Thang
 Thoi Tan
 Dong Thuan
@@ -10792,7 +9849,6 @@ Truong Xuan B
 Truong Xuan
 Truong Thang
 Truong Thanh
-Phong Dien
 My Khanh
 Giai Xuan
 Tan Thoi
@@ -10818,10 +9874,8 @@ Hoa Tien
 Nang Mau
 Vi Thang
 Vi Trung
-Vinh Tuong
 Vinh Trung
 Vi Binh
-Vi Thanh
 Vi Dong
 Vi Thuy
 Vinh Thuan Tay
@@ -10833,10 +9887,8 @@ Xa Phien
 Thuan Hoa
 Thuan Hung
 Vinh Thuan Dong
-Binh Thanh
 Vinh Tuong
 Thuan An
-Long Phu
 Long Tri A
 Long Binh
 Long Tri
@@ -10854,10 +9906,8 @@ Thanh Hoa
 Binh Thanh
 Tan Binh
 Kinh Cung
-Hoa An
 Phuong Binh
 Phuong Phu
-Nga Bay
 Dai Thanh
 Hiep Loi
 Lai Hieu
@@ -10869,7 +9919,6 @@ Phu An
 Dong Thanh
 Dong Phuoc A
 Dong Phuoc
-Phu Tan
 Mai Dam
 Dong Phu
 Mot Ngan
@@ -10900,7 +9949,6 @@ Hau Thanh
 Truong Khanh
 Phu Huu
 Chau Khanh
-Tan Thanh
 Tan Hung
 Long Phu
 Ke Sach
@@ -10923,12 +9971,10 @@ Thuan Hoa
 Thien My
 An Ninh
 An Hiep
-Phu Tan
 Huynh Huu Nghia
 Long Hung
 Hung Phu
 My Huong
-My Tu
 My Phuoc
 Thuan Hung
 My Thuan
@@ -10949,12 +9995,9 @@ Lam Tan
 Thanh Tan
 Thanh Tri
 Vinh Thanh
-Vinh Loi
 Chau Hung
-My Xuyen
 Tham Don
 Dai Tam
-Thanh Phu
 Hoa Tu 1
 Ngoc Dong
 Ngoc To
@@ -10962,7 +10005,6 @@ Gia Hoa 1
 Thanh Quoi
 Gia Hoa 2
 Hoa Tu 2
-Tran De
 Dai An  2
 Trung Binh
 Lich Hoi Thuong
@@ -10983,7 +10025,6 @@ Vinh Hiep
 Vinh Phuoc
 Vinh Tan
 Lai Hoa
-Cu Lao Dung
 An Thanh Dong
 An Thanh 1
 An Thanh Tay
@@ -11019,7 +10060,6 @@ Ninh Hoa
 Ninh Quoi
 Ninh Quoi A
 Phuoc Long
-Phuoc Long
 Phong Thanh Tay A
 Phong Thanh Tay B
 Vinh Phu Tay
@@ -11041,7 +10081,6 @@ Long Dien Tay
 Dien Hai
 Long Dien Dong
 Long Dien Dong A
-Long Dien
 An Trach A
 An Trach
 Dinh Thanh
@@ -11072,19 +10111,16 @@ Dinh Binh
 Hoa Thanh
 Ly Van Lam
 Hoa Tan
-Thoi Binh
 Tri Phai
 Tri Luc
 Bien Bach Dong
 Tan Bang
 Bien Bach
-Thoi Binh
 Tan Phu
 Tan Loc Bac
 Tan Loc Dong
 Tan Loc
 Ho Thi Ky
-U Minh
 Khanh Thuan
 Khanh Hoa
 Khanh Tien
@@ -11092,7 +10128,6 @@ Khanh Hoi
 Khanh Lam
 Nguyen Phich
 Khanh An
-Tran Van Thoi
 Khanh Binh Dong
 Tran Hoi
 Khanh Hung
@@ -11104,28 +10139,22 @@ Khanh Binh Tay Bac
 Khanh Binh Tay
 Khanh Hai
 Song Doc
-Phong Dien
 Viet Khai
 Cai Doi Vam
 Rach Cheo
 Tan Hung Tay
 Tan Hai
-Phu Tan
 Phu My
 Phu Thuan
 Viet Thang
-Cai Nuoc
 Dong Thoi
-Dong Hung
 Tan Hung Dong
 Tran Thoi
 Tan Hung
 Hoa My
 Hung My
 Phu Hung
-Thanh Phu
 Luong The Tran
-Dam Doi
 Ta An Khuong  Nam
 Ta An Khuong
 Tan Trung
@@ -11141,7 +10170,6 @@ Ngoc Chanh
 Nguyen Huan
 Tan Tien
 Tan Thuan
-Nam Can
 Hang Vinh
 Hiep Tung
 Ham Rong

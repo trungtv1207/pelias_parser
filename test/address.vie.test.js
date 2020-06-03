@@ -32,6 +32,11 @@ const testcase = (test, common) => {
     { county: 'Cầu giấy' },
   ])
 
+  assert('Xuan thuy, xuan thuy', [
+    { street: 'Xuan thuy' },
+    { locality: 'xuan thuy' },
+  ])
+
 }
 
 

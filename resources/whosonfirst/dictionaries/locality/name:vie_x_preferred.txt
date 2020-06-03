@@ -4,7 +4,6 @@ Bạch Đằng
 Cao Thắng
 Hồng Hải
 Hà Lầm
-Hà Trung
 Hồng Hà
 Hà Tu
 Hà Phong
@@ -33,7 +32,6 @@ Mông Dương
 Dương Huy
 Quang Hanh
 Cẩm Thạch
-Cẩm Thủy
 Cái Rồng
 Vạn Yên
 Đài Xuyên
@@ -45,8 +43,6 @@ Ngọc Vừng
 Quan Lạn
 Bản Sen
 Minh Châu
-Hạ Long
-Cô Tô
 Thanh Lân
 Đồng Tiến
 Hoà Lạc
@@ -55,12 +51,10 @@ Trần Phú
 Ka Long
 Ninh Dương
 Hải Yên
-Bắc Sơn
 Hải Sơn
 Quảng Nghĩa
 Hải Tiến
 Hải Đông
-Vạn Ninh
 Vĩnh Trung
 Vĩnh Thực
 Bình Ngọc
@@ -79,30 +73,21 @@ Quảng Thịnh
 Quảng Chính
 Quảng Trung
 Phú Hải
-Quảng Điền
 Tiến Tới
 Cái Chiên
-Bình Liêu
 Húc Động
-Đồng Văn
 Hoành Mô
 Đồng Tâm
 Lục Hồn
 Tình Húc
 Vô Ngại
-Đầm Hà
 Quảng Tân
 Quảng Lợi
-Tân Bình
 Quảng Lâm
 Quảng An
 Dực Yên
 Đại Bình
 Tân Lập
-Đầm Hà
-Tiên Yên
-Tiên Lãng
-Đông Hải
 Đông Ngũ
 Đại Dực
 Đại Thành
@@ -112,9 +97,7 @@ Hà Lâu
 Yên Than
 Hải Lạng
 Đồng Rui
-Ba Chẽ
 Nam Sơn
-Thanh Sơn
 Thanh Lâm
 Lương Mông
 Minh Cầm
@@ -122,27 +105,21 @@ Minh Cầm
 Đồn Đạc
 Trới
 Lê Lợi
-Sơn Dương
 Đồng Lâm
-Thống Nhất
 Vũ Oai
-Hòa Bình
 Kỳ Thượng
 Đồng Sơn
 Dân Chủ
 Tân Dân
 Quảng La
 Bằng Cả
-Quảng Yên
 Hà An
 Hoàng Tân
-Tân An
 Tiền An
 Minh Thành
 Đông Mai
 Sông Khoai
 Cộng Hòa
-Hiệp Hòa
 Yên Giang
 Nam Hòa
 Yên Hải
@@ -152,9 +129,7 @@ Tiền Phong
 Liên Hòa
 Phong Hải
 Cẩm La
-Thanh Sơn
 Quang Trung
-Bắc Sơn
 Vàng Danh
 Thượng Yên Công
 Phương Đông
@@ -163,11 +138,9 @@ Yên Thanh
 Điền Công
 Trưng Vương
 Nam Khê
-Đông Triều
 Đức Chính
 Tràng An
 Xuân Sơn
-Kim Sơn
 Mạo Khê
 Yên Thọ
 Yên Đức
@@ -195,19 +168,14 @@ Hải Tân
 Ngọc Châu
 Nhị Châu
 Cẩm Thượng
-Thanh Bình
-Tân Bình
 Thạch Khôi
-Tân Hưng
 Nam Đồng
 Ái Quốc
 An Châu
 Thượng Đạt
 Việt Hòa
 Tứ Minh
-Thanh Hà
 Thanh Xá
-Thanh Xuân
 Liên Mạc
 Thanh Lang
 Thanh An
@@ -218,12 +186,8 @@ Hồng Lạc
 Quyết Thắng
 Tiền Tiến
 Thanh Hải
-Tân An
-Thanh Khê
 An Lương
 Phượng Hoàng
-Thanh Sơn
-Thanh Thủy
 Trường Thành
 Thanh Hồng
 Vĩnh Lập
@@ -244,14 +208,12 @@ Kim Đính
 Bình Dân
 Liên Hòa
 Đại Đức
-Tam Kỳ
 Đồng Gia
 Cẩm La
 Kim Tân
 Kim Khê
 Kim Anh
 Kim Lương
-Kinh Môn
 Phú Thứ
 Minh Tân
 Duy Tân
@@ -263,7 +225,6 @@ Phúc Thành B
 Quang Trung
 Thăng Long
 Lạc Long
-Hiệp Hòa
 Thái Sơn
 Phạm Mệnh
 Hiệp Sơn
@@ -271,7 +232,6 @@ An Sinh
 Thượng Quận
 An Phụ
 Hiệp An
-Long Xuyên
 Hiến Thành
 Minh Hòa
 Thái Thịnh
@@ -294,7 +254,6 @@ An Lạc
 Kênh Giang
 Tân Dân
 Đồng Lạc
-Nam Sách
 An Lâm
 Phú Điền
 Cộng Hòa
@@ -313,7 +272,6 @@ Minh Tân
 Hồng Phong
 Nam Hồng
 Đồng Lạc
-Cẩm Giàng
 Lai Cách
 Cao An
 Đức Chính
@@ -332,15 +290,12 @@ Cẩm Phúc
 Tân Trường
 Cẩm Đông
 Cẩm Đoài
-Gia Lộc
 Gia Khánh
 Gia Lương
 Tân Tiến
 Gia Xuyên
 Gia Tân
 Liên Hồng
-Thống Nhất
-Trùng Khánh
 Yết Kiêu
 Gia Hòa
 Phương Hưng
@@ -359,27 +314,20 @@ Kẻ Sặt
 Tráng Liệt
 Thúc Kháng
 Thái Dương
-Thái Hòa
-Tân Hồng
-Bình Minh
 Thái Học
-Bình Xuyên
 Nhân Quyền
 Cổ Bi
 Hồng Khê
-Long Xuyên
 Tân Việt
 Hùng Thắng
 Vĩnh Tuy
 Vĩnh Hồng
 Hưng Thịnh
-Thanh Miện
 Lam Sơn
 Phạm Kha
 Thanh Tùng
 Đoàn Tùng
 Hồng Quang
-Ngô Quyền
 Tân Trào
 Đoàn Kết
 Lê Hồng
@@ -392,7 +340,6 @@ Thanh Giang
 Ngũ Hùng
 Tứ Cường
 Hùng Sơn
-Ninh Giang
 Đồng Tâm
 Vĩnh Hòa
 Ninh Thành
@@ -400,7 +347,6 @@ Tân Hương
 Nghĩa An
 Quyết Thắng
 Ứng Hoè
-Ninh Hòa
 Hồng Đức
 Vạn Phúc
 An Đức
@@ -408,29 +354,24 @@ Hoàng Hanh
 Quang Hưng
 Tân Quang
 Văn Hội
-Văn Giang
 Hưng Thái
 Hưng Long
 Hồng Phúc
 Tân Phong
 Kiến Quốc
 Đông Xuyên
-Ninh Hải
 Hồng Dụ
 Hồng Thái
 Hồng Phong
 Hiệp Lực
-Tứ Kỳ
 Đông Kỳ
 Quang Phục
 Bình Lăng
 Tái Sơn
 Hưng Đạo
 Đại Đồng
-Kỳ Sơn
 Ngọc Sơn
 Ngọc Kỳ
-Tân Kỳ
 Dân Chủ
 Quảng Nghiệp
 Đại Hợp
@@ -488,16 +429,13 @@ Minh Tân
 Gia Minh
 Lưu Kỳ
 Liên Khê
-Kỳ Sơn
 Lại Xuân
 An Sơn
-Phù Ninh
 Hợp Thành
 Quảng Thanh
 Chính Mỹ
 Lưu Kiếm
 Kênh Giang
-Đông Sơn
 Mỹ Đồng
 Cao Nhân
 Kiền Bái
@@ -508,9 +446,7 @@ Thuỷ Sơn
 Hoa Động
 Tân Dương
 Dương Quan
-An Dương
 Nam Sơn
-Bắc Sơn
 Tân Tiến
 An Hưng
 An Hồng
@@ -524,7 +460,6 @@ Quốc Tuấn
 Hồng Thái
 Đồng Thái
 An Đồng
-An Lão
 An Tiến
 Trường Thành
 Trường Thọ
@@ -536,7 +471,6 @@ Tân Viên
 Chiến Thắng
 An Thọ
 An Thái
-Mỹ Đức
 Thái Sơn
 Tân Dân
 Trường Sơn
@@ -549,21 +483,17 @@ Văn Đẩu
 Đồng Hoà
 Lãm Hà
 Quán Trữ
-Bắc Sơn
 Nam Sơn
 Trại Cau
-An Biên
 Cát Dài
 Hồ Nam
 Trần Nguyên Hãn
-An Dương
 Lam Sơn
 Niệm Nghĩa
 Nghĩa Xá
 Vĩnh Niệm
 Dư Hàng Kênh
 Kênh Dương
-Đông Hải
 Hàng Kênh
 Dư Hàng
 Đằng Lâm
@@ -597,7 +527,6 @@ Du Lễ
 Ngũ Phúc
 Kiến Quốc
 Thuỵ Hương
-Thanh Sơn
 Đại Hà
 Tân Trào
 Đoàn Xá
@@ -605,7 +534,6 @@ Tân Trào
 Tú Sơn
 Tân Phong
 Ngũ Đoan
-Tiên Lãng
 Quyết Tiến
 Tự Cường
 Đại Thắng
@@ -620,7 +548,6 @@ Bạch Đằng
 Tiên Minh
 Nam Hưng
 Tây Hưng
-Đông Hưng
 Tiên Hưng
 Vinh Quang
 Hùng Thắng
@@ -628,7 +555,6 @@ Bắc Hưng
 Tiên Thắng
 Toàn Thắng
 Quang Phục
-Vĩnh Bảo
 Tân Liên
 Việt Tiến
 Vĩnh An
@@ -636,10 +562,8 @@ Giang Biên
 Dũng Tiến
 Trung Lập
 Thắng Thuỷ
-Vĩnh Long
 Hiệp Hoà
 Hùng Tiến
-Tân Hưng
 An Hoà
 Hưng Nhân
 Đồng Minh
@@ -663,10 +587,8 @@ Việt Hải
 Gia Luận
 Phù Long
 Đồng Bài
-Nghĩa Lộ
 Hoàng Châu
 Văn Phong
-Cát Hải
 Hiền Hào
 Xuân Đám
 Trân Châu
@@ -677,9 +599,7 @@ Lê Hồng Phong
 Hoàng Diệu
 Đông Mỹ
 Đông Thọ
-Đông Hòa
 Tiền Phong
-Tân Bình
 Phú Xuân
 Phú Khánh
 Kỳ Bá
@@ -691,8 +611,6 @@ Vũ Lạc
 Vũ Đông
 Thanh Nê
 An Bồi
-Bình Minh
-Hòa Bình
 Đình Phùng
 Nam Cao
 Thượng Hiền
@@ -714,7 +632,6 @@ Vũ Quí
 Vũ Trung
 Vũ Thắng
 Vũ Hòa
-Quang Bình
 Vũ Công
 Vũ Bình
 Minh Tân
@@ -726,24 +643,19 @@ Quang Hưng
 Quang Trung
 Minh Hưng
 Quang Minh
-Tiền Hải
-Tây Sơn
 Đông Cơ
 Đông Minh
 Đông Hoàng
 Đông Long
-Đông Hải
 Đông Trà
 Đông Xuyên
 Đông Quí
 Đông Trung
 Đông Phong
-Tây Ninh
 Tây Lương
 Vũ Lăng
 Tây An
 An Ninh
-Tây Giang
 Phương Công
 Tây Phong
 Vân Trường
@@ -797,14 +709,12 @@ Thái Học
 Thái Thịnh
 Thái Thành
 Thái Thọ
-Mỹ Lộc
 Thái Đô
 Thái Hoà
 Thái An
 Thái Xuyên
 Thái Tân
 Thái Hưng
-Thái Nguyên
 Thái Thuỷ
 Thụy Liên
 Thụy Hà
@@ -813,7 +723,6 @@ Quỳnh Côi
 Quỳnh Hồng
 Quỳnh Minh
 An Thái
-An Khê
 An Đồng
 An Hiệp
 Quỳnh Thọ
@@ -834,7 +743,6 @@ Quỳnh Hải
 Quỳnh Hội
 Quỳnh Xá
 An Vinh
-Đông Hải
 An Tràng
 Đồng Tiến
 An Mỹ
@@ -847,21 +755,14 @@ An Quí
 An ấp
 An Cầu
 An Ninh
-Hưng Hà
 Minh Khai
-Hồng Lĩnh
 Hoà Bình
-Chi Lăng
 Tây Đô
-Thống Nhất
 Đông Đô
-Bắc Sơn
 Văn Cẩm
-Duyên Hải
 Dân Chủ
 Điệp Nông
 Hùng Dũng
-Đoan Hùng
 Tân Tiến
 Phúc Khánh
 Hòa Tiến
@@ -882,17 +783,12 @@ Minh Hòa
 Hồng Minh
 Chí Hòa
 Văn Lang
-Đông Hưng
 Đông Xá
 Đông Cường
 Đông Phương
-Đông Sơn
 Đông La
 Liên Giang
-Đô Lương
 An Châu
-Phú Lương
-Mê Linh
 Hợp Tiến
 Chương Dương
 Lô Giang
@@ -903,9 +799,7 @@ Hồng Châu
 Bạch Đằng
 Hồng Giang
 Hoa Nam
-Hoa Lư
 Minh Châu
-Đồng Phú
 Trọng Quan
 Phú Châu
 Phong Châu
@@ -924,9 +818,6 @@ Nguyên Xá
 Đông Lĩnh
 Đông Tân
 Đông Kinh
-Đông Giang
-Đông Hà
-Vũ Thư
 Minh Quang
 Tân Hòa
 Tân Phong
@@ -934,7 +825,6 @@ Phúc Thành
 Minh Lãng
 Minh Khai
 Song Lãng
-Hiệp Hòa
 Xuân Hòa
 Đồng Thanh
 Hồng Lý
@@ -955,16 +845,12 @@ Vũ Hội
 Việt Thuận
 Trung An
 Song An
-Hòa Bình
 Bà Triệu
 Quang Trung
 Nguyễn Du
 Vị Hoàng
-Vị Xuyên
 Trần Tế Xương
-Hạ Long
 Lộc Hạ
-Thống Nhất
 Lộc Vượng
 Cửa Bắc
 Lộc Hoà
@@ -980,8 +866,6 @@ Nam Phong
 Cửa Nam
 Phan Đình Phùng
 Trần Hưng Đạo
-Ngô Quyền
-Mỹ Lộc
 Mỹ Thắng
 Mỹ Trung
 Mỹ Tân
@@ -1012,21 +896,15 @@ Minh Tân
 Kim Thái
 Lâm
 Yên Dương
-Yên Mỹ
-Yên Minh
-Yên Bình
 Yên Lợi
 Yên Tân
 Yên Nghĩa
 Yên Trung
-Yên Thành
 Yên Thọ
 Yên Phương
 Yên Chính
 Yên Phú
 Yên Hưng
-Yên Khánh
-Yên Phong
 Yên Quang
 Yên Hồng
 Yên Tiến
@@ -1067,7 +945,6 @@ Nghĩa Tân
 Nghĩa Bình
 Nghĩa Phong
 Nghĩa Hồng
-Nam Giang
 Nam Hùng
 Nam Hoa
 Nam Hồng
@@ -1080,7 +957,6 @@ Hồng Quang
 Nghĩa An
 Nam Cường
 Nam Dương
-Bình Minh
 Nam Tiến
 Đồng Sơn
 Nam Thái
@@ -1108,7 +984,6 @@ Việt Hùng
 Liêm Hải
 Phương Định
 Trực Chính
-Xuân Trường
 Xuân Tiến
 Xuân Kiên
 Xuân Ninh
@@ -1150,9 +1025,7 @@ Giao Hương
 Giao Thanh
 Hồng Thuận
 Bình Hòa
-Yên Định
 Hải Thanh
-Hải Hà
 Hải Phúc
 Hải Nam
 Hải Vân
@@ -1164,10 +1037,8 @@ Hải Minh
 Hải Đường
 Hải Phong
 Hải Toàn
-Hải An
 Hải Giang
 Hải Ninh
-Hải Châu
 Thịnh Long
 Hải Triều
 Hải Hòa
@@ -1185,11 +1056,9 @@ Hải Quang
 Hải Lộc
 Hải Phương
 Hải Long
-Thanh Bình
 Vân Giang
 Nam Bình
 Ninh Phong
-Ninh Sơn
 Ninh Phúc
 Bích Đào
 Đông Thành
@@ -1201,12 +1070,9 @@ Nam Thành
 Ninh Tiến
 Thiên Tôn
 Ninh Khang
-Ninh Giang
 Ninh Mỹ
-Ninh Hòa
 Trường Yên
 Ninh Xuân
-Ninh Hải
 Ninh Thắng
 Ninh Vân
 Ninh An
@@ -1231,13 +1097,11 @@ Gia Lạc
 Gia Minh
 Gia Phong
 Gia Sinh
-Nho Quan
 Lạng Phong
 Lạc Vân
 Đức Long
 Gia Tường
 Gia Thủy
-Gia Lâm
 Gia Sơn
 Xích Thổ
 Thạch Bình
@@ -1249,37 +1113,25 @@ Thượng Hòa
 Thanh Lạc
 Sơn Thành
 Sơn Lai
-Sơn Hà
 Quỳnh Lưu
-Phú Lộc
 Văn Phú
 Văn Phương
 Cúc Phương
 Kỳ Phú
 Phú Long
 Quảng Lạc
-Bắc Sơn
 Trung Sơn
-Yên Bình
-Tân Bình
-Yên Sơn
 Quang Sơn
-Tây Sơn
 Nam Sơn
-Đông Sơn
 Yên Thịnh
-Yên Phong
 Khánh Thịnh
 Khánh Dương
 Khánh Thượng
-Mai Sơn
 Yên Thắng
 Yên Hòa
 Yên Hưng
 Yên Từ
 Yên Nhân
-Yên Mỹ
-Yên Thành
 Yên Mạc
 Yên Đồng
 Yên Thái
@@ -1302,7 +1154,6 @@ Lưu Phương
 Tân Thành
 Yên Lộc
 Lai Thành
-Định Hóa
 Văn Hải
 Kim Tân
 Kim Mỹ
@@ -1310,7 +1161,6 @@ Cồn Thoi
 Kim Hải
 Kim Trung
 Kim Đông
-Bình Minh
 Yên Ninh
 Khánh Lợi
 Khánh Thiện
@@ -1333,7 +1183,6 @@ Khánh Thành
 Hàng Trống
 Lý Thái Tổ
 Phúc Tân
-Đồng Xuân
 Hàng Buồm
 Hàng Bạc
 Hàng Đào
@@ -1356,7 +1205,6 @@ Giảng Võ
 Thành Công
 Kim Mã
 Đội Cấn
-Điện Biên
 Nguyễn Trung Trực
 Phúc Xá
 Trúc Bạch
@@ -1435,8 +1283,6 @@ Yên Sở
 Trần Phú
 Lĩnh Nam
 Mai Động
-Thanh Trì
-Vĩnh Hưng
 Hoàng Văn Thụ
 Tân Mai
 Tương Mai
@@ -1452,7 +1298,6 @@ Ngọc Thuỵ
 Ngọc Lâm
 Gia Thuỵ
 Bồ Đề
-Long Biên
 Cự Khối
 Thạch Bàn
 Phúc Lợi
@@ -1495,23 +1340,18 @@ Yên Nghĩa
 Biên Giang
 Đồng Mai
 Phú Lãm
-Phú Lương
 Kiến Hưng
 Phú La
-Sóc Sơn
 Tân Minh
 Bắc Phú
-Tân Hưng
 Trung Giã
 Hồng Kỳ
 Phù Linh
 Nam Sơn
-Bắc Sơn
 Minh Trí
 Minh Phú
 Tân Dân
 Hiền Ninh
-Thanh Xuân
 Quang Tiến
 Phú Cường
 Phú Minh
@@ -1524,7 +1364,6 @@ Xuân Thu
 Kim Lũ
 Xuân Giang
 Việt Long
-Đông Anh
 Uy Nỗ
 Việt Hùng
 Liên Hà
@@ -1552,7 +1391,6 @@ Trâu Quỳ
 Dương Xá
 Dương Quang
 Phú Thị
-Kim Sơn
 Lệ Chi
 Trung Mầu
 Phù Đổng
@@ -1571,7 +1409,6 @@ Văn Đức
 Đa Tốn
 Kiêu Kỵ
 Văn Điển
-Yên Mỹ
 Tứ Hiệp
 Tam Hiệp
 Thanh Liệt
@@ -1580,7 +1417,6 @@ Hữu Hoà
 Vĩnh Quỳnh
 Tả Thanh Oai
 Đại Áng
-Ngọc Hồi
 Liên Ninh
 Đông Mỹ
 Vạn Phúc
@@ -1598,7 +1434,6 @@ Cổ Đô
 Vạn Thắng
 Phú Đông
 Phong Vân
-Thái Hòa
 Đồng Thái
 Vật Lại
 Phú Sơn
@@ -1609,7 +1444,6 @@ Thuần Mỹ
 Ba Trại
 Minh Quang
 Khánh Thượng
-Ba Vì
 Yên Bài
 Vân Hòa
 Tản Lĩnh
@@ -1624,17 +1458,13 @@ Phú Thịnh
 Xuân Sơn
 Thanh Mỹ
 Xuân Khanh
-Kim Sơn
 Cổ Đông
 Sơn Đông
 Trung Sơn Trầm
 Sơn Lộc
 Trung Hưng
 Quang Trung
-Ngô Quyền
-Phúc Thọ
 Phúc Hòa
-Long Xuyên
 Thượng Cốc
 Hát Môn
 Vân Nam
@@ -1672,9 +1502,7 @@ Hoàng Kim
 Văn Khê
 Tráng Việt
 Tiền Phong
-Mê Linh
 Phùng
-Đan Phượng
 Thượng Mỗ
 Hạ Mỗ
 Tân Hội
@@ -1684,7 +1512,6 @@ Liên Hà
 Liên Hồng
 Hồng Hà
 Trung Châu
-Thọ Xuân
 Thọ An
 Phương Đình
 Đồng Tháp
@@ -1697,7 +1524,6 @@ Lại Thượng
 Bình Yên
 Tân
 Thạch Hoà
-Yên Bình
 Yên Trung
 Tiến Xuân
 Hạ Bằng
@@ -1727,13 +1553,10 @@ An Thượng
 La Phù
 An Khánh
 Lại Yên
-Vân Canh
 Di Trạch
 Kim Chung
 Sơn Đồng
 Đức Giang
-Quốc Oai
-Yên Sơn
 Phượng Cách
 Sài Sơn
 Ngọc Mỹ
@@ -1751,7 +1574,6 @@ Thạch Thán
 Cộng Hòa
 Đồng Quang
 Tân Hòa
-Tân Phú
 Đại Thành
 Chúc Sơn
 Phụng Châu
@@ -1761,8 +1583,6 @@ Trường Yên
 Phú Nghĩa
 Đông Phương Yên
 Trung Hòa
-Thanh Bình
-Đông Sơn
 Thủy Xuân Tiên
 Xuân Mai
 Nam Phương Tiến
@@ -1773,7 +1593,6 @@ Mỹ Lương
 Trần Phú
 Đồng Lạc
 Hồng Phong
-Đồng Phú
 Hòa Chính
 Phú Nam An
 Văn Võ
@@ -1791,7 +1610,6 @@ Thanh Văn
 Thanh Thùy
 Tam Hưng
 Mỹ Hưng
-Bình Minh
 Cự Khê
 Bích Hòa
 Cao Viên
@@ -1806,7 +1624,6 @@ Xuân Dương
 Hồng Dương
 Liên Châu
 Tân Ước
-Thường Tín
 Hà Hồi
 Vân Tảo
 Thư Phú
@@ -1817,7 +1634,6 @@ Duyên Thái
 Văn Bình
 Nhị Khê
 Khánh Hà
-Hòa Bình
 Văn Phú
 Tiền Phong
 Tân Minh
@@ -1828,7 +1644,6 @@ Tô Hiệu
 Văn Tự
 Minh Cường
 Vạn Điểm
-Thống Nhất
 Lê Lợi
 Thắng Lợi
 Quất Động
@@ -1851,8 +1666,6 @@ Hồng Sơn
 Hợp Tiến
 Hợp Thanh
 An Tiến
-An Phú
-Hương Sơn
 Hùng Tiến
 Đốc Tín
 Vạn Kim
@@ -1886,7 +1699,6 @@ Minh Đức
 Đồng Tân
 Trung Tú
 Tảo Dương Văn
-Phú Xuyên
 Phúc Tiến
 Tri Thủy
 Khai Thái
@@ -1896,7 +1708,6 @@ Phú Minh
 Thụy Phú
 Văn Nhân
 Nam Phong
-Sơn Hà
 Quang Trung
 Tân Dân
 Đại Thắng
@@ -1915,8 +1726,6 @@ Bạch Hạ
 Minh Tân
 Quang Lãng
 Tích Sơn
-Đống Đa
-Ngô Quyền
 Khai Quang
 Liên Bảo
 Định Trung
@@ -1943,15 +1752,12 @@ Hồ Sơn
 Yên Dương
 Bồ Lý
 Tam Quan
-Tam Đảo
 Minh Quang
-Lập Thạch
 Tử Du
 Bàn Giản
 Liên Hòa
 Hoa Sơn
 Liễn Sơn
-Thái Hòa
 Bắc Bình
 Hợp Lý
 Quang Sơn
@@ -1963,7 +1769,6 @@ Văn Quán
 Sơn Đông
 Triệu Đề
 Đình Chu
-Tiên Lữ
 Đồng Ích
 Tam Sơn
 Nhạo Sơn
@@ -1978,11 +1783,9 @@ Phương Khoan
 Như Thụy
 Tứ Yên
 Đức Bác
-Cao Phong
 Đồng Thịnh
 Yên Thạch
 Tân Lập
-Vĩnh Tường
 Tứ Trưng
 Vân Xuân
 Vũ Di
@@ -1991,11 +1794,8 @@ Vĩnh Sơn
 Thổ Tang
 Đại Đồng
 Tân Tiến
-Nghĩa Hưng
 Chấn Hưng
-Yên Bình
 Kim Xá
-Yên Lập
 Việt Xuân
 Lũng Hoà
 Bồ Sao
@@ -2003,7 +1803,6 @@ Cao Đại
 Tân Cương
 Thượng Trưng
 Phú Thịnh
-Lý Nhân
 Tuân Chính
 An Tường
 Vĩnh Thịnh
@@ -2011,10 +1810,8 @@ Vĩnh Ninh
 Phú Đa
 Ngũ Kiên
 Tam Phúc
-Yên Lạc
 Bình Định
 Đồng Cương
-Đồng Văn
 Trung Nguyên
 Tề Lỗ
 Tam Hồng
@@ -2034,7 +1831,6 @@ Bá Hiến
 Trung Mỹ
 Thiện Kế
 Gia Khánh
-Hương Sơn
 Tam Hợp
 Quất Lưu
 Tân Phong
@@ -2046,7 +1842,6 @@ Trưng Nhị
 Phúc Thắng
 Nam Viêm
 Xuân Hoà
-Đồng Xuân
 Ngọc Thanh
 Cao Minh
 Tiền Châu
@@ -2136,18 +1931,13 @@ Lai Hạ
 Trung Kênh
 An Thịnh
 Mỹ Hương
-Phú Hòa
 Tân Lãng
 Quảng Phú
 Bình Định
-Lâm Thao
-Phú Lương
-Gia Bình
 Xuân Lai
 Nhân Thắng
 Bình Dương
 Cao Đức
-Vạn Ninh
 Thái Bảo
 Đại Lai
 Song Giang
@@ -2169,7 +1959,6 @@ Phượng Mao
 Mộ Đạo
 Yên Giả
 Hán Quảng
-Chi Lăng
 Bồng Lai
 Cách Bi
 Đào Viên
@@ -2192,11 +1981,9 @@ Quảng Châu
 Phú Cường
 Hùng Cường
 Phương Chiểu
-Tân Hưng
 Hoàng Hanh
 Vương
 Hưng Đạo
-Ngô Quyền
 Nhật Tân
 Dị Chế
 Lệ Xá
@@ -2223,9 +2010,7 @@ Tam Đa
 Minh Tiến
 Nguyên Hòa
 Tống Trân
-Ân Thi
 Phù Ủng
-Bắc Sơn
 Bãi Sậy
 Đào Dương
 Tân Phúc
@@ -2265,10 +2050,8 @@ Việt Hưng
 Tân Quang
 Đình Dù
 Minh Hải
-Lương Tài
 Trưng Trắc
 Lạc Hồng
-Văn Giang
 Xuân Quan
 Cửu Cao
 Phụng Công
@@ -2279,7 +2062,6 @@ Liên Nghĩa
 Tân Tiến
 Thắng Lợi
 Mễ Sở
-Yên Mỹ
 Giai Phạm
 Nghĩa Hiệp
 Đồng Than
@@ -2296,9 +2078,7 @@ Minh Châu
 Trung Hưng
 Lý Thường Kiệt
 Tân Việt
-Khoái Châu
 Đông Tảo
-Bình Minh
 Dạ Trạch
 Hàm Tử
 Ông Đình
@@ -2310,7 +2090,6 @@ Bình Kiều
 Dân Tiến
 Đồng Tiến
 Hồng Tiến
-Tân Châu
 Liên Khê
 Phùng Hưng
 Việt Hòa
@@ -2352,7 +2131,6 @@ Thanh Tuyền
 Thanh Châu
 Liêm Chính
 Trần Hưng Đạo
-Hai Bà Trưng
 Minh Khai
 Liêm Chung
 Trịnh Xá
@@ -2369,7 +2147,6 @@ Bạch Thượng
 Duy Minh
 Duy Hải
 Hoàng Đông
-Đồng Văn
 Tiên Nội
 Tiên Ngoại
 Châu Sơn
@@ -2387,18 +2164,14 @@ Nhật Tựu
 Lê Hồ
 Nguyễn Úy
 Tượng Lĩnh
-Tân Sơn
 Thụy Lôi
 Ngọc Sơn
 Khả Phong
 Ba Sao
 Liên Sơn
-Thanh Sơn
 Thi Sơn
-Thanh Hà
 Thanh Phong
 Kiện Khê
-Thanh Thủy
 Thanh Tân
 Thanh Hương
 Thanh Nghị
@@ -2410,7 +2183,6 @@ Liêm Túc
 Liêm Thuận
 Liêm Phong
 Liêm Cần
-Thanh Bình
 Thanh Lưu
 Bình Mỹ
 An Mỹ
@@ -2426,7 +2198,6 @@ Tràng An
 Đồn Xá
 Mỹ Thọ
 La Sơn
-An Lão
 Tiêu Động
 An Đổ
 Trung Lương
@@ -2462,7 +2233,6 @@ Nguyễn Trãi
 Minh Khai
 Phương Độ
 Phương Thiện
-Vị Xuyên
 Ngọc Linh
 Ngọc Minh
 Linh Hồ
@@ -2471,7 +2241,6 @@ Kim Thạch
 Tùng Bá
 Thuận Hòa
 Minh Tân
-Thanh Thủy
 Thanh Đức
 Xín Chải
 Lao Chải
@@ -2513,11 +2282,9 @@ Tùng Vài
 Tả Ván
 Thanh Vân
 Quyết Tiến
-Quản Bạ
 Đông Hà
 Thái An
 Lùng Tám
-Mèo Vạc
 Giàng Chu Phìn
 Xín Cái
 Thượng Phùng
@@ -2535,7 +2302,6 @@ Tả Lủng
 Cán Chu Phìn
 Lũng Phù
 Sơn Vĩ
-Đồng Văn
 Má Lé
 Lũng Cú
 Lũng Táo
@@ -2583,7 +2349,6 @@ Cốc Pài
 Thèn Phàng
 Bản Díu
 Nàn Xỉn
-Xín Mần
 Chí Cà
 Pà Vầy Sủ
 Nàn Ma
@@ -2598,20 +2363,17 @@ Cốc Rế
 Thu Tà
 Ngán Chiên
 Trung Thịnh
-Yên Bình
 Tân Bắc
 Tân Thịnh
 Xuân Minh
 Tiên Nguyên
 Tân Nam
-Yên Thành
 Bản Rịa
 Bằng Lang
 Nà Khương
 Xuân Giang
 Tiên Yên
 Vĩ Thương
-Hương Sơn
 Yên Hà
 Việt Quang
 Việt Vinh
@@ -2637,10 +2399,8 @@ Thượng Bình
 Kim Ngọc
 Bằng Hành
 Yên Phú
-Yên Phong
 Giáp Trung
 Minh Sơn
-Yên Định
 Minh Ngọc
 Lạc Nông
 Thượng Tân
@@ -2649,7 +2409,6 @@ Yên Cường
 Đường Hồng
 Đường Âm
 Phú Nam
-Yên Phong
 Hợp Giang
 Sông Bằng
 Ngọc Xuân
@@ -2667,7 +2426,6 @@ Dân Chủ
 Đức Long
 Trương Lương
 Công Trừng
-Bình Long
 Hồng Việt
 Hoàng Tung
 Bình Dương
@@ -2711,18 +2469,15 @@ Quang Vinh
 Lưu Ngọc
 Cao Chương
 Quốc Toản
-Thông Nông
 Đa Thông
 Lương Thông
 Vị Quang
 Cần Yên
 Cần Nông
 Ngọc Động
-Yên Sơn
 Thanh Long
 Bình Lãng
 Lương Can
-Bảo Lạc
 Cô Ba
 Thượng Hà
 Cốc Pàng
@@ -2736,7 +2491,6 @@ Sơn Lập
 Đình Phùng
 Huy Giáp
 Hồng An
-Xuân Trường
 Phan Thanh
 Khánh Xuân
 Pác Mi Ầu
@@ -2753,12 +2507,10 @@ Quảng Lâm
 Thái Học
 Yên Thổ
 Thái Sơn
-Nguyên Bình
 Minh Thanh
 Thái Học
 Thể Dục
 Triệu Nguyên
-Yên Lạc
 Ca Thành
 Vũ Nông
 Tĩnh Túc
@@ -2802,7 +2554,6 @@ Thanh Nhật
 Quang Long
 Đồng Loan
 Lý Quốc
-Minh Long
 Thắng Lợi
 Đức Quang
 Kim Loan
@@ -2812,7 +2563,6 @@ Cô Ngân
 Thị Hoa
 Thái Đức
 Việt Chu
-Trùng Khánh
 Khâm Thành
 Đình Phong
 Ngọc Khê
@@ -2832,7 +2582,6 @@ Cao Thăng
 Phong Châu
 Chí Viễn
 Đàm Thuỷ
-Quảng Uyên
 Độc Lập
 Bình Lăng
 Quảng Hưng
@@ -2854,7 +2603,6 @@ Nông Tiến
 Tràng Đà
 Tân Hà
 Minh Xuân
-Phan Thiết
 Ỷ La
 Tân Quang
 Hưng Thành
@@ -2880,7 +2628,6 @@ Phú Lâm
 Nhữ Hán
 Nhữ Khê
 Đội Bình
-Tân Bình
 Hoàng Khai
 Kim Phú
 Trung Môn
@@ -2893,24 +2640,19 @@ Kim Quan
 Trung Sơn
 Hùng Lợi
 Trung Minh
-Vĩnh Lộc
 Ngọc Hội
-Phú Bình
 Bình Phú
-Yên Lập
 Hùng Mỹ
 Phúc Sơn
 Minh Quang
 Trung Hà
 Hà Lang
 Tân Mỹ
-Tân An
 Xuân Quang
 Phúc Thịnh
 Tân Thịnh
 Hòa Phú
 Yên Nguyên
-Hòa An
 Nhân Lý
 Bình Nhân
 Vinh Quang
@@ -2919,7 +2661,6 @@ Kim Bình
 Tri Phú
 Linh Phú
 Kiên Đài
-Na Hang
 Sơn Phú
 Đà Vị
 Hồng Thái
@@ -2934,12 +2675,10 @@ Thanh Tương
 Lăng Can
 Thượng Lâm
 Khuôn Hà
-Phúc Yên
 Xuân Lập
 Bình An
 Hồng Quang
 Thổ Bình
-Tân Yên
 Tân Thành
 Minh Hương
 Phù Lưu
@@ -2954,10 +2693,8 @@ Bằng Cốc
 Thành Long
 Hùng Đức
 Đức Ninh
-Thái Hòa
 Thái Sơn
 Bình Xa
-Sơn Dương
 Hợp Thành
 Lương Thiện
 Tân Trào
@@ -2966,7 +2703,6 @@ Minh Thanh
 Bình Yên
 Tú Thịnh
 Thượng Ấm
-Vĩnh Lợi
 Cấp Tiến
 Đông Thọ
 Quyết Thắng
@@ -2982,7 +2718,6 @@ Văn Phú
 Phúc Ứng
 Thanh Phát
 Đông Lợi
-Phú Lương
 Đại Phú
 Sơn Nam
 Ninh Lai
@@ -2993,7 +2728,6 @@ Kháng Nhật
 Phùng Chí Kiên
 Đức Xuân
 Nguyễn Thị Minh Khai
-Sông Cầu
 Xuất Hoá
 Huyền Tụng
 Dương Quang
@@ -3009,7 +2743,6 @@ Tú Trĩ
 Tân Tiến
 Quân Bình
 Hà Vị
-Cẩm Giàng
 Nguyên Phúc
 Mỹ Thanh
 Cao Sơn
@@ -3069,23 +2802,19 @@ Lương Bằng
 Nghĩa Tá
 Bình Trung
 Yên Nhuận
-Yên Mỹ
 Phong Huân
 Bằng Lãng
 Đại Sảo
 Đông Viên
-Chợ Mới
 Yên Đĩnh
 Như Cố
 Nông Hạ
 Cao Kỳ
-Tân Sơn
 Hoà Mục
 Thanh Vận
 Thanh Mai
 Mai Lạp
 Nông Thịnh
-Thanh Bình
 Quảng Chu
 Bình Văn
 Yên Hân
@@ -3140,17 +2869,14 @@ Thịnh Đức
 Tích Lương
 Phú Xá
 Cam Giá
-Hương Sơn
 Trung Thành
 Tân Thành
 Đồng Liên
 Hóa Thượng
 Hóa Trung
-Sông Cầu
 Quang Sơn
 Tân Long
 Văn Lăng
-Hòa Bình
 Minh Lập
 Khe Mo
 Nam Hòa
@@ -3172,17 +2898,14 @@ Lâu Thượng
 Liên Minh
 Tràng Xá
 Dân Tiến
-Bình Long
 Phương Giao
 Đu
 Động Đạt
-Yên Lạc
 Yên Ninh
 Yên Trạch
 Yên Đổ
 Ôn Lương
 Hợp Thành
-Phủ Lý
 Phấn Mễ
 Giang Tiên
 Cổ Lũng
@@ -3196,7 +2919,6 @@ Lam Vỹ
 Linh Thông
 Quy Kỳ
 Kim Phượng
-Kim Sơn
 Bảo Linh
 Phúc Chu
 Bảo Cường
@@ -3222,7 +2944,6 @@ Minh Tiến
 Phú Cường
 Na Mao
 Yên Lãng
-Phú Xuyên
 Phú Thịnh
 Bản Ngoại
 La Bằng
@@ -3230,7 +2951,6 @@ Hoàng Nông
 Tiên Hội
 Khôi Kỳ
 Mỹ Yên
-Văn Yên
 Ký Phú
 Cát Nê
 Quân Chu
@@ -3245,7 +2965,6 @@ Cù Vân
 An Khánh
 Ba Hàng
 Đồng Tiến
-Bắc Sơn
 Hồng Tiến
 Phúc Tân
 Đắc Sơn
@@ -3255,8 +2974,6 @@ Vạn Phái
 Phúc Thuận
 Nam Tiến
 Trung Thành
-Thuận Thành
-Tân Phú
 Đông Cao
 Tân Hương
 Tiên Phong
@@ -3267,11 +2984,8 @@ Mỏ Chè
 Thắng Lợi
 Phố Cò
 Cải Đan
-Lương Sơn
 Tân Quang
-Bình Sơn
 Vinh Sơn
-Hương Sơn
 Tân Hòa
 Tân Thành
 Tân Kim
@@ -3296,17 +3010,14 @@ Vĩnh Trại
 Hoàng Văn Thụ
 Hoàng Đồng
 Tam Thanh
-Chi Lăng
 Quảng Lạc
 Mai Pha
-Cao Lộc
 Hợp Thành
 Hòa Cư
 Hải Yến
 Cao Lâu
 Lộc Yên
 Thanh Loà
-Bảo Lâm
 Đồng Đăng
 Thạch Đạn
 Thụy Hùng
@@ -3352,10 +3063,8 @@ Vĩnh Tiến
 Khánh Long
 Đoàn Kết
 Cao Minh
-Tân Yên
 Tân Tiến
 Kim Đồng
-Chi Lăng
 Đề Thám
 Bắc Ái
 Hùng Sơn
@@ -3365,13 +3074,11 @@ Quốc Việt
 Đào Viên
 Trung Thành
 Tân Minh
-Bình Gia
 Tô Hiệu
 Minh Khai
 Hồng Phong
 Hoa Thám
 Hưng Đạo
-Vĩnh Yên
 Quý Hòa
 Yên Lỗ
 Quang Trung
@@ -3379,13 +3086,11 @@ Thiện Thuật
 Thiện Hòa
 Thiện Long
 Tân Hòa
-Hòa Bình
 Mông Ân
 Hoàng Văn Thụ
 Tân Văn
 Hồng Thái
 Bình La
-Bắc Sơn
 Quỳnh Sơn
 Long Đống
 Vạn Thủy
@@ -3402,17 +3107,13 @@ Tân Hương
 Vũ Lăng
 Chiêu Vũ
 Hữu Vĩnh
-Bắc Sơn
 Hưng Vũ
-Trấn Yên
 Văn Quan
 Vĩnh Lại
 Song Giang
 Trấn Ninh
-Phú Mỹ
 Việt Yên
 Vân Mộng
-Hòa Bình
 Tú Xuyên
 Lương Năng
 Tri Lễ
@@ -3429,26 +3130,19 @@ Khánh Khê
 Chu Túc
 Đại An
 Văn An
-Hữu Lũng
 Đồng Tân
 Cai Kinh
-Yên Sơn
 Hữu Liên
 Yên Thịnh
-Hòa Bình
-Yên Bình
 Quyết Thắng
 Thiện Kỵ
 Tân Lập
-Thanh Sơn
 Đồng Tiến
 Vân Nham
-Đô Lương
 Minh Tiến
 Yên Vượng
 Nhật Tiến
 Minh Sơn
-Sơn Hà
 Minh Hòa
 Hồ Sơn
 Hòa Thắng
@@ -3458,16 +3152,11 @@ Hòa Lạc
 Đồng Mỏ
 Mai Sao
 Thượng Cường
-Gia Lộc
 Bằng Hữu
 Bằng Mạc
 Vạn Linh
 Y Tịch
-Chi Lăng
-Chi Lăng
-Hòa Bình
 Quang Lang
-Quan Sơn
 Nhân Lý
 Lâm Sơn
 Hữu Kiên
@@ -3476,7 +3165,6 @@ Bắc Thủy
 Vân Thủy
 Chiến Thắng
 Vân An
-Lộc Bình
 Hữu Khánh
 Yên Khoái
 Mẫu Sơn
@@ -3505,11 +3193,9 @@ Khuất Xá
 Tĩnh Bắc
 Tam Gia
 Tú Mịch
-Đình Lập
 Kiên Mộc
 Bắc Xa
 Bính Xá
-Đình Lập
 Thái Bình
 Nông Trường Thái Bình
 Cường Lợi
@@ -3544,7 +3230,6 @@ Bích Sơn
 Trung Sơn
 Tiên Sơn
 Vân Hà
-Ninh Sơn
 Quảng Minh
 Nếnh
 Quang Châu
@@ -3560,7 +3245,6 @@ Lãng Sơn
 Trí Yên
 Quỳnh Sơn
 Lão Hộ
-Tân An
 Tân Dân
 Hương Gián
 Xuân Phú
@@ -3576,7 +3260,6 @@ Tư Mại
 Đồi Ngô
 Tiên Hưng
 Tiên Nha
-Đông Hưng
 Đông Phú
 Tam Dị
 Bảo Sơn
@@ -3585,20 +3268,17 @@ Thanh Lâm
 Phương Sơn
 Chu Điện
 Lan Mẫu
-Yên Sơn
 Vũ Xá
 Đan Hội
 Cẩm Lý
 Bắc Lũng
 Khám Lạng
 Huyền Sơn
-Lục Nam
 Cương Sơn
 Nghĩa Phương
 Trường Giang
 Vô Tranh
 Trường Sơn
-Bình Sơn
 Lục Sơn
 An Châu
 An Lập
@@ -3608,11 +3288,9 @@ Vân Sơn
 Hữu Sản
 Thạch Sơn
 Phúc Thắng
-Quế Sơn
 Chiên Sơn
 Giáo Liêm
 Cẩm Đàn
-Yên Định
 An Bá
 An Châu
 An Lạc
@@ -3621,7 +3299,6 @@ Long Sơn
 Bồng Am
 Tuấn Đạo
 Tuấn Mậu
-Thanh Sơn
 Thanh Luận
 Chũ
 Phì Điền
@@ -3630,11 +3307,9 @@ Tân Quang
 Đồng Cốc
 Tân Hoa
 Biển Động
-Kim Sơn
 Xa Lý
 Phong Minh
 Phong Vân
-Tân Sơn
 Cấm Sơn
 Sơn Hải
 Hộ Đáp
@@ -3652,15 +3327,10 @@ Phượng Sơn
 Tân Mộc
 Tân Lập
 Đèo Gia
-Phú Nhuận
 Vôi
-Yên Mỹ
-Tân Hưng
-Hương Sơn
 Kép
 Quang Thịnh
 Nghĩa Hòa
-Nghĩa Hưng
 Đào Mỹ
 An Hà
 Tân Thịnh
@@ -3688,7 +3358,6 @@ Tam Tiến
 Tam Hiệp
 Tiến Thắng
 An Thượng
-Tân Hiệp
 Phồn Xương
 Đồng Lạc
 Tân Sỏi
@@ -3696,7 +3365,6 @@ Bố Hạ
 Bố Hạ
 Đồng Kỳ
 Hương Vĩ
-Đông Sơn
 Cao Thượng
 Cao Thượng
 Hợp Đức
@@ -3707,7 +3375,6 @@ Nhã Nam
 Lan Giới
 Đại Hóa
 Quang Tiến
-An Dương
 Liên Sơn
 Cao Xá
 Ngọc Châu
@@ -3754,7 +3421,6 @@ Nậm Loỏng
 Tân Phong
 Đông Phong
 San Thàng
-Tam Đường
 Bình Lư
 Sơn Bình
 Hồ Thầu
@@ -3768,7 +3434,6 @@ Bản Hon
 Khun Há
 Nà Tăm
 Bản Bo
-Phong Thổ
 Khổng Lào
 Bản Lang
 Dào San
@@ -3786,7 +3451,6 @@ Mường So
 Lả Nhì Thàng
 Nậm Xe
 Sin Suối Hồ
-Mường Tè
 Bun Nưa
 Pa Vệ Sử
 Pa Ủ
@@ -3794,13 +3458,11 @@ Tá Bạ
 Thu Lũm
 Ka Lăng
 Mù Cả
-Mường Tè
 Nậm Khao
 Bun Tở
 Tà Tổng
 Kan Hồ
 Vàng San
-Nậm Nhùn
 Nậm Hàng
 Pú Đao
 Nậm Pì
@@ -3811,7 +3473,6 @@ Mường Mô
 Nậm Chà
 Nậm Manh
 Lê Lợi
-Sìn Hồ
 Phăng Sô Lin
 Ma Quai
 Phìn Hồ
@@ -3833,7 +3494,6 @@ Pu Sam Cáp
 Pa Khóa
 Nậm Tăm
 Lùng Thàng
-Tân Uyên
 Phúc Khoa
 Mường Khoa
 Thân Thuộc
@@ -3843,7 +3503,6 @@ Tà Mít
 Pắc Ta
 Hố Mít
 Trung Đồng
-Than Uyên
 Mường Than
 Phúc Than
 Mường Mít
@@ -3858,7 +3517,6 @@ Hua Nà
 Kim Tân
 Vạn Hoà
 Phố Mới
-Lào Cai
 Duyên Hải
 Cốc Lếu
 Đồng Tuyển
@@ -3866,9 +3524,7 @@ Bắc Cường
 Tả Phời
 Hợp Thành
 Cam Đường
-Thống Nhất
 Xuân Tăng
-Bình Minh
 Pom Hán
 Bắc Lệnh
 Nam Cường
@@ -3883,11 +3539,8 @@ Gia Phú
 Sơn Hải
 Xuân Giao
 Tằng Loỏng
-Phú Nhuận
-Sơn Hà
 Phố Lu
 Trì Quang
-Bắc Hà
 Tà Chải
 Thải Giàng Phố
 Tả Củ Tỷ
@@ -3908,7 +3561,6 @@ Nậm Lúc
 Bản Cái
 Nậm Khánh
 Bản Liền
-Si Ma Cai
 Nàn Sán
 Bản Mế
 Thào Chư Phìn
@@ -3921,12 +3573,10 @@ Cán Cấu
 Lử Thẩn
 Lùng Sui
 Sán Chải
-Mường Khương
 Tung Chung Phố
 Tả Ngải Chồ
 Pha Long
 Nậm Chảy
-Thanh Bình
 Lùng Vai
 Bản Lầu
 Bản Sen
@@ -3937,7 +3587,6 @@ Lùng Khấu Nhin
 Nấm Lư
 Dìn Chin
 Tả Gia Khâu
-Bát Xát
 Bản Qua
 Bản Vược
 Cốc Mỳ
@@ -3960,7 +3609,6 @@ Quang Kim
 Phìn Ngan
 Tòng Sành
 Cốc San
-Sa Pa
 Sa Pả
 Trung Chải
 Tả Phìn
@@ -4000,29 +3648,22 @@ Khánh Yên Hạ
 Liêm Phú
 Nậm Tha
 Chiềng Ken
-Tân An
 Phố Ràng
 Xuân Thượng
 Xuân Hoà
-Vĩnh Yên
 Nghĩa Đô
 Tân Tiến
 Điện Quan
 Thượng Hà
 Tân Dương
 Minh Tân
-Kim Sơn
 Cam Cọn
 Bảo Hà
-Yên Sơn
-Lương Sơn
-Long Khánh
 Long Phúc
 Việt Tiến
 Him Lam
 Thanh Minh
 Thanh Trường
-Thanh Bình
 Tân Thanh
 Mường Thanh
 Noong Bua
@@ -4053,7 +3694,6 @@ Na Tông
 Mường Nhà
 Phu Luông
 Mường Lói
-Điện Biên Đông
 Phì Nhừ
 Chiềng Sơ
 Xa Dung
@@ -4067,7 +3707,6 @@ Tìa Dình
 Háng Lìa
 Luân Giói
 Mường Luân
-Mường Ảng
 Ảng Tở
 Ngối Cáy
 Mường Đăng
@@ -4077,7 +3716,6 @@ Nặm Lịch
 Mường Lạn
 Xuân Lao
 Búng Lao
-Tuần Giáo
 Quài Cang
 Tỏa Tình
 Ta Ma
@@ -4096,7 +3734,6 @@ Chiềng Sinh
 Chiềng Đông
 Tênh Phông
 Quài Tở
-Tủa Chùa
 Mường Báng
 Xá Nhè
 Mường Đun
@@ -4111,7 +3748,6 @@ Sính Phình
 Na Lay
 Sông Đà
 Lay Nưa
-Mường Chà
 Huổi Mí
 Nậm Nèn
 Pa Ham
@@ -4138,7 +3774,6 @@ Nậm Nhừ
 Nậm Chua
 Nà Bủng
 Vàng Đán
-Mường Nhé
 Nậm Vì
 Chung Chải
 Leng Su Sìn
@@ -4166,13 +3801,11 @@ Văn Tiến
 Tân Thịnh
 Đồng Tâm
 Yên Thịnh
-Yên Bình
 Vĩnh Kiên
 Yên Bình
 Bạch Hà
 Vũ Linh
 Phúc An
-Yên Thành
 Xuân Lai
 Mỹ Gia
 Cẩm Nhân
@@ -4187,16 +3820,13 @@ Cẩm Ân
 Tân Hương
 Đại Đồng
 Phú Thịnh
-Văn Lãng
 Thịnh Hưng
 Đại Minh
 Hán Đà
 Thác Bà
-Yên Thế
 Minh Xuân
 Mường Lai
 Yên Thắng
-Mai Sơn
 Khánh Thiện
 Lâm Thượng
 Tân Phượng
@@ -4212,7 +3842,6 @@ Tân Lập
 Phúc Lợi
 Trung Tâm
 Phan Thanh
-An Phú
 Minh Tiến
 Liễu Đô
 Vĩnh Lạc
@@ -4257,10 +3886,8 @@ Cao Phạ
 La Pán Tẩn
 Chế Cu Nha
 Nậm Có
-Trạm Tấu
 Hát Lừu
 Xà Hồ
-Trạm Tấu
 Pá Lau
 Túc Đán
 Bản Công
@@ -4274,7 +3901,6 @@ Nghĩa Lợi
 Nghĩa Phúc
 Pú Trạng
 Nghĩa An
-Tân An
 Cầu Thia
 Sơn Thịnh
 Suối Giàng
@@ -4368,7 +3994,6 @@ Nậm Ét
 Mường Sại
 Chiềng Ơn
 Mường Giôn
-Thuận Châu
 Chiềng La
 Tông Lạnh
 Tòng Cọ
@@ -4397,7 +4022,6 @@ Bon Phặng
 Nậm Lầu
 Bản Lầm
 Muổi Nọi
-Sông Mã
 Chiềng Khoong
 Nà Ngựu
 Nậm Ty
@@ -4416,7 +4040,6 @@ Mường Hung
 Chiềng Khương
 Mường Sai
 Chiềng Cang
-Sốp Cộp
 Dồm Cang
 Púng Bánh
 Sam Kha
@@ -4446,7 +4069,6 @@ Phiêng Pằn
 Hát Lót
 Chiềng Lương
 Cò Nòi
-Bắc Yên
 Tà Xùa
 Háng Đồng
 Xím Vàng
@@ -4462,13 +4084,11 @@ Chiềng Sại
 Song Pe
 Hồng Ngài
 Phiêng Ban
-Yên Châu
 Sặp Vạt
 Chiềng Đông
 Chiềng Sàng
 Chiềng Pằn
 Viêng Lán
-Yên Sơn
 Chiềng On
 Phiêng Khoài
 Chiềng Khoi
@@ -4477,7 +4097,6 @@ Lóng Phiêng
 Chiềng Tương
 Tú Nang
 Mường Lựm
-Mộc Châu
 NT Mộc Châu
 Hua Păng
 Nà Mường
@@ -4492,12 +4111,10 @@ Lóng Sập
 Chiềng Sơn
 Đông Sang
 Phiêng Luông
-Vân Hồ
 Lóng Luông
 Chiềng Yên
 Mường Men
 Quang Minh
-Mường Tè
 Song Khủa
 Liên Hoà
 Suối Bàng
@@ -4506,7 +4123,6 @@ Chiềng Khoa
 Chiềng Xuân
 Xuân Nha
 Tân Xuân
-Phù Yên
 Huy Thượng
 Mường Cơi
 Mường Thải
@@ -4535,7 +4151,6 @@ Nam Phong
 Mường Bang
 Thọ Sơn
 Thanh Miếu
-Sông Lô
 Trưng Vương
 Dữu Lâu
 Phượng Lâu
@@ -4558,24 +4173,20 @@ Bến Gót
 Bạch Hạc
 Phong Châu
 Phú Nham
-Tiên Du
 Gia Thanh
 Hạ Giáp
 Bảo Thanh
 Trị Quận
 Lệ Mỹ
-Phú Mỹ
 Liên Hoa
 Trạm Thản
 Tiên Phú
 Trung Giáp
-Phú Lộc
 Phù Ninh
 An Đạo
 Bình Bộ
 Tử Đà
 Vĩnh Phú
-Lâm Thao
 Thạch Sơn
 Hùng Sơn
 Tiên Kiên
@@ -4583,13 +4194,11 @@ Xuân Lũng
 Xuân Huy
 Hợp Hải
 Kinh Kệ
-Sơn Dương
 Tứ
 Bản Nguyên
 Vĩnh Lại
 Cao Xá
 Sơn Vi
-Đoan Hùng
 Hữu Đô
 Chí Đám
 Vân Du
@@ -4610,7 +4219,6 @@ Sóc Đăng
 Đại Nghĩa
 Phú Thứ
 Hùng Long
-Vân Đồn
 Yên Kiện
 Tiêu Sơn
 Minh Tiến
@@ -4650,12 +4258,10 @@ Chính Công
 Yên Kỳ
 Cáo Điền
 Phương Viên
-Yên Lập
 Hưng Long
 Xuân Thủy
 Xuân Viên
 Xuân An
-Lương Sơn
 Mỹ Lương
 Mỹ Lung
 Trung Sơn
@@ -4667,14 +4273,12 @@ Ngọc Lập
 Ngọc Đồng
 Minh Hòa
 Đồng Lạc
-Tân Phú
 Thu Ngạc
 Thạch Kiệt
 Thu Cúc
 Đồng Sơn
 Lai Đồng
 Kiệt Sơn
-Tân Sơn
 Xuân Đài
 Xuân Sơn
 Kim Thượng
@@ -4715,14 +4319,12 @@ Hiền Đa
 Tình Cương
 Phú Lạc
 Yên Tập
-Thanh Ba
 Thái Ninh
 Đại An
 Đông Lĩnh
 Thanh Vân
 Hanh Cù
 Vân Lĩnh
-Đồng Xuân
 Yển Khê
 Yên Nội
 Phương Lĩnh
@@ -4732,7 +4334,6 @@ Thanh Xá
 Hoàng Cương
 Chí Tiên
 Sơn Cương
-Thanh Hà
 Đỗ Sơn
 Đỗ Xuyên
 Lương Lỗ
@@ -4742,7 +4343,6 @@ Khải Xuân
 Năng Yên
 Quảng Nạp
 Ninh Dân
-Thanh Sơn
 Sơn Hùng
 Thục Luyện
 Địch Quả
@@ -4765,10 +4365,8 @@ Cự Đồng
 Tất Thắng
 Thạch Khoán
 Giáp Lai
-Thanh Thủy
 Tân Phương
 Thạch Đồng
-Xuân Lộc
 Đào Xá
 Sơn Thủy
 Hoàng Xá
@@ -4779,7 +4377,6 @@ Yến Mao
 Tu Vũ
 Đồng Luận
 Đoan Hạ
-Bảo Yên
 Âu Cơ
 Phong Châu
 Hà Thạch
@@ -4822,10 +4419,8 @@ Hữu Nghị
 Tân Thịnh
 Thái Thịnh
 Thái Bình
-Thống Nhất
 Chăm Mát
 Dân Chủ
-Kỳ Sơn
 Dân Hạ
 Mông Hóa
 Dân Hòa
@@ -4835,7 +4430,6 @@ Phú Minh
 Hợp Thịnh
 Hợp Thành
 Độc Lập
-Lương Sơn
 Hòa Sơn
 Lâm Sơn
 Trường Sơn
@@ -4855,7 +4449,6 @@ Cao Dương
 Trung Sơn
 Thành Lập
 Liên Sơn
-Đà Bắc
 Hào Lý
 Tu Lý
 Tân Minh
@@ -4875,14 +4468,12 @@ Cao Sơn
 Vầy Nưa
 Hiền Lương
 Toàn Sơn
-Mai Châu
 Tòng Đậu
 Ba Khan
 Tân Mai
 Tân Dân
 Phúc Sạn
 Đồng Bảng
-Tân Sơn
 Pà Cò
 Hang Kia
 Cun Pheo
@@ -4898,7 +4489,6 @@ Vạn Mai
 Pù Pin
 Noong Luông
 Thung Khe
-Cao Phong
 Đông Phong
 Thu Phong
 Bắc Phong
@@ -4908,7 +4498,6 @@ Tây Phong
 Tân Phong
 Dũng Phong
 Nam Phong
-Yên Lập
 Yên Thượng
 Xuân Phong
 Mường Khến
@@ -4923,7 +4512,6 @@ Phong Phú
 Tuân Lộ
 Quy Mỹ
 Quyết Chiến
-Bắc Sơn
 Lũng Vân
 Nam Sơn
 Do Nhân
@@ -4935,7 +4523,6 @@ Ngọc Mỹ
 Thanh Hối
 Tử Nê
 Mãn Đức
-Vụ Bản
 Yên Phú
 Bình Hẻm
 Văn Nghĩa
@@ -4949,7 +4536,6 @@ Văn Sơn
 Xuất Hóa
 Thượng Cốc
 Phúc Tuy
-Phú Lương
 Chí Thiện
 Định Cư
 Chí Đạo
@@ -4965,7 +4551,6 @@ Tân Mỹ
 Ân Nghĩa
 Yên Nghiệp
 Hàng Trạm
-Yên Lạc
 Hữu Lợi
 Bảo Hiệu
 Lạc Hưng
@@ -4982,7 +4567,6 @@ Lạc Long
 Cố Nghĩa
 Phú Lão
 Phú Thành
-Thanh Hà
 Thanh Nông
 Hưng Thi
 Đồng Môn
@@ -4998,8 +4582,6 @@ Trung Bì
 Lập Chiệng
 Nật Sơn
 Hùng Tiến
-Bắc Sơn
-Bình Sơn
 Đú Sáng
 Tú Sơn
 Vĩnh Tiến
@@ -5011,7 +4593,6 @@ Vĩnh Đồng
 Thượng Tiến
 Hợp Đồng
 Kim Tiến
-Kim Bôi
 Kim Truy
 Cuối Hạ
 Nuông Dăm
@@ -5019,7 +4600,6 @@ Mi Hòa
 Sào Báy
 Nam Thượng
 Hợp Kim
-Kim Sơn
 Hàm Rồng
 Tào Xuyên
 Thiệu Dương
@@ -5034,22 +4614,16 @@ Thiệu Khánh
 Thiệu Vân
 Đông Lĩnh
 Phú Sơn
-Điện Biên
-Ba Đình
 Ngọc Trạo
 Lam Sơn
 Đông Hương
-Đông Hải
 Hoằng Quang
 Hoằng Đại
 Quảng Hưng
-Đông Sơn
 Đông Vệ
 Quảng Thắng
-Tân Sơn
 Đông Tân
 An Hoạch
-Đông Hưng
 Đông Vinh
 Quảng Thịnh
 Quảng Thành
@@ -5058,7 +4632,6 @@ Quảng Phú
 Quảng Tâm
 Quảng Cát
 Trường Sơn
-Bắc Sơn
 Trung Sơn
 Quảng Cư
 Quảng Tiến
@@ -5111,12 +4684,9 @@ Hoằng Trạch
 Hoằng Phong
 Hoằng Tân
 Hoằng Châu
-Hậu Lộc
-Xuân Lộc
 Hòa Lộc
 Hải Lộc
 Minh Lộc
-Phú Lộc
 Thịnh Lộc
 Hoa Lộc
 Ngư Lộc
@@ -5129,16 +4699,13 @@ Phong Lộc
 Cầu Lộc
 Thành Lộc
 Đồng Lộc
-Đại Lộc
 Châu Lộc
 Triệu Lộc
 Tiến Lộc
 Lộc Sơn
 Lộc Tân
-Mỹ Lộc
 Văn Lộc
 Thuần Lộc
-Nga Sơn
 Nga Yên
 Nga Hải
 Nga Liên
@@ -5151,7 +4718,6 @@ Nga Giáp
 Nga Thiện
 Nga Trường
 Nga Vịnh
-Ba Đình
 Nga Tiến
 Nga Văn
 Nga Thắng
@@ -5165,7 +4731,6 @@ Nga Hưng
 Nga Thanh
 Nga Thủy
 Nga Tân
-Hà Trung
 Hà Lai
 Hà Châu
 Hà Vinh
@@ -5183,31 +4748,25 @@ Hà Ngọc
 Hà Phong
 Hà Bắc
 Hà Long
-Hà Giang
 Hà Tiến
 Hà Tân
 Hà Lĩnh
-Hà Đông
 Hà Sơn
 Hà Toại
 Ba Đình
 Lam Sơn
-Đông Sơn
 Hà Lan
 Quang Trung
 Phú Sơn
 Ngọc Trạo
-Bắc Sơn
 Rừng Thông
 Đông Tiến
 Đông Thanh
 Đông Khê
 Đông Hoàng
 Đông Ninh
-Đông Anh
 Đông Minh
 Đông Thịnh
-Đông Hòa
 Đông Yên
 Đông Văn
 Đông Phú
@@ -5256,12 +4815,10 @@ Quán Lào
 Định Công
 Yên Thái
 yên Ninh
-Yên Lạc
 Yên Thịnh
 Yên Hùng
 Yên Phong
 Yên Trường
-Yên Bái
 Yên Phú
 Yên Giang
 Yên Tâm
@@ -5269,13 +4826,8 @@ Yên Trung
 Yên Thọ
 Quý Lộc
 Yên Lâm
-Thống Nhất
-Vĩnh Lộc
 Vĩnh Phúc
-Vĩnh Hưng
-Vĩnh Long
 Vĩnh Quang
-Vĩnh Yên
 Vĩnh Tiến
 Vĩnh Thành
 Vĩnh Ninh
@@ -5314,7 +4866,6 @@ Thành Tâm
 Thành An
 Thành Long
 Ngọc Trạo
-Cẩm Thủy
 Cẩm Phong
 Cẩm Giang
 Cẩm Tú
@@ -5334,7 +4885,6 @@ Cẩm Tâm
 Cẩm Tân
 Cẩm Phú
 Cẩm Vân
-Bá Thước
 Lương Ngoại
 Lương Nội
 Hạ Trung
@@ -5357,7 +4907,6 @@ Thiết Ống
 Thiết Kế
 Kỳ Tân
 Văn Nho
-Triệu Sơn
 Minh Châu
 Dân Lý
 Minh Dân
@@ -5367,14 +4916,12 @@ Thọ Thế
 Thọ Phú
 Thọ Vực
 Xuân Thịnh
-Xuân Lộc
 Thọ Dân
 Xuân Thọ
 Thọ Ngọc
 Thọ Cường
 Thọ Sơn
 Thọ Tiến
-Bình Sơn
 Thọ Bình
 Hợp Lý
 Hợp Tiến
@@ -5387,19 +4934,16 @@ An Nông
 Văn Sơn
 Nông Trường
 Tiến Nông
-Thái Hòa
 Tân Ninh
 Khuyến Nông
 Đồng Lợi
 Đồng Tiến
 Đồng Thắng
-Thọ Xuân
 Hạnh Phúc
 Xuân Thành
 Xuân Tân
 Xuân Lai
 Xuân Yên
-Xuân Trường
 Xuân Hòa
 Thọ Hải
 Phú Yên
@@ -5425,8 +4969,6 @@ Xuân Hưng
 Xuân Sơn
 Xuân Giang
 Xuân Quang
-Tây Hồ
-Nam Giang
 Thọ Lộc
 Bắc Lương
 Thọ Nguyên
@@ -5434,7 +4976,6 @@ Xuân Phong
 Xuân Khánh
 Thọ Trường
 Xuân Vinh
-Ngọc Lặc
 Ngọc Khê
 Ngọc Sơn
 Ngọc Trung
@@ -5456,7 +4997,6 @@ Phùng Giáo
 Phùng Minh
 Phúc Thịnh
 Kiên Thọ
-Lang Chánh
 Đồng Lương
 Quang Hiến
 Tân Phúc
@@ -5467,7 +5007,6 @@ Yên Thắng
 Trí Nang
 Giao An
 Giao Thiện
-Quan Hóa
 Xuân Phú
 Phú Nghiêm
 Hồi Xuân
@@ -5477,7 +5016,6 @@ Thiên Phủ
 Hiền Kiệt
 Hiền Chung
 Nam Tiến
-Thanh Xuân
 Phú Xuân
 Phú Lệ
 Phú Sơn
@@ -5485,20 +5023,17 @@ Phú Thanh
 Trung Thành
 Thành Sơn
 Trung Sơn
-Quan Sơn
 Trung Thượng
 Trung Tiến
 Trung Hạ
 Trung Xuân
 Sơn Lư
 Tam Lư
-Sơn Hà
 Tam Thanh
 Sơn Điện
 Mường Mìn
 Na Mèo
 Sơn Thủy
-Mường Lát
 Trung Lý
 Mường Lý
 Tam Chung
@@ -5507,7 +5042,6 @@ Nhi Sơn
 Pù Nhi
 Quang Chiểu
 Mường Chanh
-Thường Xuân
 Xuân Dương
 Ngọc Phụng
 Xuân Cẩm
@@ -5519,12 +5053,10 @@ Thọ Thanh
 Xuân Cao
 Xuân Lẹ
 Xuân Chinh
-Xuân Lộc
 Luận Khê
 Luận Thành
 Tân Thành
 Xuân Thắng
-Nông Cống
 Vạn Thiện
 Trường Minh
 Trường Trung
@@ -5546,7 +5078,6 @@ Trung Chính
 Vạn Thắng
 Thăng Long
 Thăng Thọ
-Thăng Bình
 Trường Sơn
 Trường Giang
 Tượng Văn
@@ -5555,9 +5086,7 @@ Tượng Sơn
 Công Liêm
 Công Chính
 Công Bình
-Yên Mỹ
 Bến Sung
-Phú Nhuận
 Mậu Lâm
 Phượng Nghi
 Xuân Du
@@ -5569,19 +5098,15 @@ Hải Vân
 Xuân Thái
 Xuân Phúc
 Yên Thọ
-Yên Lạc
 Phúc Đường
 Thanh Tân
 Thanh Kỳ
 Yên Cát
-Tân Bình
 Yên Lễ
 Thượng Ninh
 Cát Tân
 Hóa Quỳ
 Cát Vân
-Thanh Xuân
-Thanh Sơn
 Thanh Quân
 Thanh Phong
 Thanh Lâm
@@ -5591,18 +5116,14 @@ Bình Lương
 Xuân Hòa
 Xuân Bình
 Bãi Trành
-Quảng Xương
 Quảng Đức
 Quảng Giao
 Quảng Định
 Quảng Tân
-Quảng Trạch
 Quảng Phong
 Quảng Hòa
-Quảng Yên
 Quảng Long
 Quảng Hợp
-Quảng Ninh
 Quảng Nhân
 Quảng Hải
 Quảng Lưu
@@ -5621,26 +5142,17 @@ Quảng Thạch
 Quảng Chính
 Quảng Trung
 Quảng Nham
-Tĩnh Gia
 Hải Hòa
-Ninh Hải
 Hải Nhân
 Định Hải
 Hải Lĩnh
 Tân Dân
-Hải An
 Triêu Dương
 Hải Ninh
-Hải Châu
-Thanh Thủy
-Thanh Sơn
 Ngọc Lĩnh
-Anh Sơn
 Hùng Sơn
 Các Sơn
 Phú Sơn
-Nguyên Bình
-Bình Minh
 Hải Thanh
 Hải Bình
 Xuân Lâm
@@ -5653,7 +5165,6 @@ Tĩnh Hải
 Hải Yến
 Trường Lâm
 Hải Thượng
-Hải Hà
 Nghi Sơn
 Lê Mao
 Trường Thi
@@ -5699,9 +5210,7 @@ Nghi Diên
 Nghi Vạn
 Nghi Trường
 Nghi Thạch
-Nghi Xuân
 Nghi Phong
-Phúc Thọ
 Nghi Thái
 Nghi Long
 Nghi Quang
@@ -5717,7 +5226,6 @@ Nghi Lâm
 Nghi Mỹ
 Nghi Công Bắc
 Nghi Công Nam
-Diễn Châu
 Diễn Thành
 Diễn Ngọc
 Diễn Hoa
@@ -5787,7 +5295,6 @@ Tân Thắng
 Quỳnh Thắng
 Quỳnh Châu
 Quỳnh Tam
-Tân Sơn
 Ngọc Sơn
 Yên Thành
 Hoa Thành
@@ -5809,7 +5316,6 @@ Bảo Thành
 Sơn Thành
 Viên Thành
 Vĩnh Thành
-Long Thành
 Nhân Thành
 Hồng Thành
 Thọ Thành
@@ -5822,13 +5328,11 @@ Hậu Thành
 Phúc Thành
 Hùng Thành
 Lăng Thành
-Kim Thành
 Quang Thành
 Tây Thành
 Đồng Thành
 Thịnh Thành
 Minh Thành
-Nghĩa Đàn
 Nghĩa Hội
 Nghĩa Thọ
 Nghĩa Phú
@@ -5843,7 +5347,6 @@ Nghĩa Yên
 Nghĩa Mai
 Nghĩa Hồng
 Nghĩa Thịnh
-Nghĩa Hưng
 Nghĩa Thắng
 Nghĩa Liên
 Nghĩa Tân
@@ -5853,12 +5356,10 @@ Nghĩa An
 Nghĩa Khánh
 Nghĩa Long
 Nghĩa Lộc
-Tân Kỳ
 Kỳ Tân
 Nghĩa Dũng
 Tân Long
 Nghĩa Hoàn
-Tân Phú
 Nghĩa Thái
 Nghĩa Hợp
 Nghĩa Bình
@@ -5866,16 +5367,11 @@ Nghĩa Đồng
 Tân Xuân
 Giai Xuân
 Tân Hợp
-Đồng Văn
 Nghĩa Phúc
-Tân An
 Hương Sơn
-Kỳ Sơn
 Tân Hương
-Nghĩa Hành
 Phú Sơn
 Tiên Kỳ
-Quỳ Hợp
 Minh Hợp
 Nghĩa Xuân
 Thọ Hợp
@@ -5887,16 +5383,13 @@ Yên Hợp
 Liên Hợp
 Châu Tiến
 Châu Hồng
-Châu Thành
 Châu Cường
 Châu Thái
 Châu Đình
 Châu Lý
 Nam Sơn
-Bắc Sơn
 Văn Lợi
 Hạ Sơn
-Quỳ Châu
 Châu Bình
 Châu Nga
 Châu Hạnh
@@ -5908,21 +5401,17 @@ Châu Thắng
 Châu Phong
 Châu Hoàn
 Diên Lãm
-Kim Sơn
 Mường Nọc
 Châu Kim
 Châu Thôn
 Nậm Nhoóng
 Cắm Muộn
 Quang Phong
-Quế Sơn
 Tiền Phong
-Đồng Văn
 Thông Thụ
 Hạnh Dịch
 Nậm Giải
 Tri Lễ
-Đô Lương
 Yên Sơn
 Văn Sơn
 Thịnh Sơn
@@ -5930,8 +5419,6 @@ Thịnh Sơn
 Trung Sơn
 Thuận Sơn
 Xuân Sơn
-Lạc Sơn
-Tân Sơn
 Thái Sơn
 Minh Sơn
 Quang Sơn
@@ -5946,21 +5433,17 @@ Lưu Sơn
 Đặng Sơn
 Nam Sơn
 Ngọc Sơn
-Bắc Sơn
 Tràng Sơn
-Đông Sơn
 Bài Sơn
 Bồi Sơn
 Lam Sơn
 Hồng Sơn
 Giang Sơn Đông
 Giang Sơn Tây
-Anh Sơn
 Long Sơn
 Khai Sơn
 Cao Sơn
 Lĩnh Sơn
-Lạng Sơn
 Tào Sơn
 Vĩnh Sơn
 Thạch Sơn
@@ -5973,10 +5456,8 @@ Cẩm Sơn
 Hùng Sơn
 Đỉnh Sơn
 Tam Sơn
-Bình Sơn
 Thành Sơn
 Thọ Sơn
-Con Cuông
 Bồng Khê
 Chi Khê
 Yên Khê
@@ -5986,10 +5467,8 @@ Môn Sơn
 Thạch Ngàn
 Mậu Đức
 Đôn Phục
-Cam Lâm
 Lạng Khê
 Bình Chuẩn
-Hòa Bình
 Thạch Giám
 Yên Thắng
 Yên Na
@@ -6001,7 +5480,6 @@ Lượng Minh
 Hữu Khuông
 Tam Đình
 Nhôn Mai
-Mai Sơn
 Tam Thái
 Tam Quang
 Tam Hợp
@@ -6011,7 +5489,6 @@ Mường Xén
 Chiêu Lưu
 Hữu Lập
 Bảo Nam
-Bảo Thắng
 Mường Lống
 Phà Đánh
 Nậm Cắn
@@ -6022,7 +5499,6 @@ Keng Đu
 Bắc Lý
 Mỹ Lý
 Hữu Kiệm
-Tây Sơn
 Tà Cạ
 Mường Típ
 Mường Ải
@@ -6050,7 +5526,6 @@ Hưng Khánh
 Hưng Châu
 Hưng Lợi
 Hưng Nhân
-Nam Đàn
 Xuân Hòa
 Nam Anh
 Nam Xuân
@@ -6064,7 +5539,6 @@ Hồng Long
 Kim Liên
 Xuân Lâm
 Nam Cát
-Khánh Sơn
 Nam Trung
 Nam Phúc
 Nam Cường
@@ -6074,7 +5548,6 @@ Nam Thái
 Nam Thanh
 Nam Nghĩa
 Nam Hưng
-Thanh Chương
 Thanh Ngọc
 Thanh Đồng
 Thanh Phong
@@ -6089,10 +5562,8 @@ Thanh Hòa
 Thanh Nho
 Thanh Đức
 Hạnh Lâm
-Thanh Sơn
 Thanh Mỹ
 Thanh Lĩnh
-Đồng Văn
 Thanh Hương
 Ngọc Lâm
 Thanh An
@@ -6104,7 +5575,6 @@ Xuân Tường
 Thanh Long
 Võ Liệt
 Thanh Thủy
-Thanh Hà
 Thanh Tùng
 Thanh Dương
 Thanh Lương
@@ -6112,7 +5582,6 @@ Thanh Khai
 Thanh Yên
 Thanh Giang
 Thanh Mai
-Thanh Xuân
 Thanh Lâm
 Hòa Hiếu
 Quang Tiến
@@ -6143,14 +5612,11 @@ Thạch Môn
 Thạch Hạ
 Thạch Trung
 Nguyễn Du
-Bắc Hà
 Trần Phú
 Thạch Linh
 Hà Huy Tập
 Đại Nài
-Văn Yên
 Thạch Bình
-Thạch Hà
 Thạch Long
 Thạch Bàn
 Thạch Đỉnh
@@ -6172,7 +5638,6 @@ Thạch Thanh
 Thạch Ngọc
 Thạch Vĩnh
 Ngọc Sơn
-Bắc Sơn
 Thạch Lưu
 Thạch Đài
 Thạch Tân
@@ -6194,15 +5659,12 @@ Song Lộc
 Thường Nga
 Trường Lộc
 Yên Lộc
-Phú Lộc
 Vĩnh Lộc
 Gia Hanh
 Trung Lộc
 Thượng Lộc
-Xuân Lộc
 Đồng Lộc
 Quang Lộc
-Mỹ Lộc
 Sơn Lộc
 Bình Lộc
 An Lộc
@@ -6217,11 +5679,9 @@ Thạch Châu
 Thạch Mỹ
 Mai Phụ
 Hộ Đô
-Nghi Xuân
 Xuân Hải
 Xuân Phổ
 Xuân Đan
-Xuân Trường
 Xuân Hội
 Tiên Điền
 Xuân Yên
@@ -6242,7 +5702,6 @@ Trung Lương
 Đức Thuận
 Thuận Lộc
 Đậu Liêu
-Đức Thọ
 Liên Minh
 Đức La
 Đức Vĩnh
@@ -6262,7 +5721,6 @@ Trung Lễ
 Đức Thanh
 Đức Lâm
 Đức Long
-Đức Hòa
 Đức Lạc
 Đức Lập
 Đức Dũng
@@ -6275,12 +5733,10 @@ Sơn Trung
 Sơn Bằng
 Sơn Bình
 Sơn Long
-Sơn Trà
 Sơn Hà
 Sơn Mỹ
 Sơn Châu
 Sơn Ninh
-Sơn Hòa
 Sơn Tân
 Sơn Thịnh
 Sơn An
@@ -6297,12 +5753,9 @@ Sơn Phúc
 Sơn Thủy
 Sơn Mai
 Sơn Trường
-Sơn Tây
-Tây Sơn
 Sơn Hồng
 Sơn Kim 1
 Sơn Kim 2
-Vũ Quang
 Đức Bồng
 Đức Hương
 Đức Liên
@@ -6314,11 +5767,9 @@ Hương Điền
 Hương Minh
 Hương Thọ
 Hương Quang
-Hương Khê
 Hương Đô
 Lộc Yên
 Hương Giang
-Hương Thủy
 Hà Linh
 Phương Mỹ
 Phương Điền
@@ -6331,12 +5782,10 @@ Phú Phong
 Phú Gia
 Hương Vĩnh
 Hương Xuân
-Hương Trà
 Hương Lâm
 Hương Liên
 Phúc Trạch
 Hương Trạch
-Cẩm Xuyên
 Cẩm Thăng
 Cẩm Phúc
 Thiên Cầm
@@ -6353,7 +5802,6 @@ Cẩm Thành
 Cẩm Duệ
 Cẩm Thạch
 Cẩm Quan
-Cẩm Mỹ
 Cẩm Hưng
 Cẩm Thịnh
 Cẩm Sơn
@@ -6393,12 +5841,9 @@ Kỳ Tân
 Kỳ Hợp
 Kỳ Tây
 Kỳ Thượng
-Kỳ Sơn
 Kỳ Lâm
 Kỳ Lạc
 Bắc Lý
-Đồng Phú
-Lộc Ninh
 Thuận Đức
 Đồng Sơn
 Bắc Nghĩa
@@ -6442,7 +5887,6 @@ Sơn Trạch
 Hưng Trạch
 Phú Định
 Nông Trường Việt Trung
-Ba Đồn
 Quảng Thọ
 Quảng Long
 Quảng Phong
@@ -6480,13 +5924,11 @@ Quảng Thanh
 Thuận Hóa
 Kim Hóa
 Hương Hóa
-Thanh Hóa
 Lâm Hóa
 Thanh Thạch
 Lê Hóa
 Đồng Hóa
 Sơn Hóa
-Thạch Hóa
 Nam Hóa
 Đức Hóa
 Phong Hóa
@@ -6509,7 +5951,6 @@ Hóa Hợp
 Hóa Sơn
 Quy Hóa
 Tân Hóa
-Minh Hóa
 Trung Hóa
 Thượng Hóa
 Quán Hàu
@@ -6524,7 +5965,6 @@ Duy Ninh
 Võ Ninh
 Gia Ninh
 Hải Ninh
-Vạn Ninh
 Trường Xuân
 Trường Sơn
 Kiến Giang
@@ -6557,14 +5997,12 @@ Kim Thủy
 Lâm Thủy
 Phường 1
 Phường 2
-Đông Giang
 Đông Thanh
 Phường 4
 Phường 3
 Phường 5
 Đông Lễ
 Đông Lương
-Cam Lộ
 Cam Thanh
 Cam An
 Cam Thủy
@@ -6573,7 +6011,6 @@ Cam Thành
 Cam Hiếu
 Cam Nghĩa
 Cam Chính
-Gio Linh
 Gio Mỹ
 Trung Giang
 Trung Hải
@@ -6640,7 +6077,6 @@ A Dơi
 Xy
 Krông Klang
 Hướng Hiệp
-Đa Krông
 Mò Ó
 Ba Nang
 Triệu Nguyên
@@ -6657,7 +6093,6 @@ Triệu Thành
 Triệu Đông
 Triệu Tài
 Triệu Trung
-Triệu Sơn
 Triệu Lăng
 Triệu Trạch
 Triệu Vân
@@ -6676,13 +6111,10 @@ Phường 3
 Phường 1
 An Đôn
 Hải Lệ
-Hải Lăng
 Hải Thiện
 Hải Thành
 Hải Hòa
-Hải Dương
 Hải Khê
-Hải An
 Hải Quế
 Hải Ba
 Hải Vĩnh
@@ -6701,15 +6133,11 @@ Vĩ Dạ
 Phú Cát
 Phú Hiệp
 Phú Hậu
-Phú Bình
 Thuận Lộc
 Hương Sơ
 An Hòa
 Tây Lộc
-Thuận Thành
-Phú Hòa
 Phú Hội
-Phú Nhuận
 Vĩnh Ninh
 Thuận Hòa
 Kim Long
@@ -6734,7 +6162,6 @@ Quảng Phú
 Quảng Thọ
 Quảng An
 Quảng Thành
-Phong Điền
 Phong Hiền
 Phong Chương
 Điền Lộc
@@ -6754,7 +6181,6 @@ Tứ Hạ
 Hương Toàn
 Hương Vinh
 Hương Phong
-Hải Dương
 Hương Văn
 Hương Xuân
 Hương Chữ
@@ -6766,13 +6192,11 @@ Bình Điền
 Hồng Tiến
 Hương Thọ
 Bình Thành
-A Lưới
 Hồng Hạ
 Hồng Kim
 Hồng Vân
 Hồng Thủy
 Hồng Trung
-Bắc Sơn
 Hồng Bắc
 Hồng Quảng
 A Ngo
@@ -6810,7 +6234,6 @@ Thượng Quảng
 Thượng Lộ
 Thượng Long
 Thượng Nhật
-Phú Lộc
 Lộc Bình
 Lộc Vĩnh
 Vinh Hải
@@ -6821,7 +6244,6 @@ Vinh Hiền
 Lộc An
 Lộc Sơn
 Lộc Bổn
-Xuân Lộc
 Lộc Hòa
 Lộc Điền
 Lộc Tiến
@@ -6840,18 +6262,15 @@ Vinh Xuân
 Phú Diên
 Phú Hải
 Phú Thuận
-Thuận An
 Phú Thanh
 Phú Mậu
 Phú Thượng
 Phú Dương
 Phú An
-Phú Mỹ
 Phú Hồ
 Hải Châu 1
 Thạch Thang
 Thuận Phước
-Thanh Bình
 Hải Châu 2
 Phước Ninh
 Nam Dương
@@ -6864,7 +6283,6 @@ Hòa Cường Nam
 Xuân Hà
 Thanh Khê Đông
 Thanh Khê Tây
-An Khê
 Hòa Khê
 Chính Gián
 Thạc Gián
@@ -6890,7 +6308,6 @@ Hòa Hiệp Bắc
 Hòa Thọ Đông
 Hòa Xuân
 Khuê Trung
-Hòa An
 Hòa Phát
 Hòa Thọ Tây
 Hòa Phong
@@ -6906,9 +6323,7 @@ Hòa Châu
 Hòa Phước
 An Mỹ
 Hoà Thuận
-Tân Thạnh
 Phước Hòa
-An Phú
 Tam Phú
 Tam Thanh
 Tam Thăng
@@ -6921,10 +6336,8 @@ Hà Lam
 Bình Nguyên
 Bình Phục
 Bình Triều
-Bình Giang
 Bình Dương
 Bình Đào
-Bình Minh
 Bình Hải
 Bình Sa
 Bình Nam
@@ -6934,14 +6347,12 @@ Bình Tú
 Bình Quý
 Bình Định Bắc
 Bình Định Nam
-Bình Chánh
 Bình Quế
 Bình Phú
 Bình Trị
 Bình Lãnh
 Minh An
 Sơn Phong
-Tân An
 Cẩm Phô
 Thanh Hà
 Cẩm Kim
@@ -6951,7 +6362,6 @@ Cẩm Châu
 Cửa Đại
 Cẩm An
 Cẩm Hà
-Tân Hiệp
 Vĩnh Điện
 Điện Nam Đông
 Điện Nam Trung
@@ -7047,7 +6457,6 @@ Sơn Viên
 Đông Phú
 Quế Châu
 Quế Thuận
-Phú Thọ
 Quế Cường
 Hương An
 Quế Phú
@@ -7055,15 +6464,11 @@ Quế Xuân 1
 Quế Xuân 2
 Quế Hiệp
 Quế Long
-Quế Phong
 Quế An
 Quế Minh
-Tân An
-Bình Sơn
 Bình Lâm
 Quế Thọ
 Hiệp Thuận
-Hiệp Hòa
 Sông Trà
 Quế Bình
 Phước Trà
@@ -7091,7 +6496,6 @@ Trà Cang
 Trà Nam
 Trà Don
 Trà Vân
-Trà Vinh
 Trà My
 Trà Dương
 Trà Đông
@@ -7131,7 +6535,6 @@ Tam Dân
 Tam Đại
 Tam Lãnh
 Tam Thái
-Núi Thành
 Tam Giang
 Tam Quang
 Tam Hải
@@ -7156,7 +6559,6 @@ Nguyễn Nghiêm
 Trương Quang Trọng
 Tịnh Ấn Tây
 Quảng Phú
-Nghĩa Lộ
 Chánh Lộ
 Nghĩa Dõng
 Nghĩa Hà
@@ -7185,23 +6587,18 @@ Tịnh Giang
 Châu Ổ
 Bình Thới
 Bình Dương
-Bình Chánh
 Bình Nguyên
 Bình Trung
 Bình Chương
-Bình Long
 Bình Thanh Tây
 Bình Thanh Đông
 Bình Hòa
 Bình Phước
 Bình Đông
-Bình Thạnh
 Bình Khương
 Bình An
-Bình Minh
 Bình Mỹ
 Bình Hiệp
-Bình Tân
 Bình Châu
 Bình Phú
 Bình Hải
@@ -7281,7 +6678,6 @@ Hành Tín Đông
 Hành Thiện
 Hành Thịnh
 Hành Phước
-Mộ Đức
 Đức Thạnh
 Đức Minh
 Đức Chánh
@@ -7290,11 +6686,9 @@ Mộ Đức
 Đức Nhuận
 Đức Hiệp
 Đức Tân
-Đức Hòa
 Đức Phú
 Đức Lân
 Đức Phong
-Ba Tơ
 Ba Cung
 Ba Chùa
 Ba Dinh
@@ -7309,12 +6703,10 @@ Ba Điền
 Ba Giang
 Ba Ngạc
 Ba Tiêu
-Ba Vì
 Ba Tô
 Ba Xa
 Ba Nam
 Ba Lế
-Đức Phổ
 Phổ Minh
 Phổ Vinh
 Phổ Quang
@@ -7342,7 +6734,6 @@ Quang Trung
 Nguyễn Văn Cừ
 Hải Cảng
 Thị Nại
-Đống Đa
 Nhơn Bình
 Nhơn Phú
 Trần Quang Diệu
@@ -7353,13 +6744,11 @@ Nhơn Hội
 Nhơn Lý
 Phước Mỹ
 Nhơn Châu
-Tuy Phước
 Phước Nghĩa
 Phước Lộc
 Phước An
 Diêu Trì
 Phước Thuận
-Phước Sơn
 Phước Hiệp
 Phước Thành
 Phước Hòa
@@ -7395,11 +6784,9 @@ Cát Lâm
 Cát Hưng
 Cát Thắng
 Cát Tiến
-Cát Hải
 Cát Minh
 Cát Sơn
 Cát Chánh
-Phù Mỹ
 Mỹ Quang
 Mỹ Trinh
 Mỹ Hòa
@@ -7408,7 +6795,6 @@ Mỹ Tài
 Mỹ Chánh Tây
 Mỹ Thọ
 Mỹ Phong
-Mỹ Lộc
 Mỹ Cát
 Mỹ Chánh
 Mỹ Thành
@@ -7416,12 +6802,10 @@ Mỹ An
 Mỹ Thắng
 Mỹ Lợi
 Bình Dương
-Mỹ Đức
 Mỹ Châu
 Bồng Sơn
 Hoài Xuân
 Hoài Tân
-Hoài Đức
 Hoài Mỹ
 Hoài Hải
 Hoài Hương
@@ -7435,7 +6819,6 @@ Hoài Châu
 Hoài Châu Bắc
 Hoài Sơn
 Hoài Phú
-An Lão
 An Hưng
 An Trung
 An Dũng
@@ -7460,11 +6843,9 @@ Dak Mang
 Bok Tới
 Ân Nghĩa
 Ân Tường Tây
-Vĩnh Thạnh
 Vĩnh Thịnh
 Vĩnh Hiệp
 Vĩnh Hảo
-Vĩnh Thuận
 Vĩnh Quang
 Vĩnh Hòa
 Vĩnh Kim
@@ -7472,7 +6853,6 @@ Vĩnh Sơn
 Phú Phong
 Bình Hòa
 Bình Thành
-Tây Giang
 Bình Tường
 Tây Phú
 Tây Xuân
@@ -7481,10 +6861,8 @@ Tây Bình
 Tây Vinh
 Tây An
 Bình Thuận
-Bình Tân
 Tây Thuận
 Vĩnh An
-Vân Canh
 Canh Hiển
 Canh Hiệp
 Canh Thuận
@@ -7505,7 +6883,6 @@ Phường 8
 Phường 9
 Phường 7
 Bình Kiến
-An Phú
 Hòa Kiến
 Chí Thạnh
 An Cư
@@ -7561,13 +6938,11 @@ Cà Lúi
 Sơn Phước
 Eachà Rang
 Suối Trai
-Krông Pa
 Hai Riêng
 EaBia
 Đức Bình Tây
 Sơn Giang
 Đức Bình Đông
-Sông Hinh
 EaTrol
 EaBar
 Ealy
@@ -7593,11 +6968,9 @@ Hòa Xuân Nam
 Hòa Xuân Tây
 Hòa Xuân Đông
 Hòa Tân Đông
-Hòa Thành
 Phú Hoà
 Hòa Định Đông
 Hòa Thắng
-Hòa An
 Hòa Trị
 Hòa Quang Nam
 Hòa Quang Bắc
@@ -7618,7 +6991,6 @@ Vạn Thắng
 Phương Sài
 Phương Sơn
 Vĩnh Hiệp
-Vĩnh Thạnh
 Vĩnh Trung
 Vĩnh Thái
 Phước Hải
@@ -7628,7 +7000,6 @@ Tân Lập
 Phước Hòa
 Vĩnh Nguyên
 Vĩnh Trường
-Phước Long
 Phước Đồng
 Vạn Giã
 Vạn Hưng
@@ -7647,9 +7018,7 @@ Ninh Hiệp
 Ninh Thân
 Ninh Phụng
 Ninh Xuân
-Ninh Bình
 Ninh Quang
-Ninh Giang
 Ninh Hà
 Ninh Lộc
 Ninh Ích
@@ -7658,19 +7027,15 @@ Ninh Tân
 Ninh Sim
 Ninh Tây
 Ninh Thượng
-Ninh Sơn
 Ninh An
 Ninh Trung
 Ninh Đông
 Ninh Đa
 Ninh Thọ
-Ninh Hải
 Ninh Diêm
 Ninh Thủy
 Ninh Phú
-Ninh Phước
 Ninh Vân
-Khánh Vĩnh
 Sông Cầu
 Khánh Phú
 Khánh Thành
@@ -7684,7 +7049,6 @@ Khánh Trung
 Khánh Hiệp
 Khánh Bình
 Khánh Đông
-Diên Khánh
 Diên Phú
 Diên Điền
 Diên Sơn
@@ -7740,12 +7104,10 @@ Cam Nghĩa
 Cam Thành Nam
 Cam Phúc Bắc
 Cam Phúc Nam
-Trường Sa
 Sinh Tồn
 Song Tử Tây
 Mỹ Hương
 Kinh Dinh
-Thanh Sơn
 Phủ Hà
 Đạo Long
 Tấn Tài
@@ -7756,7 +7118,6 @@ Văn Hải
 Phước Mỹ
 Bảo An
 Mỹ Đông
-Đông Hải
 Thành Hải
 Đô Vinh
 Khánh Hải
@@ -7773,7 +7134,6 @@ Công Hải
 Phước Chiến
 Phước Kháng
 Bắc Phong
-Bắc Sơn
 Phước Đại
 Phước Tiến
 Phước Bình
@@ -7783,7 +7143,6 @@ Phước Thắng
 Phước Chính
 Phước Trung
 Phước Thành
-Tân Sơn
 Lương Sơn
 Lâm Sơn
 Quảng Sơn
@@ -7795,7 +7154,6 @@ Phước Dân
 An Hải
 Phước Thuận
 Phước Hậu
-Phước Sơn
 Phước Vinh
 Phước Thái
 Phước Hữu
@@ -7817,7 +7175,6 @@ Ngô Mây
 Nguyễn Trãi
 Trần Hưng Đạo
 Lê Lợi
-Thống Nhất
 Đắk Rơ Wa
 Đắk Blà
 Đắk Cấm
@@ -7827,7 +7184,6 @@ Kroong
 Đăk Năng
 Đoàn Kết
 Ia Chim
-Hòa Bình
 Chư Hreng
 Đắk Rve
 Đắk Kôi
@@ -7845,7 +7201,6 @@ Ngok Tem
 Măng Bút
 Đắk Tăng
 Măng Cành
-Đắk Hà
 Tu Mơ Rông
 Ngọc Yêu
 Văn Xuôi
@@ -7856,7 +7211,6 @@ Măng Ri
 Tê Xăng
 Đắk Rơ Ông
 Đắk Tơ Kan
-Đắk Glei
 Xốp
 Ngọc Linh
 Mường Hoong
@@ -7876,7 +7230,6 @@ Plei Cần
 Pờ Y
 Đắk Kan
 Sa Loong
-Đắk Hà
 Đăk Ngọk
 Đắk PXi
 Đắk Ui
@@ -7887,7 +7240,6 @@ Hà Mòn
 Đắk La
 Ngok Wang
 Ngok Réo
-Đắk Tô
 Kon Đào
 Văn Lem
 Đắk Trăm
@@ -7896,7 +7248,6 @@ Ngọk Tụ
 Tân Cảnh
 Pô Kô
 Diên Bình
-Sa Thầy
 Sa Nghĩa
 Hơ Moong
 Sa Nhơn
@@ -7913,34 +7264,25 @@ Ia Đal
 Tây Sơn
 Hội Thương
 Phù Đổng
-Hoa Lư
-Thống Nhất
 Yên Đỗ
 Diên Hồng
 Ia Kring
 Hội Phú
 Trà Bá
-Chi Lăng
 Thắng Lợi
-An Phú
 Chư Á
 Trà Đa
 Biển Hồ
-Tân Sơn
 Yên Thế
-Đống Đa
 Diên Phú
 Gào
 Ia Kênh
 Chư HDrông
-Đak Đoa
-Tân Bình
 K' Dang
 H' Neng
 Kon Gang
 Hải Yang
 Đăk Sơmei
-Hà Đông
 Đăk Krong
 Hà Bầu
 Nam Yang
@@ -7988,7 +7330,6 @@ Ia Lang
 Ia Kriêng
 Ia Pnôn
 Ia Nan
-Chư Prông
 Ia Kly
 Ia Tôr
 Ia Bang
@@ -8008,7 +7349,6 @@ Ia Ga
 Ia Púch
 Ia Mơ
 Ia Piơr
-Phú Thiện
 Chư A Thai
 Ayun Hạ
 Ia Ake
@@ -8027,7 +7367,6 @@ Chư Don
 Ia Phang
 Ia Le
 Ia Blứ
-Chư Sê
 Dun
 Albá
 Bờ Ngoong
@@ -8045,7 +7384,6 @@ Hbông
 Đoàn Kết
 Sông Bờ
 Cheo Reo
-Hòa Bình
 Chư Băh
 Ia Rbol
 Ia Sao
@@ -8063,7 +7401,6 @@ Chư Drăng
 Ia Rmok
 Chư Ngọc
 Ia Dreh
-Krông Năng
 Kim Tân
 Chư Răng
 Pờ Tó
@@ -8073,7 +7410,6 @@ Ia Broăi
 Ia Tul
 Chư Mố
 Ia Kdăm
-Kông Chro
 Ya Ma
 Đăk Tpang
 Kông Yang
@@ -8087,16 +7423,13 @@ Yang Nam
 Sró
 Đăk Song
 Đăk Pling
-Đắk Pơ
 An Thành
 Hà Tam
 Yang Bắc
 Ya Hội
 Phú An
-Tân An
 Cư An
 Tây Sơn
-An Phú
 An Tân
 Ngô Mây
 Song An
@@ -8135,11 +7468,9 @@ Kon Chiêng
 Thắng Lợi
 Tự An
 Tân Lập
-Tân An
 Tân Hòa
 Tân Lợi
 Cư ÊBur
-Thống Nhất
 Thành Công
 Tân Tiến
 Thành Nhất
@@ -8154,7 +7485,6 @@ Hòa Thắng
 Ea Tu
 Hòa Thuận
 Phước An
-Hòa An
 Ea Phê
 KRông Búk
 Ea Kly
@@ -8169,7 +7499,6 @@ Ea Yông
 Ea Kênh
 Ea KNuec
 Hòa Đông
-Ea Kar
 Ea Kmút
 Cư Huê
 Xuân Phú
@@ -8185,12 +7514,10 @@ Cư Prông
 Cư Jang
 Cư Bông
 Cư ELang
-Krông Năng
 Phú Xuân
 Ea Dăh
 Ea Puk
 Tam Giang
-Phú Lộc
 Ea Hồ
 Ea Tóh
 Ea Tân
@@ -8212,11 +7539,9 @@ Ea Nam
 Dlê Yang
 Ea Hiao
 Ea Sol
-Ea H'leo
 Ea Wy
 Cư A Mung
 Ea Tir
-Ea Súp
 Ea Lê
 Cư KBang
 Ea Rốk
@@ -8239,7 +7564,6 @@ Ea Pốk
 Cư Suê
 Ea M'nang
 Quảng Hiệp
-Cư M'gar
 Ea KPam
 Ea H'đinh
 Ea M'DRóh
@@ -8256,8 +7580,6 @@ An Bình
 Đoàn Kết
 Thiện An
 Ea Blang
-Thống Nhất
-Bình Tân
 Cư Bao
 Bình Thuận
 Ea Siên
@@ -8272,7 +7594,6 @@ Ea Ning
 Ea Ktur
 Buôn Trấp
 Bình Hòa
-Quảng Điền
 Dur KMăl
 Băng A Drênh
 Ea Bông
@@ -8286,7 +7607,6 @@ Ea R'Bin
 Nam Ka
 Đắk Nuê
 Đắk Phơi
-Krông Nô
 Bông Krang
 Yang Tao
 Krông Kmar
@@ -8295,7 +7615,6 @@ Hòa Sơn
 Ea Trul
 Yang Reh
 Hòa Tân
-Hòa Thành
 Dang Kang
 Cư KTy
 Hòa Lễ
@@ -8351,8 +7670,6 @@ Nam Dong
 Đắk DRông
 Ea Pô
 Đắk Wil
-Đắk Mil
-Thuận An
 Đức Minh
 Đắk Sắk
 Long Sơn
@@ -8401,9 +7718,7 @@ Phường 3
 Phường 10
 Phường 11
 Xuân Thọ
-Xuân Trường
 Trạm Hành
-Lạc Dương
 Đạ Sar
 Lát
 Đưng KNớ
@@ -8423,16 +7738,13 @@ Phi Tô
 Đạ Đờn
 Tân Văn
 Tân Hà
-Gia Lâm
 Nam Ban
 Đông Thanh
 Mê Linh
 Phú Sơn
 Phúc Thọ
 Tân Thanh
-Hoài Đức
 Liên Hà
-Đan Phượng
 Lộc Thắng
 Lộc Ngãi
 Lộc Phú
@@ -8446,7 +7758,6 @@ Lộc Bắc
 Lộc Tân
 Lộc Thành
 Lộc Nam
-Tân Lạc
 Phường 1
 Lộc Phát
 Phường 2
@@ -8458,26 +7769,17 @@ Lộc Thanh
 Lộc Tiến
 Lộc Châu
 Đại Lào
-Cát Tiên
 Mỹ Lâm
 Nam Ninh
-Gia Viễn
 Đức Phổ
-Quảng Ngãi
 Tư Nghĩa
 Tiên Hoàng
 Đồng Nai Thượng
 Phước Cát 2
 Phước Cát
-Đạ Tẻh
 Đạ Kho
-Hà Đông
 Triệu Hải
 Đạ Pal
-Quảng Trị
-Mỹ Đức
-Quốc Oai
-An Nhơn
 Hương Lâm
 Đạ Lây
 Ma Đa Guôi
@@ -8490,9 +7792,7 @@ Ma Đa Guôi
 Đạ Ploa
 Đạ M'ri
 Đạ M'ri
-Di Linh
 Tân Nghĩa
-Tân Châu
 Liên Đầm
 Gung Ré
 Bảo Thuận
@@ -8517,7 +7817,6 @@ Tân Hội
 Tân Thành
 Phú Hội
 Hiệp An
-Bình Thạnh
 Ninh Gia
 Tà Hine
 Ninh Loan
@@ -8534,21 +7833,16 @@ Pró
 Ka Đô
 Lạc Xuân
 D'Ran
-Tân Phú
 Tiến Thành
 Tân Thành
 Tiến Hưng
-Tân Bình
 Tân Xuân
 Tân Thiện
 Tân Đồng
-Tân Phú
 Tân Tiến
 Tân Lập
 Tân Hòa
 Tân Lợi
-Tân Hưng
-Tân Phước
 Đồng Tâm
 Đồng Tiến
 Thuận Phú
@@ -8560,13 +7854,11 @@ Phú Sơn
 Đak Nhau
 Đường 10
 Bom Bo
-Bình Minh
 Minh Hưng
 Đức Liễu
 Nghĩa Bình
 Nghĩa Trung
 Đăng Hà
-Thống Nhất
 Phước Sơn
 Đồng Nai
 Long Phước
@@ -8583,8 +7875,6 @@ Bình Thắng
 Đức Hạnh
 Phú Văn
 Đak Ơ
-Bù Gia Mập
-Lộc Ninh
 Lộc Thuận
 Lộc Hiệp
 Lộc An
@@ -8600,14 +7890,12 @@ Lộc Khánh
 Lộc Điền
 Lộc Quang
 Lộc Phú
-Thanh Bình
 Phước Thiện
 Hưng Phước
 Thiện Hưng
 Thanh Hòa
 Tân Thành
 Tân Tiến
-Phú Riềng
 Phú Trung
 Phước Tân
 Bù Nho
@@ -8615,35 +7903,28 @@ Long Tân
 Long Hà
 Long Bình
 Long Hưng
-Bình Tân
 Bình Sơn
 Tân Khai
 Tân Quan
 Phước An
-Tân Hưng
 Thanh An
 An Khương
 Tân Lợi
-Thanh Bình
-An Phú
 Minh Tâm
 Minh Đức
 Đồng Nơ
-Tân Hiệp
 Hưng Chiến
 Phú Đức
 Phú Thịnh
 An Lộc
 Thanh Phú
 Thanh Lương
-Chơn Thành
 Minh Thành
 Nha Bích
 Minh Thắng
 Minh Lập
 Quang Minh
 Minh Hưng
-Minh Long
 Thành Tâm
 Bến Nghé
 Đa Kao
@@ -8655,7 +7936,6 @@ Phạm Ngũ Lão
 Cô Giang
 Nguyễn Cư Trinh
 Cầu Kho
-An Phú
 Thảo Điền
 Bình An
 An Khánh
@@ -8678,14 +7958,12 @@ Long Phước
 Trường Thạnh
 Long Thạnh Mỹ
 Long Bình
-Tân Phú
 Bình Thọ
 Linh Chiểu
 Linh Trung
 Linh Xuân
 Linh Tây
 Tam Phú
-Tam Bình
 Bình Chiểu
 Hiệp Bình Phước
 Hiệp Bình Chánh
@@ -8718,7 +7996,6 @@ Thới An
 Thạnh Xuân
 Thạnh Lộc
 An Phú Đông
-Củ Chi
 Tân An Hội
 Tân Thông Hội
 Tân Phú Trung
@@ -8732,18 +8009,15 @@ Phú Hòa Đông
 Phạm Văn Cội
 Nhuận Đức
 An Nhơn Tây
-An Phú
 Phú Mỹ Hưng
 Trung Lập Thượng
 Trung Lập Hạ
 Phước Thạnh
 Thái Mỹ
 Phước Hiệp
-Hóc Môn
 Thới Tam Thôn
 Đông Thạnh
 Nhị Bình
-Tân Hiệp
 Tân Thới Nhì
 Xuân Thới Sơn
 Xuân Thới Thượng
@@ -8759,7 +8033,6 @@ Quy Đức
 Đa Phước
 Phong Phú
 Bình Hưng
-Bình Chánh
 Tân Kiên
 Tân Nhựt
 Lê Minh Xuân
@@ -8913,13 +8186,10 @@ Phường 15
 Phường 16
 Phường 18
 Phường 13
-Phú Mỹ
 Phú Thuận
-Tân Phú
 Tân Thuận Đông
 Tân Thuận Tây
 Tân Kiểng
-Tân Hưng
 Tân Quy
 Bình Thuận
 Tân Phong
@@ -8953,7 +8223,6 @@ Phường 11
 Phường 12
 Phường 13
 Phường 14
-Nhà Bè
 Phước Kiển
 Phước Lộc
 Nhơn Đức
@@ -8969,38 +8238,29 @@ An Thới Đông
 Lý Nhơn
 Phú Cường
 Chánh Nghĩa
-Phú Thọ
 Phú Hòa
 Phú Lợi
 Hiệp Thành
-Phú Tân
-Phú Mỹ
 Hòa Phú
 Định Hòa
 Hiệp An
-Tân An
 Tương Bình Hiệp
 Chánh Mỹ
 Lái Thiêu
 Vĩnh Phú
 Bình Hòa
-An Phú
 Bình Chuẩn
 Thuận Giao
 An Thạnh
 Hưng Định
 Bình Nhâm
 An Sơn
-Dĩ An
 An Bình
-Đông Hòa
 Bình Thắng
 Bình An
 Tân Đông Hiệp
-Tân Bình
 Uyên Hưng
 Hội Nghĩa
-Tân Hiệp
 Vĩnh Tân
 Phú Chánh
 Tân Vĩnh Hiệp
@@ -9008,7 +8268,6 @@ Khánh Bình
 Bạch Đằng
 Thạnh Phước
 Tân Phước Khánh
-Thái Hòa
 Thạnh Hội
 Tân Thành
 Hiếu Liêm
@@ -9016,7 +8275,6 @@ Tân Định
 Bình Mỹ
 Tân Lập
 Đất Cuốc
-Tân Bình
 Lạc An
 Tân Mỹ
 Thường Tân
@@ -9026,7 +8284,6 @@ Phước Sang
 An Thái
 An Long
 An Linh
-Tân Hiệp
 Tân Long
 Phước Hoà
 Vĩnh Hoà
@@ -9036,9 +8293,7 @@ Trừ Văn Thố
 Cây Trường II
 Long Nguyên
 Lai Hưng
-Tân Hưng
 Hưng Hòa
-Dầu Tiếng
 Thanh An
 Thanh Tuyền
 Long Tân
@@ -9058,13 +8313,10 @@ Tân Định
 Thới Hòa
 Hòa Lợi
 Chánh Phú Hòa
-Thanh Bình
 Quyết Thắng
 Thống Nhất
 Tam Hiệp
 Tam Hòa
-Tân Hiệp
-Tân Biên
 Tân Hòa
 Hố Nai
 Tân Tiến
@@ -9074,11 +8326,9 @@ Trung Dũng
 Quang Vinh
 Bửu Long
 Tân Hạnh
-Hòa Bình
 Hoá An
 Tân Vạn
 Bửu Hòa
-Hiệp Hòa
 Bình Đa
 An Bình
 Long Bình Tân
@@ -9087,7 +8337,6 @@ Long Hưng
 Phước Tân
 Tam Phước
 Long Bình
-Long Thành
 Lộc An
 Bình An
 Long Đức
@@ -9096,7 +8345,6 @@ Tam An
 Long An
 Long Phước
 Phước Thái
-Tân Hiệp
 Phước Bình
 Bàu Cạn
 Suối Trầu
@@ -9114,22 +8362,17 @@ Vĩnh Thanh
 Hiệp Phước
 Long Thọ
 Phước An
-Trảng Bom
 Tây Hòa
 Sông Thao
 Bàu Hàm
-Thanh Bình
 Cây Gáo
 Sông Trầu
-Bắc Sơn
 Hố Nai 3
-Bình Minh
 Quảng Tiến
 Giang Điền
 Đồi 61
 Trung Hòa
 An Viễn
-Đông Hòa
 Hưng Thịnh
 Xuân Thạnh
 Quang Trung
@@ -9151,7 +8394,6 @@ Suối Tre
 Xuân Trung
 Xuân Bình
 Xuân Hòa
-Phú Bình
 Bàu Sen
 Xuân Lập
 Xuân Tân
@@ -9170,7 +8412,6 @@ Xuân Đường
 Sông Nhạn
 Thừa Đức
 Gia Ray
-Xuân Trường
 Xuân Thành
 Suối Cao
 Xuân Bắc
@@ -9184,11 +8425,9 @@ Lang Minh
 Xuân Hưng
 Xuân Hòa
 Xuân Tâm
-Định Quán
 Phú Hòa
 Phú Lợi
 Phú Vinh
-Phú Tân
 Thanh Sơn
 Ngọc Định
 Phú Ngọc
@@ -9198,8 +8437,6 @@ Túc Trưng
 Phú Túc
 Suối Nho
 Gia Canh
-Tân Phú
-Phú Lộc
 Phú Xuân
 Thanh Sơn
 Phú Trung
@@ -9214,19 +8451,15 @@ Phú Thịnh
 Trà Cổ
 Phú Thanh
 Phú Lâm
-Phú Bình
 Phú Điền
 Vĩnh An
 Mã Đà
 Phú Lý
 Hiếu Liêm
 Trị An
-Tân An
 Vĩnh Tân
 Thiện Tân
-Thạnh Phú
 Bình Lợi
-Tân Bình
 Bình Hòa
 Đức Thắng
 Bình Hưng
@@ -9253,7 +8486,6 @@ Vĩnh Hảo
 Phan Dũng
 Phú Lạc
 Phong Phú
-Bình Thạnh
 Chí Công
 Hòa Minh
 Phan Rí Cửa
@@ -9271,7 +8503,6 @@ Phan Thanh
 Sông Bình
 Sông Lũy
 Phan Tiến
-Bình Tân
 Lương Sơn
 Hồng Thái
 Hòa Thắng
@@ -9284,7 +8515,6 @@ Thuận Hòa
 Đông Tiến
 Đa Mi
 La Dạ
-Đông Giang
 Hàm Phú
 Thuận Minh
 Hàm Liêm
@@ -9331,14 +8561,10 @@ Sơn Mỹ
 Tân Thắng
 Thắng Hải
 Phước Hội
-Bình Tân
-Tân Bình
 Tân Tiến
 Tân Hải
-Tân An
 Tân Thiện
 Phước Lộc
-Tân Phước
 Thuận Nam
 Hàm Minh
 Hàm Cường
@@ -9362,7 +8588,6 @@ Long Toàn
 Long Tâm
 Long Phước
 Hòa Long
-Tân Hưng
 Phước Hưng
 Kim Dinh
 Long Hương
@@ -9383,15 +8608,12 @@ Rạch Dừa
 Phường 11
 Phường 12
 Long Sơn
-Đất Đỏ
 Phước Long Thọ
 Long Tân
 Láng Dài
 Lộc An
 Phước Hội
-Long Mỹ
 Phước Hải
-Long Điền
 An Nhứt
 An Ngãi
 Tam Phước
@@ -9408,9 +8630,7 @@ Hòa Hiệp
 Tân Lâm
 Bàu Lâm
 Hòa Hưng
-Hòa Bình
 Phước Tân
-Xuyên Mộc
 Ngãi Giao
 Bình Giã
 Bình Trung
@@ -9427,12 +8647,10 @@ Nghĩa Thành
 Xuân Sơn
 Sơn Bình
 Suối Rao
-Phú Mỹ
 Mỹ Xuân
 Hắc Dịch
 Sông Xoài
 Tóc Tiên
-Tân Phước
 Châu Pha
 Tân Hoà
 Tân Hải
@@ -9443,11 +8661,8 @@ Phường 3
 Phường 4
 Hiệp Ninh
 Ninh Thạnh
-Ninh Sơn
 Thạnh Tân
-Tân Bình
 Bình Minh
-Dương Minh Châu
 Phan
 Bàu Năng
 Chà Là
@@ -9458,7 +8673,6 @@ Bến Củi
 Phước Minh
 Phước Ninh
 Suối Đá
-Tân Châu
 Suối Dây
 Tân Thành
 Tân Hoà
@@ -9466,21 +8680,16 @@ Suối Ngô
 Tân Đông
 Tân Hà
 Tân Hội
-Tân Hiệp
 Thạnh Đông
-Tân Phú
-Tân Hưng
 Tân Biên
 Thạnh Bình
 Thạnh Bắc
 Tân Lập
-Tân Bình
 Thạnh Tây
 Hoà Hiệp
 Tân Phong
 Mỏ Công
 Trà Vong
-Châu Thành
 Đồng Khởi
 Thái Bình
 Hảo Đước
@@ -9503,7 +8712,6 @@ Long Thành Nam
 Trường Tây
 Trường Đông
 Trường Hoà
-Gò Dầu
 Thanh Phước
 Phước Thạnh
 Phước Đông
@@ -9512,23 +8720,18 @@ Hiệp Thạnh
 Thạnh Đức
 Cẩm Giang
 Phước Trạch
-Bến Cầu
 Tiên Thuận
 Long Chữ
 Long Giang
 Long Phước
-Long Khánh
 Long Thuận
 Lợi Thuận
 An Thạnh
 Trảng Bàng
-Gia Lộc
 Lộc Hưng
 Hưng Thuận
 Đôn Thuận
-Gia Bình
 Phước Lưu
-Bình Thạnh
 Phước Chỉ
 An Hoà
 An Tịnh
@@ -9539,7 +8742,6 @@ Mỹ Tân
 Mỹ Ngãi
 Phường 11
 Tân Thuận Tây
-Hòa An
 Hoà Thuận
 Phường 4
 Phường 2
@@ -9564,7 +8766,6 @@ Bình Hàng Trung
 Bình Hàng Tây
 Mỹ Long
 Mỹ Hiệp
-Bình Thạnh
 Mỹ An
 Tân Kiều
 Mỹ Hòa
@@ -9586,9 +8787,7 @@ Phú Hiệp
 Phú Thành B
 An Hòa
 An Long
-Phú Ninh
 Phú Thành A
-Phú Thọ
 Phú Đức
 Sa Rài
 Tân Thành B
@@ -9598,9 +8797,7 @@ Tân Hộ Cơ
 Bình Phú
 Tân Công Chí
 An Phước
-Tân Phước
 An Thạnh
-Bình Thạnh
 Tân Hội
 An Lạc
 An Lộc
@@ -9617,7 +8814,6 @@ Long Khánh B
 Long Thuận
 Phú Thuận B
 Phú Thuận A
-Thanh Bình
 Bình Thành
 Bình Tấn
 Tân Mỹ
@@ -9626,11 +8822,7 @@ An Phong
 Tân Quới
 Tân Hòa
 Tân Huề
-Tân Bình
 Tân Long
-Tân Thạnh
-Tân Phú
-Lấp Vò
 Bình Thành
 Định An
 Định Yên
@@ -9639,15 +8831,11 @@ Hội An Đông
 Mỹ An Hưng A
 Mỹ An Hưng B
 Tân Mỹ
-Vĩnh Thạnh
 Long Hưng B
 Long Hưng A
 Tân Khánh Trung
-Lai Vung
-Hòa Thành
 Tân Dương
 Long Hậu
-Tân Phước
 Tân Thành
 Vĩnh Thới
 Hòa Long
@@ -9659,18 +8847,14 @@ Phường 1
 Phường 3
 Phường 4
 Phường 2
-Tân Phú Đông
 An Hoà
 Tân Quy Tây
 Tân Quy Đông
 Tân Khánh Đông
 Cái Tàu Hạ
-An Nhơn
 An Hiệp
 Tân Nhuận Đông
-Tân Bình
 Tân Phú Trung
-Tân Phú
 Phú Long
 Phú Hựu
 An Phú Thuận
@@ -9703,7 +8887,6 @@ Hiệp Thạnh
 Dương Xuân Hội
 Long Trì
 An Lục Long
-Tân Trụ
 Tân Phước Tây
 Bình Trinh Đông
 An Nhựt Tân
@@ -9714,7 +8897,6 @@ Bình Lãng
 Bình Tịnh
 Đức Tân
 Nhựt Ninh
-Cần Đước
 Tân Lân
 Mỹ Lệ
 Tân Trạch
@@ -9731,15 +8913,12 @@ Phước Đông
 Long Cang
 Long Hựu Đông
 Long Hựu Tây
-Cần Giuộc
 Long Hậu
 Tân Kim
-Mỹ Lộc
 Long Thượng
 Phước Lý
 Phước Hậu
 Phước Lâm
-Thuận Thành
 Trường Bình
 Phước Lại
 Phước Vĩnh Đông
@@ -9748,7 +8927,6 @@ Long An
 Long Phụng
 Đông Thạnh
 Tân Tập
-Bến Lức
 Mỹ Yên
 Thanh Phú
 Tân Bửu
@@ -9770,16 +8948,12 @@ Tân Mỹ
 An Ninh Đông
 Lộc Giang
 An Ninh Tây
-Hiệp Hòa
-Hiệp Hòa
-Tân Phú
 Hòa Khánh Tây
 Hòa Khánh Đông
 Đức Hòa Thượng
 Mỹ Hạnh Bắc
 Mỹ Hạnh Nam
 Đức Hòa Đông
-Đức Hòa
 Hòa Khánh Nam
 Đức Hòa Hạ
 Hựu Thạnh
@@ -9795,10 +8969,8 @@ Bình Thành
 Bình Hòa Hưng
 Bình Hòa Nam
 Thạnh Hóa
-Thạnh Phú
 Thuận Nghĩa Hòa
 Thuận Bình
-Tân Hiệp
 Thạnh Phước
 Thủy Tây
 Thạnh An
@@ -9809,40 +8981,30 @@ Phường 1
 Phường 2
 Phường 3
 Bình Hiệp
-Bình Tân
-Thạnh Trị
 Tuyên Thạnh
 Thạnh Hưng
 Tân Thành
 Bình Hòa Đông
-Bình Thạnh
 Bình Hòa Tây
 Bình Hòa Trung
 Tân Lập
 Bình Phong Thạnh
-Vĩnh Hưng
 Thái Bình Trung
 Thái Trị
 Hưng Điền A
 Khánh Hưng
 Vĩnh Trị
 Vĩnh Bình
-Vĩnh Thuận
 Tuyên Bình Tây
 Tuyên Bình
-Tân Hưng
-Vĩnh Thạnh
 Thạnh Hưng
-Hưng Hà
 Hưng Điền B
 Hưng Điền
 Hưng Thạnh
 Vĩnh Châu B
-Vĩnh Lợi
 Vĩnh Châu A
 Vĩnh Đại
 Vĩnh Bửu
-Tân Thạnh
 Kiến Bình
 Nhơn Hoà
 Tân Lập
@@ -9854,11 +9016,9 @@ Tân Thành
 Tân Ninh
 Nhơn Ninh
 Tân Hòa
-Tân Bình
 Thủ Thừa
 Tân Thành
 Tân Lập
-Long Thành
 Long Thạnh
 Long Thuận
 Mỹ Lạc
@@ -9866,7 +9026,6 @@ Mỹ Thạnh
 Mỹ An
 Bình An
 Mỹ Phú
-Bình Thạnh
 Nhị Thành
 Phường 7
 Phường 3
@@ -9887,10 +9046,7 @@ Tân Long
 Thới Sơn
 Phú Thạnh
 Phú Đông
-Phú Tân
-Tân Phú
 Tân Thới
-Tân Thạnh
 Phường 2
 Phường 3
 Long Thuận
@@ -9917,7 +9073,6 @@ Bình Ân
 Bình Nghị
 Phước Trung
 Vĩnh Bình
-Thạnh Trị
 Yên Luông
 Thành Công
 Bình Phú
@@ -9940,7 +9095,6 @@ Hòa Định
 An Thạnh Thủy
 Bình Ninh
 Đăng Hưng Phước
-Thanh Bình
 Tân Bình Thạnh
 Trung Hòa
 Mỹ Tịnh An
@@ -9948,7 +9102,6 @@ Hòa Tịnh
 Phú Kiết
 Lương Hòa Lạc
 Song Bình
-Tân Hiệp
 Tân Lý Tây
 Tân Hương
 Tân Hội Đông
@@ -9962,21 +9115,17 @@ Nhị Bình
 Dưỡng Điềm
 Hữu Đạo
 Bình Trưng
-Đông Hòa
 Long Hưng
-Thạnh Phú
 Bình Đức
 Song Thuận
 Vĩnh Kim
 Bàn Long
-Kim Sơn
 Phú Phong
 Mỹ Phước
 Phước Lập
 Tân Lập 1
 Tân Lập 2
 Tân Hòa Thành
-Phú Mỹ
 Hưng Thạnh
 Tân Hòa Đông
 Thạnh Mỹ
@@ -9988,35 +9137,27 @@ Bình Phú
 Mỹ Thành Bắc
 Phú Cường
 Mỹ Thành Nam
-Phú Nhuận
 Thạnh Lộc
 Cẩm Sơn
 Phú An
 Mỹ Long
 Long Tiên
-Hiệp Đức
 Long Trung
 Hội Xuân
 Tân Phong
-Tam Bình
 Ngũ Hiệp
 Phường 1
 Phường 4
 Phường 3
 Nhị Mỹ
 Tân Hội
-Tân Phú
 Mỹ Hạnh Đông
 Mỹ Hạnh Trung
 Mỹ Phước Tây
-Tân Bình
 Phường 2
 Thanh Hòa
-Long Khánh
 Phường 5
-Phú Quý
 Nhị Quý
-Cái Bè
 Đông Hòa Hiệp
 An Cư
 Hậu Thành
@@ -10035,7 +9176,6 @@ Mỹ Đức Tây
 Mỹ Lợi A
 An Thái Đông
 An Thái Trung
-Tân Hưng
 Tân Thanh
 An Hữu
 Hòa Hưng
@@ -10052,10 +9192,8 @@ Trường An
 Tân Ngãi
 Tân Hòa
 Tân Hội
-Long Hồ
 Thanh Đức
 Bình Hòa Phước
-Đồng Phú
 Hòa Ninh
 An Bình
 Long Phước
@@ -10067,18 +9205,13 @@ Hòa Phú
 Lộc Hòa
 Phú Đức
 Long An
-Tam Bình
 Tường Lộc
 Hòa Hiệp
 Hòa Thạnh
 Hoà Lộc
-Hậu Lộc
 Tân Lộc
-Phú Lộc
 Song Phú
 Phú Thịnh
-Tân Phú
-Long Phú
 Mỹ Lộc
 Mỹ Thạnh Trung
 Loan Mỹ
@@ -10091,19 +9224,16 @@ Nguyễn Văn Thảnh
 Thành Trung
 Thành Đông
 Tân Thành
-Tân Hưng
 Tân Lược
 Tân An Thạnh
 Tân Bình
 Cái Vồn
 Đông Thuận
-Thuận An
 Thành Phước
 Mỹ Hòa
 Đông Bình
 Đông Thạnh
 Đông Thành
-Trà Ôn
 Thiện Mỹ
 Tích Thiện
 Vĩnh Xuân
@@ -10112,12 +9242,10 @@ Trà Côn
 Thuận Thới
 Hựu Thành
 Thới Hòa
-Hòa Bình
 Xuân Hiệp
 Nhơn Bình
 Lục Sỹ Thành
 Phú Thành
-Vũng Liêm
 Trung Thành Tây
 Quới An
 Tân Quới Trung
@@ -10132,7 +9260,6 @@ Hiếu Thuận
 Trung An
 Trung Ngãi
 Trung Nghĩa
-Thanh Bình
 Quới Thiện
 Hiếu Nhơn
 Hiếu Thành
@@ -10142,7 +9269,6 @@ Chánh An
 An Phước
 Mỹ Phước
 Mỹ An
-Long Mỹ
 Hòa Tịnh
 Nhơn Phú
 Chánh Hội
@@ -10156,7 +9282,6 @@ Phường 1
 Phường 4
 Phú Hưng
 Phú Khương
-Phú Tân
 Sơn Đông
 Mỹ Thành
 Bình Phú
@@ -10166,8 +9291,6 @@ Phường 5
 Phường 3
 Mỹ Thạnh An
 Nhơn Thạnh
-Phú Nhuận
-Châu Thành
 Phú An Hòa
 An Phước
 Phước Thạnh
@@ -10180,7 +9303,6 @@ Tân Thạch
 An Khánh
 Tam Phước
 Tường Đa
-Sơn Hòa
 An Hiệp
 Thành Triệu
 Phú Túc
@@ -10188,7 +9310,6 @@ Phú Đức
 Quới Thành
 Tiên Thủy
 Tiên Long
-Tân Phú
 Chợ Lách
 Hòa Nghĩa
 Tân Thiềng
@@ -10207,7 +9328,6 @@ Tân Thành Bình
 Tân Phú Tây
 Thạnh Ngãi
 Thanh Tân
-Phú Mỹ
 Hưng Khánh Trung A
 Nhuận Phú Tân
 Tân Thanh Tây
@@ -10230,7 +9350,6 @@ Ngãi Đăng
 Minh Đức
 Cẩm Sơn
 Hương Mỹ
-Giồng Trôm
 Bình Hoà
 Châu Bình
 Châu Hòa
@@ -10243,7 +9362,6 @@ Lương Phú
 Thuận Điền
 Sơn Phú
 Hưng Phong
-Phước Long
 Long Mỹ
 Tân Lợi Thạnh
 Thạnh Phú Đông
@@ -10252,17 +9370,13 @@ Tân Thanh
 Bình Thành
 Hưng Nhượng
 Hưng Lễ
-Bình Đại
 Bình Thắng
 Đại Hòa Lộc
 Bình Thới
-Thạnh Trị
 Phú Long
 Định Trung
 Lộc Thuận
-Phú Vang
 Vang Quới Đông
-Thới Lai
 Vang Quới Tây
 Phú Thuận
 Châu Hưng
@@ -10272,7 +9386,6 @@ Tam Hiệp
 Thạnh Phước
 Thừa Đức
 Thới Thuận
-Ba Tri
 Vĩnh Hòa
 Phú Ngãi
 Bảo Thạnh
@@ -10287,7 +9400,6 @@ Phú Lễ
 An Bình Tây
 An Ngãi Trung
 An Phú Trung
-Tân Hưng
 An Ngãi Tây
 An Hiệp
 An Đức
@@ -10296,7 +9408,6 @@ An Hòa Tây
 An Thủy
 Tân Thủy
 Bảo Thuận
-Thạnh Phú
 An Thạnh
 Mỹ An
 Mỹ Hưng
@@ -10306,7 +9417,6 @@ Tân Phong
 Phú Khánh
 Thới Thạnh
 Hòa Lợi
-Bình Thạnh
 An Thuận
 An Nhơn
 Giao Thạnh
@@ -10324,7 +9434,6 @@ Phường 7
 Phường 8
 Phường 9
 Long Đức
-Càng Long
 Nhị Long
 Đại Phước
 Nhị Long Phú
@@ -10333,14 +9442,11 @@ Mỹ Cẩm
 An Trường A
 An Trường
 Tân Bình
-Tân An
 Huyền Hội
 Phương Thạnh
 Đại Phúc
 Bình Phú
-Cầu Kè
 Hòa Ân
-Thạnh Phú
 Thông Hòa
 Tam Ngãi
 An Phú Tân
@@ -10349,7 +9455,6 @@ Châu Điền
 Phong Thạnh
 Phong Phú
 Ninh Thới
-Tiểu Cần
 Tập Ngãi
 Hiếu Tử
 Hiếu Trung
@@ -10360,17 +9465,14 @@ Tân Hòa
 Hùng Hòa
 Tân Hùng
 Ngãi Hùng
-Trà Cú
 Thanh Sơn
 Long Hiệp
-Tân Hiệp
 Phước Hưng
 Tập Sơn
 Tân Sơn
 An Quảng Hữu
 Lưu Nghiệp Anh
 Ngãi Xuyên
-Kim Sơn
 Hàm Tân
 Định An
 Định An
@@ -10384,10 +9486,8 @@ Long Hữu
 Long Toàn
 Dân Thành
 Trường Long Hòa
-Long Thành
 Đôn Xuân
 Đôn Châu
-Long Khánh
 Ngũ Lạc
 Long Vĩnh
 Đông Hải
@@ -10406,7 +9506,6 @@ Thạnh Hòa Sơn
 Hiệp Mỹ Đông
 Hiệp Mỹ Tây
 Mỹ Long Nam
-Châu Thành
 Phước Hảo
 Hưng Mỹ
 Hòa Thuận
@@ -10422,7 +9521,6 @@ Hòa Minh
 Long Hòa
 Mỹ Long
 Mỹ Bình
-Mỹ Xuyên
 Mỹ Phước
 Mỹ Quý
 Mỹ Hoà Hưng
@@ -10433,7 +9531,6 @@ Mỹ Hòa
 Đông Xuyên
 Mỹ Thới
 Mỹ Thạnh
-Chợ Mới
 Kiến An
 Mỹ Hội Đông
 Nhơn Mỹ
@@ -10448,11 +9545,7 @@ Long Kiến
 Long Giang
 An Thạnh Trung
 Bình Phước Xuân
-Hội An
 Hòa Bình
-Hòa An
-Phú Mỹ
-Phú Thọ
 Phú An
 Phú Thạnh
 Chợ Vàm
@@ -10464,7 +9557,6 @@ Hoà Lạc
 Phú Thành
 Phú Xuân
 Hiệp Xương
-Phú Bình
 Bình Thạnh Đông
 Phú Hưng
 Tân Hòa
@@ -10474,16 +9566,11 @@ Long Hưng
 Long Châu
 Vĩnh Hòa
 Vĩnh Xương
-Phú Lộc
-Tân Thạnh
-Tân An
 Long An
 Châu Phong
 Lê Chánh
 Phú Vĩnh
-Long Phú
 Long Sơn
-An Phú
 Vĩnh Lộc
 Phú Hữu
 Khánh An
@@ -10502,21 +9589,17 @@ Châu Phú A
 Vĩnh Ngươn
 Vĩnh Tế
 Núi Sam
-Vĩnh Châu
 Vĩnh Mỹ
 Cái Dầu
 Vĩnh Thạnh Trung
 Mỹ Phú
 Khánh Hòa
-Mỹ Đức
 Ô Long Vĩ
 Đào Hữu Cảnh
 Thạnh Mỹ Tây
 Bình Phú
-Bình Long
 Bình Chánh
 Bình Mỹ
-Bình Thủy
 Tịnh Biên
 An Nông
 An Cư
@@ -10531,7 +9614,6 @@ Núi Voi
 Tân Lợi
 An Hảo
 Tân Lập
-Tri Tôn
 Châu Lăng
 Lê Trì
 Ba Chúc
@@ -10547,7 +9629,6 @@ Cô Tô
 Tà Đảnh
 Tân Tuyến
 An Châu
-Bình Thạnh
 Bình Hòa
 An Hòa
 Cần Đăng
@@ -10556,7 +9637,6 @@ Vĩnh Bình
 Vĩnh An
 Tân Phú
 Vĩnh Nhuận
-Vĩnh Lợi
 Hòa Bình Thạnh
 Vĩnh Thành
 Núi Sập
@@ -10582,24 +9662,18 @@ Vĩnh Quang
 Phi Thông
 Vĩnh Thông
 Vĩnh Hiệp
-Vĩnh Bảo
 Vĩnh Lạc
 An Hòa
 Rạch Sỏi
-Vĩnh Lợi
 An Bình
-Tân Hiệp
 Tân Hiệp B
 Tân Hoà
 Tân Thành
 Tân Hội
-Tân An
 Tân Hiệp A
-Thạnh Trị
 Thạnh Đông A
 Thạnh Đông
 Thạnh Đông B
-Hòn Đất
 Mỹ Thái
 Nam Thái Sơn
 Bình Sơn
@@ -10608,7 +9682,6 @@ Lình Huỳnh
 Thổ Sơn
 Sơn Kiên
 Sơn Bình
-Sóc Sơn
 Mỹ Lâm
 Mỹ Phước
 Mỹ Hiệp Sơn
@@ -10625,7 +9698,6 @@ Pháo Đài
 Tô Châu
 Tiên Hải
 Thuận Yên
-Kiên Lương
 Kiên Bình
 Hòa Điền
 Dương Hòa
@@ -10644,7 +9716,6 @@ Vĩnh Hoà Phú
 Bình An
 Minh Hòa
 Thứ Ba
-Hưng Yên
 Tây Yên A
 Tây Yên
 Nam Yên
@@ -10654,30 +9725,24 @@ Nam Thái A
 Đông Yên
 Thứ Mười Một
 Đông Thạnh
-Đông Hòa
 Thuận Hoà
-Tân Thạnh
 Đông Hưng A
 Vân Khánh Đông
 Vân Khánh
 Vân Khánh Tây
 Đông Hưng B
-Đông Hưng
 An Minh Bắc
 Minh Thuận
 Vĩnh Hòa
 Hoà Chánh
 Thạnh Yên
 Thạnh Yên A
-Vĩnh Thuận
 Phong Đông
 Vĩnh Bình Nam
 Vĩnh Bình Bắc
 Bình Minh
 Tân Thuận
-Vĩnh Thuận
 Vĩnh Phong
-Gò Quao
 Vĩnh Hòa Hưng Nam
 Vĩnh Hòa Hưng Bắc
 Định An
@@ -10721,7 +9786,6 @@ Gành Dầu
 An Thới
 Hòn Thơm
 Thổ Châu
-Thới Bình
 Cái Khế
 An Hòa
 An Nghiệp
@@ -10734,7 +9798,6 @@ Xuân Khánh
 Hưng Lợi
 An Khánh
 An Bình
-Bình Thủy
 Bùi Hữu Nghĩa
 Trà An
 Trà Nóc
@@ -10749,9 +9812,7 @@ Thới An
 Thới Long
 Long Hưng
 Thới Hòa
-Thốt Nốt
 Thới Thuận
-Thuận An
 Trung Nhứt
 Thạnh Hoà
 Trung Kiên
@@ -10769,20 +9830,16 @@ Thạnh Tiến
 Thạnh Lộc
 Vĩnh Bình
 Vĩnh Trinh
-Cờ Đỏ
 Thới Hưng
 Trung Thạnh
 Trung An
 Trung Hưng
-Thạnh Phú
 Thới Đông
 Thới Xuân
 Đông Thắng
 Đông Hiệp
-Thới Lai
 Định Môn
 Thới Thạnh
-Tân Thạnh
 Xuân Thắng
 Thới Tân
 Đông Thuận
@@ -10792,7 +9849,6 @@ Trường Xuân B
 Trường Xuân
 Trường Thắng
 Trường Thành
-Phong Điền
 Mỹ Khánh
 Giai Xuân
 Tân Thới
@@ -10818,10 +9874,8 @@ Hoả Tiến
 Nàng Mau
 Vị Thắng
 Vị Trung
-Vĩnh Tường
 Vĩnh Trung
 Vị Bình
-Vị Thanh
 Vị Đông
 Vị Thuỷ
 Vĩnh Thuận Tây
@@ -10833,10 +9887,8 @@ Xà Phiên
 Thuận Hòa
 Thuận Hưng
 Vĩnh Thuận Đông
-Bình Thạnh
 Vĩnh Tường
 Thuận An
-Long Phú
 Long Trị A
 Long Bình
 Long Trị
@@ -10854,10 +9906,8 @@ Thạnh Hòa
 Bình Thành
 Tân Bình
 Kinh Cùng
-Hòa An
 Phương Bình
 Phương Phú
-Ngã Bảy
 Đại Thành
 Hiệp Lợi
 Lái Hiếu
@@ -10869,7 +9919,6 @@ Phú An
 Đông Thạnh
 Đông Phước A
 Đông Phước
-Phú Tân
 Mái Dầm
 Đông Phú
 Một Ngàn
@@ -10900,7 +9949,6 @@ Hậu Thạnh
 Trường Khánh
 Phú Hữu
 Châu Khánh
-Tân Thạnh
 Tân Hưng
 Long Phú
 Kế Sách
@@ -10923,12 +9971,10 @@ Thuận Hòa
 Thiện Mỹ
 An Ninh
 An Hiệp
-Phú Tân
 Huỳnh Hữu Nghĩa
 Long Hưng
 Hưng Phú
 Mỹ Hương
-Mỹ Tú
 Mỹ Phước
 Thuận Hưng
 Mỹ Thuận
@@ -10949,12 +9995,9 @@ Lâm Tân
 Thạnh Tân
 Thạnh Trị
 Vĩnh Thành
-Vĩnh Lợi
 Châu Hưng
-Mỹ Xuyên
 Tham Đôn
 Đại Tâm
-Thạnh Phú
 Hòa Tú 1
 Ngọc Đông
 Ngọc Tố
@@ -10962,7 +10005,6 @@ Gia Hòa 1
 Thạnh Quới
 Gia Hòa 2
 Hòa Tú 2
-Trần Đề
 Đại Ân  2
 Trung Bình
 Lịch Hội Thượng
@@ -10983,7 +10025,6 @@ Vĩnh Hiệp
 Vĩnh Phước
 Vĩnh Tân
 Lai Hòa
-Cù Lao Dung
 An Thạnh Đông
 An Thạnh 1
 An Thạnh Tây
@@ -11019,7 +10060,6 @@ Ninh Hòa
 Ninh Quới
 Ninh Quới A
 Phước Long
-Phước Long
 Phong Thạnh Tây A
 Phong Thạnh Tây B
 Vĩnh Phú Tây
@@ -11041,7 +10081,6 @@ Long Điền Tây
 Điền Hải
 Long Điền Đông
 Long Điền Đông A
-Long Điền
 An Trạch A
 An Trạch
 Định Thành
@@ -11072,19 +10111,16 @@ Tắc Vân
 Hòa Thành
 Lý Văn Lâm
 Hòa Tân
-Thới Bình
 Trí Phải
 Trí Lực
 Biển Bạch Đông
 Tân Bằng
 Biển Bạch
-Thới Bình
 Tân Phú
 Tân Lộc Bắc
 Tân Lộc Đông
 Tân Lộc
 Hồ Thị Kỷ
-U Minh
 Khánh Thuận
 Khánh Hòa
 Khánh Tiến
@@ -11092,7 +10128,6 @@ Khánh Hội
 Khánh Lâm
 Nguyễn Phích
 Khánh An
-Trần Văn Thời
 Khánh Bình Đông
 Trần Hợi
 Khánh Hưng
@@ -11104,28 +10139,22 @@ Khánh Bình Tây Bắc
 Khánh Bình Tây
 Khánh Hải
 Sông Đốc
-Phong Điền
 Việt Khái
 Cái Đôi Vàm
 Rạch Chèo
 Tân Hưng Tây
 Tân Hải
-Phú Tân
 Phú Mỹ
 Phú Thuận
 Việt Thắng
-Cái Nước
 Đông Thới
-Đông Hưng
 Tân Hưng Đông
 Trần Thới
 Tân Hưng
 Hoà Mỹ
 Hưng Mỹ
 Phú Hưng
-Thạnh Phú
 Lương Thế Trân
-Đầm Dơi
 Tạ An Khương  Nam
 Tạ An Khương
 Tân Trung
@@ -11141,7 +10170,6 @@ Ngọc Chánh
 Nguyễn Huân
 Tân Tiến
 Tân Thuận
-Năm Căn
 Hàng Vịnh
 Hiệp Tùng
 Hàm Rồng
