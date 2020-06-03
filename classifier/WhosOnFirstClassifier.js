@@ -15,7 +15,7 @@ const normalize = require('../tokenization/normalizer')({ lowercase: true, remov
 // note: these should be defined from most granular to least granular
 const placetypes = {
   'locality': {
-    files: ['name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt'],
+    files: ['name:eng_x_preferred.txt', 'name:fra_x_preferred.txt', 'name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt'],
     classifications: [AreaClassification, LocalityClassification]
   },
   'county': {
@@ -23,7 +23,7 @@ const placetypes = {
     classifications: [AreaClassification, CountyClassification]
   },
   'region': {
-    files: ['name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt'],
+    files: ['abrv:eng_x_preferred.txt', 'name:eng_x_preferred.txt', 'name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt'],
     classifications: [AreaClassification, RegionClassification]
   },
   // 'dependency': {
@@ -35,7 +35,7 @@ const placetypes = {
     classifications: [AreaClassification, CountryClassification]
   },
   'street': {
-    files: ['name:vie_x_preferred.txt'],
+    files: ['name:vie_x_preferred.txt', 'name:vie_x_preferred_prefix.txt'],
     classifications: [AreaClassification, StreetClassification]
   },
 }

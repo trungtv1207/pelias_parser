@@ -2947,7 +2947,6 @@ Thông Thiên Học
 Tà Lài
 Lương Đình Của
 Cây Da
-Highway
 Doan Thi Diem
 Tran Phu, Dong Van, Ha Giang
 Phan Đình Phungf
@@ -3984,7 +3983,7 @@ Ngô 42 Thįnh Liệt
 Đường Xuân La
 Đường Lĩnh Nam
 Ngõ 76 Đại Từ
-B2
+Đường B2
 Ngõ 319 Tam Trinh
 Phố Kim Quan
 Phố Võng Thị
