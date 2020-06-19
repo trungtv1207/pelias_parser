@@ -1189,7 +1189,6 @@ Hẻm 1332
 Ngõ Nguyễn Đăng Giai
 Ngõ Trưng Vương
 Ngõ Tân Túc
-Ngõ Alexandre de Rhodes
 Ngõ Tân Chánh Hiệp 35
 Ngõ Hem 204
 Đường Số 3
@@ -8838,7 +8837,6 @@ Hẻm 62 Lâm Văn Bền
 Ngõ Nhánh rẽ Dương Đình Cúc
 Đường Cầu Rạch Tam
 Đường Cầu Chợ Đệm
-Ngõ Alexandre De Rhodes
 Đường Quảng trường sáng tạo
 Đường T1
 Đường vào Cáp treo Tà Cú
@@ -37269,7 +37267,6 @@ Ngõ 11 Việt Hưng
 Ngõ 82 Ô Cách
 Ngõ 613 Trương Định
 Ngách 172/172 Đường Âu Cơ
-Đường De Qual
 Ngõ Phú Viên
 Ngõ 42 Kim Giang
 Ngõ 60 Hoa Lâm
@@ -37392,7 +37389,6 @@ Ngõ 612/24 Lạc Long Quân
 Ngõ 442 Bạch Mai
 Ngõ 66 Âu Cơ
 Ngõ 204
-Ngõ 119 De Qual
 Hẻm 616 Lê Hồng Phong
 Hẻm 550 Lê Hồng Phong
 Ngõ 41 Đường Hoa
