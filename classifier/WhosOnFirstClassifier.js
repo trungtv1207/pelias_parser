@@ -35,7 +35,7 @@ const placetypes = {
     classifications: [AreaClassification, CountryClassification]
   },
   'street': {
-    files: ['name:vie_x_preferred.txt', 'name:vie_x_preferred_prefix.txt'],
+    files: ['name:vie_x_preferred.txt'],
     classifications: [AreaClassification, StreetClassification]
   },
 }

@@ -3,3 +3,5 @@ công trường|cong truong|ct|c t
 quảng trường|quang truong|qt|q t
 quốc lộ|quoc lo|ql|q l
 tỉnh lộ|tinh lo|tl|t l
+đường|duong
+phố|pho
