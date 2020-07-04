@@ -4,6 +4,7 @@
 $ sudo apt update
 $ sudo apt install nodejs
 ```
+> Clone project source code
 # Usage
 > Giao diện dòng lệnh
 ```bash
@@ -12,6 +13,16 @@ $ node bin/cli.js ADDRESS_TEXT
 > Giao diện web browser
 ```bash
 $ node server/http.js
+```
+# Fix lỗi nếu có
+> Xoá thư mục ```node_modules``` và tệp ```package-lock.json```:
+```bash
+$ sudo rm -rf node_modules package-lock.json
+```
+> Tải lại dependencies và chạy lại npm
+```bash
+$ npm install
+$ npm start
 ```
 
 # pelias_parser
