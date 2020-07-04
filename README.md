@@ -7,7 +7,7 @@ $ sudo apt install nodejs
 # Usage
 > Giao diện dòng lệnh
 ```bash
-$ node bin/cli.js
+$ node bin/cli.js ADDRESS_TEXT
 ```
 > Giao diện web browser
 ```bash
