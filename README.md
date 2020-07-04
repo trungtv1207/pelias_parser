@@ -4,6 +4,15 @@
 $ sudo apt update
 $ sudo apt install nodejs
 ```
+# Usage
+> Giao diện dòng lệnh
+```bash
+$ node bin/cli.js
+```
+> Giao diện web browser
+```bash
+$ node server/http.js
+```
 
 # pelias_parser
 
