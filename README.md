@@ -1,3 +1,10 @@
+# installation
+> NodeJs
+```bash
+$ sudo apt update
+$ sudo apt install nodejs
+```
+
 # pelias_parser
 
 - data files imported:
