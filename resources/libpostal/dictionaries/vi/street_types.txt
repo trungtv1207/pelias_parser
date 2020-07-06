@@ -5,3 +5,6 @@ quốc lộ|quoc lo|ql|q l
 tỉnh lộ|tinh lo|tl|t l
 đường|duong
 phố|pho
+ngõ|ngo
+ngách|ngach
+hẻm|hem

@@ -31,6 +31,15 @@ $ npm start
     - ../resources/whosonfirst/dictionaries/county/name:vie_x_preferred.txt
     - ../resources/whosonfirst/dictionaries/locality/name:vie_x_preferred.txt
     - ../resources/whosonfirst/dictionaries/region/name:vie_x_preferred.txt
+
+    - ../resources/whosonfirst/dictionaries/county/name:vie_x_preferred_prefix.txt
+    - ../resources/whosonfirst/dictionaries/locality/name:vie_x_preferred_prefix.txt
+    - ../resources/whosonfirst/dictionaries/region/name:vie_x_preferred_prefix.txt
+    
+    - ../resources/whosonfirst/dictionaries/county/name:vie_x_preferred_NFD.txt
+    - ../resources/whosonfirst/dictionaries/locality/name:vie_x_preferred_NFD.txt
+    - ../resources/whosonfirst/dictionaries/region/name:vie_x_preferred_NFD.txt
+
     - ../resources/whosonfirst/dictionaries/street/
 
 - code files imported:
