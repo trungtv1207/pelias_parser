@@ -13,6 +13,7 @@ const normalize = require('../tokenization/normalizer')({ lowercase: true, remov
 // see: https://whosonfirst.org
 
 // note: these should be defined from most granular to least granular
+// QuyenPD thêm các file từ điển
 const placetypes = {
   'locality': {
     files: ['name:eng_x_preferred.txt', 'name:fra_x_preferred.txt', 'name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt', 'name:vie_x_preferred_prefix.txt'],
@@ -39,6 +40,7 @@ const placetypes = {
     classifications: [AreaClassification, StreetClassification]
   }
 }
+// QuyenPD wrapped - Khu vực chỉnh sửa
 
 class WhosOnFirstClassifier extends PhraseClassifier {
   setup () {

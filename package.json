@@ -49,7 +49,7 @@
   },
   "pre-commit": [
     "format_check",
-    "lint",
+   # "lint",
     "validate",
     "test"
   ],

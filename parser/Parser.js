@@ -60,7 +60,7 @@ class Parser {
         a: (areas.a.length ? areas.a[0].classification.constructor.name : ''),
         b: (areas.b.length ? areas.b[0].classification.constructor.name : '')
       }
-
+      // QuyenPD thêm 2 dòng có CountyClassification
       if (classification.a === 'LocalityClassification') { return -1 }
       if (classification.b === 'LocalityClassification') { return +1 }
       if (classification.a === 'CountyClassification') { return -1 }

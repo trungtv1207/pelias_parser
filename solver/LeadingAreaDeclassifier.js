@@ -5,7 +5,7 @@
 const NETURAL_CLASSIFICATIONS = [
   'PostcodeClassification'
 ]
-
+// QuyenPD thêm 'CountyClassification'
 const ADMIN_CLASSIFICATIONS = [
   'LocalityClassification',
   'RegionClassification',
