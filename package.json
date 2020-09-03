@@ -19,8 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pelias/parser.git"
+    "url": "https://github.com/WEMAP-Project/pelias_parser.git"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@trungtv98" },
   "keywords": [
     "pelias",
     "parser"
@@ -49,7 +50,7 @@
   },
   "pre-commit": [
     "format_check",
-   # "lint",
+    "lint",
     "validate",
     "test"
   ],

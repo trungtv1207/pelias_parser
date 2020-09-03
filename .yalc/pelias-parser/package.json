@@ -1,0 +1,49 @@
+{
+  "name": "pelias-parser",
+  "version": "0.0.0-development+96999e17",
+  "author": "pelias",
+  "description": "Pelias parsing library",
+  "homepage": "https://github.com/pelias/parser",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "units": "./bin/test unit",
+    "funcs": "./bin/test func",
+    "format_check": "./node_modules/standard/bin/cmd.js",
+    "format_fix": "./node_modules/standard/bin/cmd.js --fix",
+    "server": "node ./server/http.js",
+    "test": "./bin/test",
+    "travis": "./bin/test",
+    "lint": "jshint .",
+    "validate": "npm ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pelias/parser.git"
+  },
+  "keywords": [
+    "pelias",
+    "parser"
+  ],
+  "bugs": {
+    "url": "https://github.com/pelias/parser/issues"
+  },
+  "engines": {
+    "node": ">= 8.0.0"
+  },
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.16.4",
+    "remove-accents": "^0.4.2"
+  },
+  "pre-commit": [
+    "format_check",
+    "lint",
+    "validate",
+    "test"
+  ],
+  "release": {
+    "branch": "master",
+    "success": []
+  }
+}
