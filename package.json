@@ -1,7 +1,7 @@
 {
-  "name": "pelias-parser",
+  "name": "wemap-parser",
   "version": "0.0.0-development",
-  "author": "pelias",
+  "author": "truntv98",
   "description": "Pelias parsing library",
   "homepage": "https://github.com/pelias/parser",
   "license": "MIT",
@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/WEMAP-Project/pelias_parser.git"
+    "url": "https://github.com/trungtv98/Pelias-Parser.git"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/@trungtv98" },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "keywords": [
     "pelias",
     "parser"
