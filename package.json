@@ -21,7 +21,9 @@
     "type": "git",
     "url": "https://github.com/trungtv98/Pelias-Parser.git"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@trungtv98"
+  },
   "keywords": [
     "pelias",
     "parser"
