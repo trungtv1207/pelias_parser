@@ -12,15 +12,20 @@ module.exports = function (req, res) {
   parser.classify(t)
   parser.solve(t)
 
-  // send json
-  res.status(200).json({
+  var response_data = {
     input: {
       body: t.span.body,
       start: t.span.start,
       end: t.span.end
     },
     solutions: t.solution.map(jsonify)
-  }.solutions[0].classifications)
+  }.solutions
+
+  if (response_data.length > 0){
+    res.status(200).json(response_data[0].classifications)
+  } else {
+    res.status(200).json(response_data)
+  }
 }
 
 function jsonify (solution) {
