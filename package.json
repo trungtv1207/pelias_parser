@@ -1,5 +1,5 @@
 {
-  "name": "wemap-parser",
+  "name": "pelias-parser",
   "version": "0.0.0-development",
   "author": "truntv98",
   "description": "Pelias parsing library",
