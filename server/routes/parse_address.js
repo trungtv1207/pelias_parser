@@ -12,7 +12,7 @@ module.exports = function (req, res) {
   parser.classify(t)
   parser.solve(t)
 
-  var response_data = {
+  var response = {
     input: {
       body: t.span.body,
       start: t.span.start,
@@ -21,10 +21,10 @@ module.exports = function (req, res) {
     solutions: t.solution.map(jsonify)
   }.solutions
 
-  if (response_data.length > 0){
-    res.status(200).json(response_data[0].classifications)
+  if (response.length > 0){
+    res.status(200).json(response[0].classifications)
   } else {
-    res.status(200).json(response_data)
+    res.status(200).json(response)
   }
 }
 
