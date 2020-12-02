@@ -16,7 +16,7 @@ const normalize = require('../tokenization/normalizer')({ lowercase: true, remov
 // QuyenPD thêm các file từ điển
 const placetypes = {
   'locality': {
-    files: ['name:eng_x_preferred.txt', 'name:fra_x_preferred.txt', 'name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt', 'name:vie_x_preferred_prefix.txt', 'namevie_x_preferred_prefix_NFD.txt'],
+    files: ['name:eng_x_preferred.txt', 'name:fra_x_preferred.txt', 'name:vie_x_preferred.txt', 'name:vie_x_preferred_NFD.txt', 'name:vie_x_preferred_prefix.txt', 'name:vie_x_preferred_prefix_NFD.txt'],
     classifications: [AreaClassification, LocalityClassification]
   },
   'county': {
