@@ -26,7 +26,7 @@ const envCpus = parseInt(process.env.CPUS, 10)
 const cpus = Math.min(Math.max(envCpus || Infinity, 1), os.cpus().length)
 
 // optionally override port/host using env var
-const PORT = process.env.PORT || 3000
+const PORT = process.env.PORT || 8081
 const HOST = process.env.HOST || undefined
 const app = express()
 
