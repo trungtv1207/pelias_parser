@@ -4569,6 +4569,7 @@ Ngo 97 Nguyen Chi Thanh
 Ngo 107 Nguyen Chi Thanh
 Trung Yen 10a
 Ngo 22 - Trung Kinh
+Ngo 28 Chua Ha
 Chua Ha
 Ho Chi Minh - Trung Luong
 Vong xoay Nguyen Van Linh - Quoc lo 1A
